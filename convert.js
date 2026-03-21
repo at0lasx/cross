@@ -145,7 +145,7 @@ function convert(content, policy) {
     let rule = null;
     if (fmt === "ip") {
       if (isCIDR(raw)) {
-        rule = (raw.includes(":") ? "ip-cidr6" : "ip-cidr") + ", " + raw + ", " + policy + ", no-resolve";
+        rule = (raw.includes(":") ? "ip6-cidr" : "ip-cidr") + ", " + raw + ", " + policy + ", no-resolve";
       }
     } else {
       if (raw.startsWith("+.")) {
