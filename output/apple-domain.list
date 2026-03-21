@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.yaml
 # Policy: DIRECT
-# Updated: 2026-03-21T09:41:26.254Z
+# Updated: 2026-03-21T09:42:41.637Z
 # Total: 1783 rules
 host, ingest.apple-studies.com, DIRECT
 host, apple.com.akadns.net, DIRECT
