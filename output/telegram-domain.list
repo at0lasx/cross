@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.yaml
 # Policy: (none, use QX preference)
-# Updated: 2026-03-21T05:27:23.437Z
+# Updated: 2026-03-21T05:28:15.045Z
 # Total: 20 rules
 host-suffix, cdn-telegram.org
 host-suffix, comments.app

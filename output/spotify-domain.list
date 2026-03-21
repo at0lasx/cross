@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/spotify.yaml
 # Policy: (none, use QX preference)
-# Updated: 2026-03-21T05:27:23.344Z
+# Updated: 2026-03-21T05:28:14.954Z
 # Total: 26 rules
 host, audio-ak-spotify-com.akamaized.net
 host, audio4-ak-spotify-com.akamaized.net

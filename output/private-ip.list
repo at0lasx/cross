@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/private.yaml
 # Policy: (none, use QX preference)
-# Updated: 2026-03-21T05:27:23.770Z
+# Updated: 2026-03-21T05:28:16.202Z
 # Total: 18 rules
 ip-cidr, 0.0.0.0/8, no-resolve
 ip-cidr, 10.0.0.0/8, no-resolve

@@ -1,6 +1,6 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.yaml
 # Policy: (none, use QX preference)
-# Updated: 2026-03-21T05:27:23.715Z
+# Updated: 2026-03-21T05:28:16.094Z
 # Total: 1783 rules
 host, ingest.apple-studies.com
 host, apple.com.akadns.net
