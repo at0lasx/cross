@@ -1,30 +1,30 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/spotify.yaml
-# Policy: 
-# Updated: 2026-03-21T05:26:21.932Z
+# Policy: (none, use QX preference)
+# Updated: 2026-03-21T05:27:23.344Z
 # Total: 26 rules
-host, audio-ak-spotify-com.akamaized.net, 
-host, audio4-ak-spotify-com.akamaized.net, 
-host, cdn-spotify-experiments.conductrics.com, 
-host, heads-ak-spotify-com.akamaized.net, 
-host, heads4-ak-spotify-com.akamaized.net, 
-host, spotify.com.edgesuite.net, 
-host, spotify.map.fastly.net, 
-host, spotify.map.fastlylb.net, 
-host-suffix, byspotify.com, 
-host-suffix, pscdn.co, 
-host-suffix, scdn.co, 
-host-suffix, spoti.fi, 
-host-suffix, spotify-everywhere.com, 
-host-suffix, spotify.com, 
-host-suffix, spotify.design, 
-host-suffix, spotifycdn.com, 
-host-suffix, spotifycdn.net, 
-host-suffix, spotifycharts.com, 
-host-suffix, spotifycodes.com, 
-host-suffix, spotifyforbrands.com, 
-host-suffix, spotifyjobs.com, 
-host-suffix, spotify.link, 
-host-suffix, tospotify.com, 
-host, adeventtracker.spotify.com, 
-host, adstudio-assets.scdn.co, 
-host, bloodhound.spotify.com, 
+host, audio-ak-spotify-com.akamaized.net
+host, audio4-ak-spotify-com.akamaized.net
+host, cdn-spotify-experiments.conductrics.com
+host, heads-ak-spotify-com.akamaized.net
+host, heads4-ak-spotify-com.akamaized.net
+host, spotify.com.edgesuite.net
+host, spotify.map.fastly.net
+host, spotify.map.fastlylb.net
+host-suffix, byspotify.com
+host-suffix, pscdn.co
+host-suffix, scdn.co
+host-suffix, spoti.fi
+host-suffix, spotify-everywhere.com
+host-suffix, spotify.com
+host-suffix, spotify.design
+host-suffix, spotifycdn.com
+host-suffix, spotifycdn.net
+host-suffix, spotifycharts.com
+host-suffix, spotifycodes.com
+host-suffix, spotifyforbrands.com
+host-suffix, spotifyjobs.com
+host-suffix, spotify.link
+host-suffix, tospotify.com
+host, adeventtracker.spotify.com
+host, adstudio-assets.scdn.co
+host, bloodhound.spotify.com
