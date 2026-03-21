@@ -10,11 +10,8 @@ const path  = require("path");
 // ─── 在这里配置需要转换的规则 ────────────────────────────────────────
 const RULES = [
   {
-    // 输出文件名（保存到 output/ 目录）
     name:   "category-finance-domain.list",
-    // 源 yaml 地址
     url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-finance.yaml",
-    // 策略名
     policy: "DIRECT",
   },
   {
@@ -49,12 +46,27 @@ const RULES = [
   },
   {
     name:   "apple-domain.list",
-    url:    "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.yaml",
+    url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.yaml",
     policy: "DIRECT",
   },
   {
     name:   "category-ads-all-domain.list",
     url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads-all.yaml",
+    policy: "DIRECT",
+  },
+  {
+    name:   "cn-domain.list",
+    url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml",
+    policy: "DIRECT",
+  },
+  {
+    name:   "category-ai-!cn-domain.list",
+    url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-!cn.yaml",
+    policy: "DIRECT",
+  },
+  {
+    name:   "geolocation-!cn-domain.list",
+    url:    "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml",
     policy: "DIRECT",
   },
   {
@@ -65,11 +77,6 @@ const RULES = [
   {
     name:   "telegram-ip.list",
     url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/telegram.yaml",
-    policy: "DIRECT",
-  },
-  {
-    name:   "category-ai-!cn-domain.list",
-    url:    "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-!cn.yaml",
     policy: "DIRECT",
   },
   {
