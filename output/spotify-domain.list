@@ -1,30 +1,30 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/spotify.yaml
-# Policy: (none, use QX preference)
-# Updated: 2026-03-21T05:28:14.954Z
+# Policy: DIRECT
+# Updated: 2026-03-21T05:35:02.229Z
 # Total: 26 rules
-host, audio-ak-spotify-com.akamaized.net
-host, audio4-ak-spotify-com.akamaized.net
-host, cdn-spotify-experiments.conductrics.com
-host, heads-ak-spotify-com.akamaized.net
-host, heads4-ak-spotify-com.akamaized.net
-host, spotify.com.edgesuite.net
-host, spotify.map.fastly.net
-host, spotify.map.fastlylb.net
-host-suffix, byspotify.com
-host-suffix, pscdn.co
-host-suffix, scdn.co
-host-suffix, spoti.fi
-host-suffix, spotify-everywhere.com
-host-suffix, spotify.com
-host-suffix, spotify.design
-host-suffix, spotifycdn.com
-host-suffix, spotifycdn.net
-host-suffix, spotifycharts.com
-host-suffix, spotifycodes.com
-host-suffix, spotifyforbrands.com
-host-suffix, spotifyjobs.com
-host-suffix, spotify.link
-host-suffix, tospotify.com
-host, adeventtracker.spotify.com
-host, adstudio-assets.scdn.co
-host, bloodhound.spotify.com
+host, audio-ak-spotify-com.akamaized.net, DIRECT
+host, audio4-ak-spotify-com.akamaized.net, DIRECT
+host, cdn-spotify-experiments.conductrics.com, DIRECT
+host, heads-ak-spotify-com.akamaized.net, DIRECT
+host, heads4-ak-spotify-com.akamaized.net, DIRECT
+host, spotify.com.edgesuite.net, DIRECT
+host, spotify.map.fastly.net, DIRECT
+host, spotify.map.fastlylb.net, DIRECT
+host-suffix, byspotify.com, DIRECT
+host-suffix, pscdn.co, DIRECT
+host-suffix, scdn.co, DIRECT
+host-suffix, spoti.fi, DIRECT
+host-suffix, spotify-everywhere.com, DIRECT
+host-suffix, spotify.com, DIRECT
+host-suffix, spotify.design, DIRECT
+host-suffix, spotifycdn.com, DIRECT
+host-suffix, spotifycdn.net, DIRECT
+host-suffix, spotifycharts.com, DIRECT
+host-suffix, spotifycodes.com, DIRECT
+host-suffix, spotifyforbrands.com, DIRECT
+host-suffix, spotifyjobs.com, DIRECT
+host-suffix, spotify.link, DIRECT
+host-suffix, tospotify.com, DIRECT
+host, adeventtracker.spotify.com, DIRECT
+host, adstudio-assets.scdn.co, DIRECT
+host, bloodhound.spotify.com, DIRECT

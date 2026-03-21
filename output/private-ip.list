@@ -1,22 +1,22 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/private.yaml
-# Policy: (none, use QX preference)
-# Updated: 2026-03-21T05:28:16.202Z
+# Policy: DIRECT
+# Updated: 2026-03-21T05:35:04.048Z
 # Total: 18 rules
-ip-cidr, 0.0.0.0/8, no-resolve
-ip-cidr, 10.0.0.0/8, no-resolve
-ip-cidr, 100.64.0.0/10, no-resolve
-ip-cidr, 127.0.0.0/8, no-resolve
-ip-cidr, 169.254.0.0/16, no-resolve
-ip-cidr, 172.16.0.0/12, no-resolve
-ip-cidr, 192.0.0.0/24, no-resolve
-ip-cidr, 192.0.2.0/24, no-resolve
-ip-cidr, 192.88.99.0/24, no-resolve
-ip-cidr, 192.168.0.0/16, no-resolve
-ip-cidr, 198.18.0.0/15, no-resolve
-ip-cidr, 198.51.100.0/24, no-resolve
-ip-cidr, 203.0.113.0/24, no-resolve
-ip-cidr, 224.0.0.0/3, no-resolve
-ip-cidr6, ::/127, no-resolve
-ip-cidr6, fc00::/7, no-resolve
-ip-cidr6, fe80::/10, no-resolve
-ip-cidr6, ff00::/8, no-resolve
+ip-cidr, 0.0.0.0/8, DIRECT, no-resolve
+ip-cidr, 10.0.0.0/8, DIRECT, no-resolve
+ip-cidr, 100.64.0.0/10, DIRECT, no-resolve
+ip-cidr, 127.0.0.0/8, DIRECT, no-resolve
+ip-cidr, 169.254.0.0/16, DIRECT, no-resolve
+ip-cidr, 172.16.0.0/12, DIRECT, no-resolve
+ip-cidr, 192.0.0.0/24, DIRECT, no-resolve
+ip-cidr, 192.0.2.0/24, DIRECT, no-resolve
+ip-cidr, 192.88.99.0/24, DIRECT, no-resolve
+ip-cidr, 192.168.0.0/16, DIRECT, no-resolve
+ip-cidr, 198.18.0.0/15, DIRECT, no-resolve
+ip-cidr, 198.51.100.0/24, DIRECT, no-resolve
+ip-cidr, 203.0.113.0/24, DIRECT, no-resolve
+ip-cidr, 224.0.0.0/3, DIRECT, no-resolve
+ip-cidr6, ::/127, DIRECT, no-resolve
+ip-cidr6, fc00::/7, DIRECT, no-resolve
+ip-cidr6, fe80::/10, DIRECT, no-resolve
+ip-cidr6, ff00::/8, DIRECT, no-resolve

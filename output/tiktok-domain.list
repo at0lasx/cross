@@ -1,41 +1,41 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.yaml
-# Policy: (none, use QX preference)
-# Updated: 2026-03-21T05:28:15.019Z
+# Policy: DIRECT
+# Updated: 2026-03-21T05:35:02.437Z
 # Total: 37 rules
-host-suffix, bytedapm.com
-host-suffix, byteoversea.com
-host-suffix, muscdn.com
-host-suffix, musical.ly
-host-suffix, tik-tokapi.com
-host-suffix, tiktok-minis.com
-host-suffix, tiktok-row.net
-host-suffix, tiktok.com
-host-suffix, tiktokcdn-eu.com
-host-suffix, tiktokcdn-us.com
-host-suffix, tiktokcdn.com
-host-suffix, tiktokd.net
-host-suffix, tiktokd.org
-host-suffix, tiktokeu-cdn.com
-host-suffix, tiktokglobalshopv.com
-host-suffix, tiktokminis.us
-host-suffix, tiktokrow-cdn.com
-host-suffix, tiktokv.com
-host-suffix, tiktokv.eu
-host-suffix, tiktokv.us
-host-suffix, tiktokw.eu
-host-suffix, tiktokw.us
-host-suffix, ttcdn-us.com
-host-suffix, ttlivecdn.com
-host-suffix, ttoverseaus.net
-host-suffix, ttwstatic.com
-host-suffix, tiktokcdn-us.com.edgesuite.net
-host-suffix, tiktokcdn.com.akamaized.net
-host-suffix, tiktokcdn.com.edgesuite.net
-host-suffix, tiktokv.com.edgekey.net
-host-suffix, tiktokv.com.edgesuite.net
-host, p16-tiktokcdn-com.akamaized.net
-host, roovza-launches.appsflyersdk.com
-host, roovza.inapps.appsflyersdk.com
-host, roovza.launches.appsflyersdk.com
-host, roovza.skadsdk.appsflyersdk.com
-host-suffix, analytics.tiktok.com
+host-suffix, bytedapm.com, DIRECT
+host-suffix, byteoversea.com, DIRECT
+host-suffix, muscdn.com, DIRECT
+host-suffix, musical.ly, DIRECT
+host-suffix, tik-tokapi.com, DIRECT
+host-suffix, tiktok-minis.com, DIRECT
+host-suffix, tiktok-row.net, DIRECT
+host-suffix, tiktok.com, DIRECT
+host-suffix, tiktokcdn-eu.com, DIRECT
+host-suffix, tiktokcdn-us.com, DIRECT
+host-suffix, tiktokcdn.com, DIRECT
+host-suffix, tiktokd.net, DIRECT
+host-suffix, tiktokd.org, DIRECT
+host-suffix, tiktokeu-cdn.com, DIRECT
+host-suffix, tiktokglobalshopv.com, DIRECT
+host-suffix, tiktokminis.us, DIRECT
+host-suffix, tiktokrow-cdn.com, DIRECT
+host-suffix, tiktokv.com, DIRECT
+host-suffix, tiktokv.eu, DIRECT
+host-suffix, tiktokv.us, DIRECT
+host-suffix, tiktokw.eu, DIRECT
+host-suffix, tiktokw.us, DIRECT
+host-suffix, ttcdn-us.com, DIRECT
+host-suffix, ttlivecdn.com, DIRECT
+host-suffix, ttoverseaus.net, DIRECT
+host-suffix, ttwstatic.com, DIRECT
+host-suffix, tiktokcdn-us.com.edgesuite.net, DIRECT
+host-suffix, tiktokcdn.com.akamaized.net, DIRECT
+host-suffix, tiktokcdn.com.edgesuite.net, DIRECT
+host-suffix, tiktokv.com.edgekey.net, DIRECT
+host-suffix, tiktokv.com.edgesuite.net, DIRECT
+host, p16-tiktokcdn-com.akamaized.net, DIRECT
+host, roovza-launches.appsflyersdk.com, DIRECT
+host, roovza.inapps.appsflyersdk.com, DIRECT
+host, roovza.launches.appsflyersdk.com, DIRECT
+host, roovza.skadsdk.appsflyersdk.com, DIRECT
+host-suffix, analytics.tiktok.com, DIRECT
