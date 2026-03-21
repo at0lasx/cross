@@ -15,62 +15,62 @@ const RULES = [
     // 源 yaml 地址
     url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-finance.yaml",
     // 策略名
-    policy: "",
+    policy: "DIRECT",
   },
   {
     name:   "spotify-domain.list",
     url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/spotify.yaml",
-    policy: "",
+    policy: "DIRECT",
   },
   {
     name:   "category-entertainment-domain.list",
     url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-entertainment.yaml",
-    policy: "",
+    policy: "DIRECT",
   },
   {
     name:   "tiktok-domain.list",
     url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.yaml",
-    policy: "",
+    policy: "DIRECT",
   },
   {
     name:   "telegram-domain.list",
     url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.yaml",
-    policy: "",
+    policy: "DIRECT",
   },
   {
     name:   "category-voip-domain.list",
     url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-voip.mrs",
-    policy: "",
+    policy: "DIRECT",
   },
   {
     name:   "google-domain.list",
     url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.yaml",
-    policy: "",
+    policy: "DIRECT",
   },
   {
     name:   "apple-domain.list",
     url:    "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.yaml",
-    policy: "",
+    policy: "DIRECT",
   },
   {
     name:   "category-ads-all-domain.list",
     url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads-all.yaml",
-    policy: "",
+    policy: "DIRECT",
   },
   {
     name:   "private-domain.list",
     url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.yaml",
-    policy: "",
+    policy: "DIRECT",
   },
   {
     name:   "telegram-ip.list",
     url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/telegram.yaml",
-    policy: "",
+    policy: "DIRECT",
   },
   {
     name:   "private-ip.list",
     url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/private.yaml",
-    policy: "",
+    policy: "DIRECT",
   }
 ];
 // ─────────────────────────────────────────────────────────────────────
@@ -90,12 +90,12 @@ function fetch(url) {
     get(url);
   });
 }
- 
+
 function isComment(line) {
   const t = line.trim();
   return !t || t[0] === "#" || t.startsWith("//") || t[0] === ";";
 }
- 
+
 function cleanLine(line) {
   line = line.trim();
   if (line[0] === "-") line = line.slice(1).trim();
@@ -109,12 +109,12 @@ function cleanLine(line) {
   }
   return line.trim();
 }
- 
+
 function isCIDR(s) {
   const sl = s.lastIndexOf("/");
   return sl !== -1 && !isNaN(parseInt(s.slice(sl + 1), 10));
 }
- 
+
 function detectFormat(lines) {
   let n = 0;
   for (const line of lines) {
@@ -126,48 +126,38 @@ function detectFormat(lines) {
   }
   return "domain";
 }
- 
-function buildRule(type, value, policy) {
-  // 严格不加末尾逗号：有 policy 才追加
-  if (policy) return `${type}, ${value}, ${policy}`;
-  return `${type}, ${value}`;
-}
- 
+
 function convert(content, policy) {
   const lines  = content.split("\n");
   const fmt    = detectFormat(lines);
   const result = [];
- 
+
   for (const line of lines) {
     if (isComment(line)) continue;
     const raw = cleanLine(line);
     if (!raw || /^payload\s*:/i.test(raw)) continue;
- 
+
     let rule = null;
     if (fmt === "ip") {
       if (isCIDR(raw)) {
-        const type = raw.includes(":") ? "ip-cidr6" : "ip-cidr";
-        // no-resolve 在 policy 之后，无 policy 时直接跟 value
-        rule = policy
-          ? `${type}, ${raw}, ${policy}, no-resolve`
-          : `${type}, ${raw}, no-resolve`;
+        rule = (raw.includes(":") ? "ip-cidr6" : "ip-cidr") + ", " + raw + ", " + policy + ", no-resolve";
       }
     } else {
       if (raw.startsWith("+.")) {
         const d = raw.slice(2);
-        if (d) rule = buildRule("host-suffix", d, policy);
+        if (d) rule = "host-suffix, " + d + ", " + policy;
       } else if (!raw.includes(",") && !raw.includes(" ")) {
-        rule = buildRule("host", raw, policy);
+        rule = "host, " + raw + ", " + policy;
       }
     }
     if (rule) result.push(rule);
   }
   return result;
 }
- 
+
 async function main() {
   fs.mkdirSync("output", { recursive: true });
- 
+
   for (const rule of RULES) {
     console.log(`Converting: ${rule.name} ...`);
     try {
@@ -175,15 +165,12 @@ async function main() {
       const lines   = convert(content, rule.policy);
       const header  = [
         `# Generated from: ${rule.url}`,
-        `# Policy: ${rule.policy || "(none, use QX preference)"}`,
+        `# Policy: ${rule.policy}`,
         `# Updated: ${new Date().toISOString()}`,
         `# Total: ${lines.length} rules`,
         "",
       ].join("\n");
-      fs.writeFileSync(
-        path.join("output", rule.name),
-        header + lines.join("\n") + "\n"
-      );
+      fs.writeFileSync(path.join("output", rule.name), header + lines.join("\n") + "\n");
       console.log(`  → ${lines.length} rules written to output/${rule.name}`);
     } catch (e) {
       console.error(`  ✗ Failed: ${e.message}`);
@@ -191,5 +178,5 @@ async function main() {
     }
   }
 }
- 
+
 main();
