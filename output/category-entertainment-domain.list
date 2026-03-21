@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-entertainment.yaml
 # Policy: DIRECT
-# Updated: 2026-03-21T09:42:41.574Z
+# Updated: 2026-03-21T09:42:59.204Z
 # Total: 1821 rules
 host, gamer2-cds.cdn.hinet.net, DIRECT
 host, gamer-cds.cdn.hinet.net, DIRECT
