@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.yaml
 # Policy: 
-# Updated: 2026-03-21T05:17:03.592Z
+# Updated: 2026-03-21T05:17:40.496Z
 # Total: 129 rules
 host, instant.arubanetworks.com, 
 host, setmeup.arubanetworks.com, 
