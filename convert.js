@@ -39,7 +39,7 @@ const RULES = [
   },
   {
     name:   "category-voip-domain.list",
-    url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-voip.mrs",
+    url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-voip.yaml",
     policy: "DIRECT",
   },
   {
@@ -65,6 +65,11 @@ const RULES = [
   {
     name:   "telegram-ip.list",
     url:    "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/telegram.yaml",
+    policy: "DIRECT",
+  },
+  {
+    name:   "category-ai-!cn-domain.list",
+    url:    "https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-!cn.yaml",
     policy: "DIRECT",
   },
   {
