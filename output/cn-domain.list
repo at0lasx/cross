@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-03-21T09:42:59.929Z
-# Total: 118132 rules
+# Updated: 2026-03-22T05:11:57.716Z
+# Total: 118129 rules
 host-suffix, alibaba, DIRECT
 host-suffix, xn--zfr164b, DIRECT
 host-suffix, xn--xhq521b, DIRECT
@@ -47,8 +47,8 @@ host-suffix, cn, DIRECT
 host-suffix, citic, DIRECT
 host-suffix, baidu, DIRECT
 host-suffix, alipay, DIRECT
-host-suffix, jsjinfu.com, DIRECT
-host-suffix, gtlggy.com, DIRECT
+host-suffix, jsjinqi.com, DIRECT
+host-suffix, hkm168.com, DIRECT
 host-suffix, 0270.cc, DIRECT
 host-suffix, 027119.xin, DIRECT
 host-suffix, 02712122.com, DIRECT
@@ -861,7 +861,7 @@ host-suffix, 0d3lnlkylu.xin, DIRECT
 host-suffix, 0daily.com, DIRECT
 host-suffix, 0day.xin, DIRECT
 host-suffix, 0ddvic16247.xin, DIRECT
-host-suffix, 0de41y26132.xin, DIRECT
+host-suffix, jsstt.com, DIRECT
 host-suffix, 0dian8.org, DIRECT
 host-suffix, 0dm.com, DIRECT
 host-suffix, 0dmhu412466.xin, DIRECT
@@ -34253,13 +34253,11 @@ host-suffix, esou.biz, DIRECT
 host-suffix, esoua.com, DIRECT
 host-suffix, esound.vip, DIRECT
 host-suffix, esouou.com, DIRECT
-host-suffix, esp8266.com, DIRECT
 host-suffix, espeedpost.com, DIRECT
 host-suffix, esplus.club, DIRECT
 host-suffix, espnlol.com, DIRECT
 host-suffix, esports-console.com, DIRECT
 host-suffix, esportsreg.com, DIRECT
-host-suffix, espressif.com, DIRECT
 host-suffix, esr.com, DIRECT
 host-suffix, essaystar.com, DIRECT
 host-suffix, essca.com, DIRECT
@@ -35116,7 +35114,7 @@ host-suffix, fangjinsuo.com, DIRECT
 host-suffix, fangkeduo.net, DIRECT
 host-suffix, fangkewang.com, DIRECT
 host-suffix, fangko.com, DIRECT
-host-suffix, jsstt.com, DIRECT
+host-suffix, fangkuai.com, DIRECT
 host-suffix, fangkuai.link, DIRECT
 host-suffix, fangkuaiwang.com, DIRECT
 host-suffix, fangkuaiyi.com, DIRECT
@@ -41754,7 +41752,7 @@ host-suffix, gtjt.com, DIRECT
 host-suffix, gtk-china.com, DIRECT
 host-suffix, gtkj.tech, DIRECT
 host-suffix, gtkl.net, DIRECT
-host-suffix, jsstgs.com, DIRECT
+host-suffix, gtlggy.com, DIRECT
 host-suffix, gtlrxt.com, DIRECT
 host-suffix, gtm-a1b2.com, DIRECT
 host-suffix, gtm-a1b3.com, DIRECT
@@ -48417,7 +48415,7 @@ host-suffix, hklego.com, DIRECT
 host-suffix, hklmoto.com, DIRECT
 host-suffix, hklmxcx.com, DIRECT
 host-suffix, hklsqc.com, DIRECT
-host-suffix, hkm168.com, DIRECT
+host-suffix, jsstgs.com, DIRECT
 host-suffix, hkmedtime.com, DIRECT
 host-suffix, hkmeinian.com, DIRECT
 host-suffix, hkmipo.com, DIRECT
@@ -58913,9 +58911,9 @@ host-suffix, jsjhtz.com, DIRECT
 host-suffix, jsjiami.com, DIRECT
 host-suffix, jsjianli.com, DIRECT
 host-suffix, jsjianye.net, DIRECT
-host-suffix, 0.zone, DIRECT
+host-suffix, jsjinfu.com, DIRECT
 host-suffix, jsjinghui.com, DIRECT
-host-suffix, jsjinqi.com, DIRECT
+host-suffix, 0.zone, DIRECT
 host-suffix, jsjiuda.com, DIRECT
 host-suffix, jsjj120.com, DIRECT
 host-suffix, jsjjedu.com, DIRECT
@@ -59089,9 +59087,9 @@ host-suffix, jssoar.com, DIRECT
 host-suffix, jssqwx.com, DIRECT
 host-suffix, jsssha.com, DIRECT
 host-suffix, jsssrj.com, DIRECT
-host-suffix, okayapi.com, DIRECT
+host-suffix, wangxie.org, DIRECT
 host-suffix, 026idc.com, DIRECT
-host-suffix, fangkuai.com, DIRECT
+host-suffix, 0de41y26132.xin, DIRECT
 host-suffix, jsstyt.com, DIRECT
 host-suffix, jssunhui.com, DIRECT
 host-suffix, jssunlord.com, DIRECT
@@ -74754,7 +74752,7 @@ host-suffix, okada-china.com, DIRECT
 host-suffix, okadwin.com, DIRECT
 host-suffix, okair.net, DIRECT
 host-suffix, okaoyan.com, DIRECT
-host-suffix, jsssy.com, DIRECT
+host-suffix, okayapi.com, DIRECT
 host-suffix, okaybio.com, DIRECT
 host-suffix, okbao.com, DIRECT
 host-suffix, okbase.net, DIRECT
@@ -74785,7 +74783,6 @@ host-suffix, okk123.com, DIRECT
 host-suffix, okki.com, DIRECT
 host-suffix, okktee.com, DIRECT
 host-suffix, oklaapp.com, DIRECT
-host-suffix, oklink.com, DIRECT
 host-suffix, oklinklink.com, DIRECT
 host-suffix, oklpoi.com, DIRECT
 host-suffix, okmao.com, DIRECT
@@ -99242,7 +99239,7 @@ host-suffix, wangxianyuan.com, DIRECT
 host-suffix, wangxiao.net, DIRECT
 host-suffix, wangxiaobao.cc, DIRECT
 host-suffix, wangxiaobao.com, DIRECT
-host-suffix, wangxie.org, DIRECT
+host-suffix, jsssy.com, DIRECT
 host-suffix, wangxing.com, DIRECT
 host-suffix, wangxingcs.com, DIRECT
 host-suffix, wangxinhao.com, DIRECT
