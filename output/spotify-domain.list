@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/spotify.yaml
 # Policy: DIRECT
-# Updated: 2026-03-26T05:50:51.492Z
+# Updated: 2026-03-27T05:51:22.182Z
 # Total: 26 rules
 host, audio-ak-spotify-com.akamaized.net, DIRECT
 host, audio4-ak-spotify-com.akamaized.net, DIRECT
