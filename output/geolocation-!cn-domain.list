@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-04-08T01:11:55.271Z
-# Total: 25425 rules
+# Updated: 2026-04-09T01:01:58.114Z
+# Total: 25423 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -739,8 +739,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, riseup.net, DIRECT
-host-suffix, 0emm.com, DIRECT
+host-suffix, ritter.vg, DIRECT
+host-suffix, theindianleaks.com, DIRECT
 host-suffix, 12vpn.com, DIRECT
 host-suffix, 12vpn.net, DIRECT
 host-suffix, 1337x.gd, DIRECT
@@ -3567,7 +3567,7 @@ host-suffix, bbestmall.com, DIRECT
 host-suffix, bbg.gov, DIRECT
 host-suffix, bbgevent.com, DIRECT
 host-suffix, bbgwatch.com, DIRECT
-host-suffix, bbhub.io, DIRECT
+host-suffix, 123-hp.com, DIRECT
 host-suffix, bbqm1.xyz, DIRECT
 host-suffix, youtube.pr, DIRECT
 host-suffix, youtube.pl, DIRECT
@@ -6996,7 +6996,7 @@ host-suffix, dettol.ch, DIRECT
 host-suffix, dettol.cl, DIRECT
 host-suffix, yahoo.am, DIRECT
 host-suffix, yahoo.ae, DIRECT
-host-suffix, java.com, DIRECT
+host-suffix, 0emm.com, DIRECT
 host-suffix, yaeby.pro, DIRECT
 host-suffix, yaeby.info, DIRECT
 host-suffix, dettol.com, DIRECT
@@ -7556,7 +7556,7 @@ host-suffix, dremonsterbeatsoutlets.com, DIRECT
 host-suffix, dreprobeats.com, DIRECT
 host-suffix, dreprofy.com, DIRECT
 host-suffix, drgan.net, DIRECT
-host-suffix, dribbble.com, DIRECT
+host-suffix, java.net, DIRECT
 host-suffix, driverxxx.com, DIRECT
 host-suffix, drivevideo.xyz, DIRECT
 host-suffix, xxxpornotuber.com, DIRECT
@@ -11627,7 +11627,7 @@ host-suffix, hpgraphicspartners.com, DIRECT
 host-suffix, hpiie.org, DIRECT
 host-suffix, hpinc.info, DIRECT
 host-suffix, hpinc.net, DIRECT
-host-suffix, java.net, DIRECT
+host-suffix, hpindigopress.com, DIRECT
 host-suffix, hpinkjet.com, DIRECT
 host-suffix, hpinstantink.ca, DIRECT
 host-suffix, hpinstantink.com, DIRECT
@@ -13081,9 +13081,9 @@ host-suffix, jav4you.org, DIRECT
 host-suffix, jav789.com, DIRECT
 host-suffix, jav889.xyz, DIRECT
 host-suffix, jav9999.com, DIRECT
-host-suffix, shemaletubevideos.com, DIRECT
+host-suffix, bbhub.io, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
-host-suffix, hpindigopress.com, DIRECT
+host-suffix, dribbble.com, DIRECT
 host-suffix, javakiba.org, DIRECT
 host-suffix, javbabe.net, DIRECT
 host-suffix, javbangers.com, DIRECT
@@ -14817,7 +14817,6 @@ host-suffix, meetandfuck.games, DIRECT
 host-suffix, meetandfuckgames.com, DIRECT
 host-suffix, meetfasttrack.com, DIRECT
 host-suffix, meetsmartbook.com, DIRECT
-host-suffix, meetup.com, DIRECT
 host-suffix, meetyourdevices.com, DIRECT
 host-suffix, windowsuem.com, DIRECT
 host-suffix, mega.io, DIRECT
@@ -18727,7 +18726,6 @@ host-suffix, pyrobot.org, DIRECT
 host-suffix, wanderinghorse.net, DIRECT
 host-suffix, python.org, DIRECT
 host-suffix, pythonhosted.org, DIRECT
-host-suffix, pytorch.org, DIRECT
 host-suffix, pzforever.skin, DIRECT
 host-suffix, pzforever01.homes, DIRECT
 host-suffix, pzhanfor.today, DIRECT
@@ -19235,9 +19233,9 @@ host-suffix, riotgames.tv, DIRECT
 host-suffix, riotpin.com, DIRECT
 host-suffix, riotpoints.com, DIRECT
 host-suffix, ripple.com, DIRECT
-host-suffix, 000webhost.com, DIRECT
+host-suffix, riseup.net, DIRECT
 host-suffix, risextube.com, DIRECT
-host-suffix, ritter.vg, DIRECT
+host-suffix, 000webhost.com, DIRECT
 host-suffix, rixcloud.com, DIRECT
 host-suffix, rixcloud.us, DIRECT
 host-suffix, rjgsp.buzz, DIRECT
@@ -20013,7 +20011,7 @@ host-suffix, shemalestardb.com, DIRECT
 host-suffix, shemalestube.com, DIRECT
 host-suffix, shemaletrannypics.com, DIRECT
 host-suffix, shemaletube.pro, DIRECT
-host-suffix, 123-hp.com, DIRECT
+host-suffix, shemaletubevideos.com, DIRECT
 host-suffix, shemalez.com, DIRECT
 host-suffix, shenshi-cha.com, DIRECT
 host-suffix, shenyun.com, DIRECT
@@ -21543,7 +21541,7 @@ host-suffix, thehentaiworld.com, DIRECT
 host-suffix, thehindu.com, DIRECT
 host-suffix, thehulubraintrust.com, DIRECT
 host-suffix, thehun.net, DIRECT
-host-suffix, theindianleaks.com, DIRECT
+host-suffix, java.com, DIRECT
 host-suffix, theinitium.com, DIRECT
 host-suffix, theinstagramhack.com, DIRECT
 host-suffix, theintelstore.com, DIRECT
