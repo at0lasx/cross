@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-04-09T01:01:57.023Z
+# Updated: 2026-04-10T01:12:08.968Z
 # Total: 118226 rules
 host-suffix, alibaba, DIRECT
 host-suffix, xn--zfr164b, DIRECT
@@ -47,10 +47,8 @@ host-suffix, cn, DIRECT
 host-suffix, citic, DIRECT
 host-suffix, baidu, DIRECT
 host-suffix, alipay, DIRECT
-host-suffix, jsjrtzjt.com, DIRECT
+host-suffix, jsjnsw.com, DIRECT
 host-suffix, my-summit.com, DIRECT
-host-suffix, 02766667777.com, DIRECT
-host-suffix, 0279.net, DIRECT
 host-suffix, 027965888.net, DIRECT
 host-suffix, 027accp.com, DIRECT
 host-suffix, 027aige.com, DIRECT
@@ -11752,7 +11750,7 @@ host-suffix, alianhome.com, DIRECT
 host-suffix, aliapp-inc.com, DIRECT
 host-suffix, aliapp.com, DIRECT
 host-suffix, aliappcdn.com, DIRECT
-host-suffix, 02712122.com, DIRECT
+host-suffix, 02766667777.com, DIRECT
 host-suffix, alibaba-inc.com, DIRECT
 host-suffix, alibaba.com, DIRECT
 host-suffix, alibaba.net, DIRECT
@@ -11861,7 +11859,7 @@ host-suffix, aliog.com, DIRECT
 host-suffix, alionexpo.com, DIRECT
 host-suffix, alipan.com, DIRECT
 host-suffix, alipansou.com, DIRECT
-host-suffix, 027119.xin, DIRECT
+host-suffix, 02727.com, DIRECT
 host-suffix, alipay-corp.com, DIRECT
 host-suffix, alipay-eco.com, DIRECT
 host-suffix, alipay-inc.com, DIRECT
@@ -14374,7 +14372,7 @@ host-suffix, baidevalve.com, DIRECT
 host-suffix, baideye.com, DIRECT
 host-suffix, baidiapp.com, DIRECT
 host-suffix, baidinet.com, DIRECT
-host-suffix, 0270.cc, DIRECT
+host-suffix, 02712122.com, DIRECT
 host-suffix, baidu-bank.com, DIRECT
 host-suffix, baidu-cdn.com, DIRECT
 host-suffix, baidu-cdn.net, DIRECT
@@ -23704,7 +23702,7 @@ host-suffix, citegalleries.com, DIRECT
 host-suffix, citexpo.org, DIRECT
 host-suffix, citgc.com, DIRECT
 host-suffix, citiais.com, DIRECT
-host-suffix, 026idc.com, DIRECT
+host-suffix, 027119.xin, DIRECT
 host-suffix, citic-wealth.com, DIRECT
 host-suffix, citic.com, DIRECT
 host-suffix, citicbank.com, DIRECT
@@ -24462,7 +24460,7 @@ host-suffix, cmzd.com, DIRECT
 host-suffix, cmzi.com, DIRECT
 host-suffix, cmzj.net, DIRECT
 host-suffix, cmzyk.com, DIRECT
-host-suffix, 026hao.com, DIRECT
+host-suffix, 0270.cc, DIRECT
 host-suffix, cn-5.com, DIRECT
 host-suffix, cn-833.org, DIRECT
 host-suffix, cn-ab.com, DIRECT
@@ -37456,6 +37454,8 @@ host-suffix, fulitec.com, DIRECT
 host-suffix, fuliti.com, DIRECT
 host-suffix, fuliw.net, DIRECT
 host-suffix, full-way.com, DIRECT
+host-suffix, 026idc.com, DIRECT
+host-suffix, 026hao.com, DIRECT
 host-suffix, 0264032a252fcf53.com, DIRECT
 host-suffix, 025zp.com, DIRECT
 host-suffix, 025xl.com, DIRECT
@@ -58958,9 +58958,9 @@ host-suffix, jsjky.com, DIRECT
 host-suffix, jsjkzx.com, DIRECT
 host-suffix, jsjljg.com, DIRECT
 host-suffix, jsjljy.com, DIRECT
-host-suffix, jsjnsw.com, DIRECT
-host-suffix, jsjnw.org, DIRECT
 host-suffix, 0.zone, DIRECT
+host-suffix, jsjnw.org, DIRECT
+host-suffix, jsjrtzjt.com, DIRECT
 host-suffix, jsjs.cc, DIRECT
 host-suffix, jsjs1982.com, DIRECT
 host-suffix, jsjsgroup.com, DIRECT
@@ -59138,7 +59138,7 @@ host-suffix, jssytc.com, DIRECT
 host-suffix, jssyyy.net, DIRECT
 host-suffix, jstcm.com, DIRECT
 host-suffix, veryim.com, DIRECT
-host-suffix, 02727.com, DIRECT
+host-suffix, 0279.net, DIRECT
 host-suffix, hosgs.com, DIRECT
 host-suffix, jstfdz.com, DIRECT
 host-suffix, jsthinktank.com, DIRECT
