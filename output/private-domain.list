@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.yaml
 # Policy: DIRECT
-# Updated: 2026-04-11T01:07:42.155Z
-# Total: 128 rules
+# Updated: 2026-04-12T01:16:44.612Z
+# Total: 130 rules
 host, instant.arubanetworks.com, DIRECT
 host, setmeup.arubanetworks.com, DIRECT
 host, asusrouter.com, DIRECT
@@ -13,6 +13,7 @@ host, www.routerlogin.com, DIRECT
 host, tplogin.cn, DIRECT
 host, miwifi.com, DIRECT
 host, www.miwifi.com, DIRECT
+host, local.adguard.org, DIRECT
 host-suffix, internal, DIRECT
 host-suffix, localdomain, DIRECT
 host-suffix, example, DIRECT
@@ -127,6 +128,7 @@ host-suffix, 8.e.f.ip6.arpa, DIRECT
 host-suffix, 113.0.203.in-addr.arpa, DIRECT
 host-suffix, 100.51.198.in-addr.arpa, DIRECT
 host-suffix, 2.0.192.in-addr.arpa, DIRECT
+host-suffix, kis.v2.scr.kaspersky-labs.com, DIRECT
 host-suffix, 255.255.255.255.in-addr.arpa, DIRECT
 host-suffix, 8.b.d.0.1.0.0.2.ip6.arpa, DIRECT
 host-suffix, 1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa, DIRECT
