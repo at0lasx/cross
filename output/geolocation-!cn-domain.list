@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-04-21T01:16:32.149Z
-# Total: 25964 rules
+# Updated: 2026-04-22T01:15:05.815Z
+# Total: 25965 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -743,8 +743,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, javplatform.com, DIRECT
-host-suffix, voxops.net, DIRECT
+host-suffix, javout.co, DIRECT
+host-suffix, willberis.ru, DIRECT
 host-suffix, 12vpn.com, DIRECT
 host-suffix, 12vpn.net, DIRECT
 host-suffix, 1337x.gd, DIRECT
@@ -1872,7 +1872,7 @@ host-suffix, ak1.net, DIRECT
 host-suffix, aka-ai.com, DIRECT
 host-suffix, aka-ai.net, DIRECT
 host-suffix, aka.ms, DIRECT
-host-suffix, akacrypto.net, DIRECT
+host-suffix, javtube.cc, DIRECT
 host-suffix, akadeem.net, DIRECT
 host-suffix, akademiye.org, DIRECT
 host-suffix, akadns.com, DIRECT
@@ -5175,7 +5175,7 @@ host-suffix, bullguard.com, DIRECT
 host-suffix, bullog.org, DIRECT
 host-suffix, bullogger.com, DIRECT
 host-suffix, bululusexdoll.com, DIRECT
-host-suffix, bumingbai.net, DIRECT
+host-suffix, javtrailers.com, DIRECT
 host-suffix, bumpshare.com, DIRECT
 host-suffix, bumptop.ca, DIRECT
 host-suffix, bumptop.com, DIRECT
@@ -12474,6 +12474,7 @@ host-suffix, impermium.com, DIRECT
 host-suffix, improd.works, DIRECT
 host-suffix, imstagram.com, DIRECT
 host-suffix, imtagram.com, DIRECT
+host-suffix, imtintl.com, DIRECT
 host-suffix, imzog.com, DIRECT
 host-suffix, inaporn.com, DIRECT
 host-suffix, inasian.club, DIRECT
@@ -13317,8 +13318,8 @@ host-suffix, javmuch.com, DIRECT
 host-suffix, javmulu.net, DIRECT
 host-suffix, javnew.net, DIRECT
 host-suffix, javopen.co, DIRECT
-host-suffix, javout.co, DIRECT
 host-suffix, 000webhost.com, DIRECT
+host-suffix, javplatform.com, DIRECT
 host-suffix, javpop.com, DIRECT
 host-suffix, javpop.link, DIRECT
 host-suffix, javporn.tech, DIRECT
@@ -13352,10 +13353,10 @@ host-suffix, javtasty.com, DIRECT
 host-suffix, javteg.net, DIRECT
 host-suffix, javtiful.com, DIRECT
 host-suffix, javtorrent.me, DIRECT
-host-suffix, javtrailers.com, DIRECT
-host-suffix, jetbrains.space, DIRECT
+host-suffix, bumingbai.net, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
-host-suffix, somee.com, DIRECT
+host-suffix, akacrypto.net, DIRECT
+host-suffix, javtube.com, DIRECT
 host-suffix, javtube.net, DIRECT
 host-suffix, javvideoporn.com, DIRECT
 host-suffix, javvids.com, DIRECT
@@ -13398,7 +13399,7 @@ host-suffix, jetbrains.ai, DIRECT
 host-suffix, jetbrains.cloud, DIRECT
 host-suffix, jetbrains.com, DIRECT
 host-suffix, jetbrains.net, DIRECT
-host-suffix, javtrust.com, DIRECT
+host-suffix, jetbrains.space, DIRECT
 host-suffix, jetbrains.team, DIRECT
 host-suffix, jetfuelapp.com, DIRECT
 host-suffix, jetfuelapps.com, DIRECT
@@ -15516,7 +15517,7 @@ host-suffix, miniso.by, DIRECT
 host-suffix, miniso.ca, DIRECT
 host-suffix, miniso.co, DIRECT
 host-suffix, willw.net, DIRECT
-host-suffix, willberis.ru, DIRECT
+host-suffix, javtrust.com, DIRECT
 host-suffix, miniso.com, DIRECT
 host-suffix, willberiess.ru, DIRECT
 host-suffix, wiliberes.ru, DIRECT
@@ -20754,7 +20755,7 @@ host-suffix, solscan.io, DIRECT
 host-suffix, solutionstation.com, DIRECT
 host-suffix, solv.finance, DIRECT
 host-suffix, solveforx.com, DIRECT
-host-suffix, javtube.com, DIRECT
+host-suffix, somee.com, DIRECT
 host-suffix, songjianjun.com, DIRECT
 host-suffix, sonorousporn.com, DIRECT
 host-suffix, 1024terabox.com, DIRECT
@@ -21336,7 +21337,7 @@ host-suffix, submityourflicks.com, DIRECT
 host-suffix, subscene.com, DIRECT
 host-suffix, substack.com, DIRECT
 host-suffix, successwithteams.com, DIRECT
-host-suffix, javtube.cc, DIRECT
+host-suffix, voxops.net, DIRECT
 host-suffix, sucksex.com, DIRECT
 host-suffix, sugarsync.com, DIRECT
 host-suffix, sugumiru18.com, DIRECT
