@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-04-22T01:15:05.815Z
-# Total: 25965 rules
+# Updated: 2026-04-23T01:20:20.149Z
+# Total: 25973 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -743,8 +743,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, javout.co, DIRECT
-host-suffix, willberis.ru, DIRECT
+host-suffix, javplatform.com, DIRECT
+host-suffix, autodeskinstant.com, DIRECT
 host-suffix, 12vpn.com, DIRECT
 host-suffix, 12vpn.net, DIRECT
 host-suffix, 1337x.gd, DIRECT
@@ -1872,7 +1872,7 @@ host-suffix, ak1.net, DIRECT
 host-suffix, aka-ai.com, DIRECT
 host-suffix, aka-ai.net, DIRECT
 host-suffix, aka.ms, DIRECT
-host-suffix, javtube.cc, DIRECT
+host-suffix, akacrypto.net, DIRECT
 host-suffix, akadeem.net, DIRECT
 host-suffix, akademiye.org, DIRECT
 host-suffix, akadns.com, DIRECT
@@ -2960,6 +2960,7 @@ host-suffix, asianthumbs.org, DIRECT
 host-suffix, asianwifeporn.com, DIRECT
 host-suffix, asianxxxvideos.cc, DIRECT
 host-suffix, asiaone.com, DIRECT
+host-suffix, asiasociety.org, DIRECT
 host-suffix, asjmapihost.cc, DIRECT
 host-suffix, ask.com, DIRECT
 host-suffix, askfacebook.net, DIRECT
@@ -3179,7 +3180,7 @@ host-suffix, autodeskhelp.com, DIRECT
 host-suffix, autodeskicpcouncil.com, DIRECT
 host-suffix, autodeskimpression.com, DIRECT
 host-suffix, autodeskinform.com, DIRECT
-host-suffix, autodeskinstant.com, DIRECT
+host-suffix, javtube.cc, DIRECT
 host-suffix, autodeskjournal.com, DIRECT
 host-suffix, autodesklearning.com, DIRECT
 host-suffix, autodesklistens.com, DIRECT
@@ -3942,6 +3943,7 @@ host-suffix, belamionline.com, DIRECT
 host-suffix, bell.wiki, DIRECT
 host-suffix, bellebound.com, DIRECT
 host-suffix, bellesa.co, DIRECT
+host-suffix, bellingcat.com, DIRECT
 host-suffix, bellotube.com, DIRECT
 host-suffix, bellsouth.net, DIRECT
 host-suffix, benaughty.fun, DIRECT
@@ -4909,7 +4911,7 @@ host-suffix, boodigogo.com, DIRECT
 host-suffix, youjizz.sex, DIRECT
 host-suffix, book18.org, DIRECT
 host-suffix, book4you.org, DIRECT
-host-suffix, bookbrainz.org, DIRECT
+host-suffix, javtrust.com, DIRECT
 host-suffix, bookclubcorner.com, DIRECT
 host-suffix, bookclubgirl.com, DIRECT
 host-suffix, bookdepository.com, DIRECT
@@ -5175,7 +5177,7 @@ host-suffix, bullguard.com, DIRECT
 host-suffix, bullog.org, DIRECT
 host-suffix, bullogger.com, DIRECT
 host-suffix, bululusexdoll.com, DIRECT
-host-suffix, javtrailers.com, DIRECT
+host-suffix, bumingbai.net, DIRECT
 host-suffix, bumpshare.com, DIRECT
 host-suffix, bumptop.ca, DIRECT
 host-suffix, bumptop.com, DIRECT
@@ -6489,6 +6491,7 @@ host-suffix, creatwhatsnext.com, DIRECT
 host-suffix, crececonebay.com, DIRECT
 host-suffix, creditcardsbay.com, DIRECT
 host-suffix, creditkarma.com, DIRECT
+host-suffix, crewai.com, DIRECT
 host-suffix, cricketcountry.com, DIRECT
 host-suffix, cristyli.com, DIRECT
 host-suffix, crit-staging.com, DIRECT
@@ -9132,7 +9135,7 @@ host-suffix, ffmpeg.org, DIRECT
 host-suffix, ffotolia.com, DIRECT
 host-suffix, ffprofile.com, DIRECT
 host-suffix, fgacebook.com, DIRECT
-host-suffix, fgirl.ch, DIRECT
+host-suffix, javtube.com, DIRECT
 host-suffix, fgmtv.org, DIRECT
 host-suffix, fhreports.net, DIRECT
 host-suffix, fi11.com, DIRECT
@@ -13318,8 +13321,8 @@ host-suffix, javmuch.com, DIRECT
 host-suffix, javmulu.net, DIRECT
 host-suffix, javnew.net, DIRECT
 host-suffix, javopen.co, DIRECT
+host-suffix, javout.co, DIRECT
 host-suffix, 000webhost.com, DIRECT
-host-suffix, javplatform.com, DIRECT
 host-suffix, javpop.com, DIRECT
 host-suffix, javpop.link, DIRECT
 host-suffix, javporn.tech, DIRECT
@@ -13353,10 +13356,10 @@ host-suffix, javtasty.com, DIRECT
 host-suffix, javteg.net, DIRECT
 host-suffix, javtiful.com, DIRECT
 host-suffix, javtorrent.me, DIRECT
-host-suffix, bumingbai.net, DIRECT
+host-suffix, javtrailers.com, DIRECT
+host-suffix, bookbrainz.org, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
-host-suffix, akacrypto.net, DIRECT
-host-suffix, javtube.com, DIRECT
+host-suffix, fgirl.ch, DIRECT
 host-suffix, javtube.net, DIRECT
 host-suffix, javvideoporn.com, DIRECT
 host-suffix, javvids.com, DIRECT
@@ -14005,6 +14008,7 @@ host-suffix, lamayeshe.com, DIRECT
 host-suffix, wpvip.com, DIRECT
 host-suffix, lanasbigboobs.com, DIRECT
 host-suffix, landofhope.tv, DIRECT
+host-suffix, langchain.com, DIRECT
 host-suffix, langsuirs.com, DIRECT
 host-suffix, lanik.us, DIRECT
 host-suffix, lanmdh.net, DIRECT
@@ -14311,6 +14315,7 @@ host-suffix, lmebooks.com, DIRECT
 host-suffix, lmm167.shop, DIRECT
 host-suffix, lmmbtc.com, DIRECT
 host-suffix, lms01.com, DIRECT
+host-suffix, lmstudio.ai, DIRECT
 host-suffix, lnkd.in, DIRECT
 host-suffix, lnstagram-help.com, DIRECT
 host-suffix, loanbuilder.com, DIRECT
@@ -15517,7 +15522,7 @@ host-suffix, miniso.by, DIRECT
 host-suffix, miniso.ca, DIRECT
 host-suffix, miniso.co, DIRECT
 host-suffix, willw.net, DIRECT
-host-suffix, javtrust.com, DIRECT
+host-suffix, willberis.ru, DIRECT
 host-suffix, miniso.com, DIRECT
 host-suffix, willberiess.ru, DIRECT
 host-suffix, wiliberes.ru, DIRECT
@@ -17280,6 +17285,7 @@ host-suffix, olevod.io, DIRECT
 host-suffix, olevod.tv, DIRECT
 host-suffix, olevodtv.com, DIRECT
 host-suffix, oli-school.com, DIRECT
+host-suffix, ollama.com, DIRECT
 host-suffix, olumpo.com, DIRECT
 host-suffix, omafotze.com, DIRECT
 host-suffix, omakase.in, DIRECT
@@ -19212,6 +19218,7 @@ host-suffix, ravm.tv, DIRECT
 host-suffix, waymo.com, DIRECT
 host-suffix, rawgit.com, DIRECT
 host-suffix, rawgithub.com, DIRECT
+host-suffix, rawstory.com, DIRECT
 host-suffix, rayark.download, DIRECT
 host-suffix, rayark.net, DIRECT
 host-suffix, razer.com, DIRECT
@@ -19345,6 +19352,7 @@ host-suffix, recode.net, DIRECT
 host-suffix, recoiljs.org, DIRECT
 host-suffix, reconinstruments.com, DIRECT
 host-suffix, reconjet.com, DIRECT
+host-suffix, recordedfuture.com, DIRECT
 host-suffix, watersex.com, DIRECT
 host-suffix, red-lang.org, DIRECT
 host-suffix, redamateurtube.com, DIRECT
@@ -20899,7 +20907,6 @@ host-suffix, vrchat.net, DIRECT
 host-suffix, soyinyj.top, DIRECT
 host-suffix, soyjak.party, DIRECT
 host-suffix, soyjak.st, DIRECT
-host-suffix, soylentnews.org, DIRECT
 host-suffix, sp.cool, DIRECT
 host-suffix, spaceexplored.com, DIRECT
 host-suffix, vrchat.com, DIRECT
@@ -21983,6 +21990,7 @@ host-suffix, thieme-connect.com, DIRECT
 host-suffix, thieme-connect.de, DIRECT
 host-suffix, thieme.de, DIRECT
 host-suffix, thinkboxsoftware.com, DIRECT
+host-suffix, thinkchina.sg, DIRECT
 host-suffix, thinkdifferent.us, DIRECT
 host-suffix, thinkgeek.com, DIRECT
 host-suffix, thinkingtaiwan.com, DIRECT
