@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-04-23T01:20:20.149Z
-# Total: 25973 rules
+# Updated: 2026-04-24T01:19:39.825Z
+# Total: 25976 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -743,8 +743,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, javplatform.com, DIRECT
-host-suffix, autodeskinstant.com, DIRECT
+host-suffix, javpop.com, DIRECT
+host-suffix, angelbeats.jp, DIRECT
 host-suffix, 12vpn.com, DIRECT
 host-suffix, 12vpn.net, DIRECT
 host-suffix, 1337x.gd, DIRECT
@@ -1678,6 +1678,7 @@ host-suffix, agedm.tv, DIRECT
 host-suffix, agefans.com, DIRECT
 host-suffix, agemys.org, DIRECT
 host-suffix, agendaweek.com, DIRECT
+host-suffix, agentclientprotocol.com, DIRECT
 host-suffix, agilebits.com, DIRECT
 host-suffix, agnesb.fr, DIRECT
 host-suffix, agoogleaday.com, DIRECT
@@ -2356,7 +2357,7 @@ host-suffix, anexia.com, DIRECT
 host-suffix, anfutong.com, DIRECT
 host-suffix, angel-gto.com, DIRECT
 host-suffix, angela-merkel.de, DIRECT
-host-suffix, angelbeats.jp, DIRECT
+host-suffix, javtube.com, DIRECT
 host-suffix, angelweb.jp, DIRECT
 host-suffix, angola.org, DIRECT
 host-suffix, angulardart.org, DIRECT
@@ -3180,7 +3181,7 @@ host-suffix, autodeskhelp.com, DIRECT
 host-suffix, autodeskicpcouncil.com, DIRECT
 host-suffix, autodeskimpression.com, DIRECT
 host-suffix, autodeskinform.com, DIRECT
-host-suffix, javtube.cc, DIRECT
+host-suffix, autodeskinstant.com, DIRECT
 host-suffix, autodeskjournal.com, DIRECT
 host-suffix, autodesklearning.com, DIRECT
 host-suffix, autodesklistens.com, DIRECT
@@ -4157,7 +4158,7 @@ host-suffix, bimadsk.com, DIRECT
 host-suffix, bimbim.com, DIRECT
 host-suffix, bimbolive.com, DIRECT
 host-suffix, bimglue.com, DIRECT
-host-suffix, bimlibrary.com, DIRECT
+host-suffix, javtube.net, DIRECT
 host-suffix, bimseeker.com, DIRECT
 host-suffix, bimsource.com, DIRECT
 host-suffix, bimworld.com, DIRECT
@@ -4911,7 +4912,7 @@ host-suffix, boodigogo.com, DIRECT
 host-suffix, youjizz.sex, DIRECT
 host-suffix, book18.org, DIRECT
 host-suffix, book4you.org, DIRECT
-host-suffix, javtrust.com, DIRECT
+host-suffix, bookbrainz.org, DIRECT
 host-suffix, bookclubcorner.com, DIRECT
 host-suffix, bookclubgirl.com, DIRECT
 host-suffix, bookdepository.com, DIRECT
@@ -9135,7 +9136,7 @@ host-suffix, ffmpeg.org, DIRECT
 host-suffix, ffotolia.com, DIRECT
 host-suffix, ffprofile.com, DIRECT
 host-suffix, fgacebook.com, DIRECT
-host-suffix, javtube.com, DIRECT
+host-suffix, fgirl.ch, DIRECT
 host-suffix, fgmtv.org, DIRECT
 host-suffix, fhreports.net, DIRECT
 host-suffix, fi11.com, DIRECT
@@ -13322,8 +13323,8 @@ host-suffix, javmulu.net, DIRECT
 host-suffix, javnew.net, DIRECT
 host-suffix, javopen.co, DIRECT
 host-suffix, javout.co, DIRECT
+host-suffix, javplatform.com, DIRECT
 host-suffix, 000webhost.com, DIRECT
-host-suffix, javpop.com, DIRECT
 host-suffix, javpop.link, DIRECT
 host-suffix, javporn.tech, DIRECT
 host-suffix, javporn.ws, DIRECT
@@ -13357,10 +13358,10 @@ host-suffix, javteg.net, DIRECT
 host-suffix, javtiful.com, DIRECT
 host-suffix, javtorrent.me, DIRECT
 host-suffix, javtrailers.com, DIRECT
-host-suffix, bookbrainz.org, DIRECT
+host-suffix, javtrust.com, DIRECT
+host-suffix, laowang.vip, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
-host-suffix, fgirl.ch, DIRECT
-host-suffix, javtube.net, DIRECT
+host-suffix, bimlibrary.com, DIRECT
 host-suffix, javvideoporn.com, DIRECT
 host-suffix, javvids.com, DIRECT
 host-suffix, javwide.com, DIRECT
@@ -14018,7 +14019,7 @@ host-suffix, lanternal.com, DIRECT
 host-suffix, laogai.org, DIRECT
 host-suffix, laogairesearch.org, DIRECT
 host-suffix, laosijifuli9009.top, DIRECT
-host-suffix, laowang.vip, DIRECT
+host-suffix, javtube.cc, DIRECT
 host-suffix, lapriere.jp, DIRECT
 host-suffix, laqingdan.net, DIRECT
 host-suffix, laracasts.com, DIRECT
@@ -18204,6 +18205,7 @@ host-suffix, webcamjackers.com, DIRECT
 host-suffix, placesdocs.com, DIRECT
 host-suffix, planetminecraft.com, DIRECT
 host-suffix, planetsuzy.org, DIRECT
+host-suffix, plannotator.ai, DIRECT
 host-suffix, plansondemand.com, DIRECT
 host-suffix, plantsvszombies2.com, DIRECT
 host-suffix, plasticlabs.com, DIRECT
@@ -22645,6 +22647,7 @@ host-suffix, volvobuses.no, DIRECT
 host-suffix, twistys.com, DIRECT
 host-suffix, twitch.tv, DIRECT
 host-suffix, twitchcdn.net, DIRECT
+host-suffix, twitchcon.com, DIRECT
 host-suffix, twitchsvc.net, DIRECT
 host-suffix, twitcomike.jp, DIRECT
 host-suffix, twitiq.com, DIRECT
