@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-04-24T01:19:39.825Z
-# Total: 25976 rules
+# Updated: 2026-04-25T01:13:07.949Z
+# Total: 25977 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -744,7 +744,7 @@ host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
 host-suffix, javpop.com, DIRECT
-host-suffix, angelbeats.jp, DIRECT
+host-suffix, 1992qq.xyz, DIRECT
 host-suffix, 12vpn.com, DIRECT
 host-suffix, 12vpn.net, DIRECT
 host-suffix, 1337x.gd, DIRECT
@@ -820,7 +820,7 @@ host-suffix, 18yiren.tv, DIRECT
 host-suffix, 191porn.com, DIRECT
 host-suffix, 1984bbs.com, DIRECT
 host-suffix, 1991way.com, DIRECT
-host-suffix, 1992qq.xyz, DIRECT
+host-suffix, javtube.com, DIRECT
 host-suffix, 1bigclub.com, DIRECT
 host-suffix, 1bokeponline.top, DIRECT
 host-suffix, 1classtube.com, DIRECT
@@ -2357,7 +2357,7 @@ host-suffix, anexia.com, DIRECT
 host-suffix, anfutong.com, DIRECT
 host-suffix, angel-gto.com, DIRECT
 host-suffix, angela-merkel.de, DIRECT
-host-suffix, javtube.com, DIRECT
+host-suffix, angelbeats.jp, DIRECT
 host-suffix, angelweb.jp, DIRECT
 host-suffix, angola.org, DIRECT
 host-suffix, angulardart.org, DIRECT
@@ -4158,7 +4158,7 @@ host-suffix, bimadsk.com, DIRECT
 host-suffix, bimbim.com, DIRECT
 host-suffix, bimbolive.com, DIRECT
 host-suffix, bimglue.com, DIRECT
-host-suffix, javtube.net, DIRECT
+host-suffix, bimlibrary.com, DIRECT
 host-suffix, bimseeker.com, DIRECT
 host-suffix, bimsource.com, DIRECT
 host-suffix, bimworld.com, DIRECT
@@ -5858,7 +5858,7 @@ host-suffix, yangofellowship.com, DIRECT
 host-suffix, chicagolandbmw.com, DIRECT
 host-suffix, chicksonblackdicks.com, DIRECT
 host-suffix, chickstagram.com, DIRECT
-host-suffix, chickteases.com, DIRECT
+host-suffix, javtube.cc, DIRECT
 host-suffix, yango.tech, DIRECT
 host-suffix, chihair-straightener.com, DIRECT
 host-suffix, chii.in, DIRECT
@@ -13359,9 +13359,9 @@ host-suffix, javtiful.com, DIRECT
 host-suffix, javtorrent.me, DIRECT
 host-suffix, javtrailers.com, DIRECT
 host-suffix, javtrust.com, DIRECT
-host-suffix, laowang.vip, DIRECT
+host-suffix, chickteases.com, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
-host-suffix, bimlibrary.com, DIRECT
+host-suffix, pussyshine.info, DIRECT
 host-suffix, javvideoporn.com, DIRECT
 host-suffix, javvids.com, DIRECT
 host-suffix, javwide.com, DIRECT
@@ -14019,7 +14019,7 @@ host-suffix, lanternal.com, DIRECT
 host-suffix, laogai.org, DIRECT
 host-suffix, laogairesearch.org, DIRECT
 host-suffix, laosijifuli9009.top, DIRECT
-host-suffix, javtube.cc, DIRECT
+host-suffix, laowang.vip, DIRECT
 host-suffix, lapriere.jp, DIRECT
 host-suffix, laqingdan.net, DIRECT
 host-suffix, laracasts.com, DIRECT
@@ -18965,7 +18965,7 @@ host-suffix, pussyboy.net, DIRECT
 host-suffix, pussymomsex.com, DIRECT
 host-suffix, pussyporntubes.com, DIRECT
 host-suffix, pussysexgames.com, DIRECT
-host-suffix, pussyshine.info, DIRECT
+host-suffix, javtube.net, DIRECT
 host-suffix, pussyspace.com, DIRECT
 host-suffix, pussyspace.net, DIRECT
 host-suffix, putinho.net, DIRECT
@@ -21667,6 +21667,7 @@ host-suffix, teatroporno.com, DIRECT
 host-suffix, tech-mail.ru, DIRECT
 host-suffix, tech26.de, DIRECT
 host-suffix, techatbloomberg.com, DIRECT
+host-suffix, techbang.com, DIRECT
 host-suffix, techcrunch.com, DIRECT
 host-suffix, techhub.ms, DIRECT
 host-suffix, techliquidators.com, DIRECT
