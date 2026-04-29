@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-04-28T01:29:39.021Z
-# Total: 25977 rules
+# Updated: 2026-04-29T01:45:08.080Z
+# Total: 25978 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -743,8 +743,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, javpop.com, DIRECT
-host-suffix, 1992qq.xyz, DIRECT
+host-suffix, javporn.tech, DIRECT
+host-suffix, canon-cee.com, DIRECT
 host-suffix, 12vpn.com, DIRECT
 host-suffix, 12vpn.net, DIRECT
 host-suffix, 1337x.gd, DIRECT
@@ -820,7 +820,7 @@ host-suffix, 18yiren.tv, DIRECT
 host-suffix, 191porn.com, DIRECT
 host-suffix, 1984bbs.com, DIRECT
 host-suffix, 1991way.com, DIRECT
-host-suffix, javtube.com, DIRECT
+host-suffix, 1992qq.xyz, DIRECT
 host-suffix, 1bigclub.com, DIRECT
 host-suffix, 1bokeponline.top, DIRECT
 host-suffix, 1classtube.com, DIRECT
@@ -4977,7 +4977,7 @@ host-suffix, boxofficemojo.com, DIRECT
 host-suffix, boxpn.com, DIRECT
 host-suffix, boxun.com, DIRECT
 host-suffix, boxun.tv, DIRECT
-host-suffix, boy18tube.com, DIRECT
+host-suffix, javtube.net, DIRECT
 host-suffix, boycall.com, DIRECT
 host-suffix, boyfriendtv.com, DIRECT
 host-suffix, boylabs.net, DIRECT
@@ -5427,7 +5427,7 @@ host-suffix, candycumcity.com, DIRECT
 host-suffix, candypleasure.com, DIRECT
 host-suffix, canny.io, DIRECT
 host-suffix, yhy.cool, DIRECT
-host-suffix, canon-cee.com, DIRECT
+host-suffix, javvideoporn.com, DIRECT
 host-suffix, canon-cmos-sensors.com, DIRECT
 host-suffix, canon-cna.com, DIRECT
 host-suffix, yho.com, DIRECT
@@ -5858,7 +5858,7 @@ host-suffix, yangofellowship.com, DIRECT
 host-suffix, chicagolandbmw.com, DIRECT
 host-suffix, chicksonblackdicks.com, DIRECT
 host-suffix, chickstagram.com, DIRECT
-host-suffix, javtube.cc, DIRECT
+host-suffix, chickteases.com, DIRECT
 host-suffix, yango.tech, DIRECT
 host-suffix, chihair-straightener.com, DIRECT
 host-suffix, chii.in, DIRECT
@@ -8286,7 +8286,7 @@ host-suffix, entermediadb.org, DIRECT
 host-suffix, enterprisepaging.com, DIRECT
 host-suffix, enterprisessl.com, DIRECT
 host-suffix, entrust.com, DIRECT
-host-suffix, entrust.net, DIRECT
+host-suffix, javvids.com, DIRECT
 host-suffix, entrustdatacard.com, DIRECT
 host-suffix, envato-static.com, DIRECT
 host-suffix, envato.com, DIRECT
@@ -13324,9 +13324,9 @@ host-suffix, javnew.net, DIRECT
 host-suffix, javopen.co, DIRECT
 host-suffix, javout.co, DIRECT
 host-suffix, javplatform.com, DIRECT
-host-suffix, 000webhost.com, DIRECT
+host-suffix, javpop.com, DIRECT
 host-suffix, javpop.link, DIRECT
-host-suffix, javporn.tech, DIRECT
+host-suffix, 000webhost.com, DIRECT
 host-suffix, javporn.ws, DIRECT
 host-suffix, javpost.net, DIRECT
 host-suffix, javprice.com, DIRECT
@@ -13359,11 +13359,11 @@ host-suffix, javtiful.com, DIRECT
 host-suffix, javtorrent.me, DIRECT
 host-suffix, javtrailers.com, DIRECT
 host-suffix, javtrust.com, DIRECT
-host-suffix, chickteases.com, DIRECT
+host-suffix, javtube.cc, DIRECT
+host-suffix, javtube.com, DIRECT
+host-suffix, boy18tube.com, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
-host-suffix, pussyshine.info, DIRECT
-host-suffix, javvideoporn.com, DIRECT
-host-suffix, javvids.com, DIRECT
+host-suffix, entrust.net, DIRECT
 host-suffix, javwide.com, DIRECT
 host-suffix, javwide.tv, DIRECT
 host-suffix, javxspot.com, DIRECT
@@ -18965,7 +18965,7 @@ host-suffix, pussyboy.net, DIRECT
 host-suffix, pussymomsex.com, DIRECT
 host-suffix, pussyporntubes.com, DIRECT
 host-suffix, pussysexgames.com, DIRECT
-host-suffix, javtube.net, DIRECT
+host-suffix, pussyshine.info, DIRECT
 host-suffix, pussyspace.com, DIRECT
 host-suffix, pussyspace.net, DIRECT
 host-suffix, putinho.net, DIRECT
@@ -22882,6 +22882,7 @@ host-suffix, upmedia.mg, DIRECT
 host-suffix, upornia.com, DIRECT
 host-suffix, uporno.xxx, DIRECT
 host-suffix, uproxy.org, DIRECT
+host-suffix, upsangel.com, DIRECT
 host-suffix, uptodown.com, DIRECT
 host-suffix, ura-akiba.jp, DIRECT
 host-suffix, uraban.me, DIRECT
