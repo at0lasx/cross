@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ads-all.yaml
 # Policy: DIRECT
-# Updated: 2026-04-29T01:45:07.357Z
+# Updated: 2026-04-30T01:30:48.027Z
 # Total: 871 rules
 host, pinggai0.caixin.com, DIRECT
 host, pinggai1.caixin.com, DIRECT

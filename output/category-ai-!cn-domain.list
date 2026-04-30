@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-04-29T01:45:07.759Z
+# Updated: 2026-04-30T01:30:48.629Z
 # Total: 142 rules
 host, ai.google.dev, DIRECT
 host, alkalicore-pa.clients6.google.com, DIRECT

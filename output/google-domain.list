@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.yaml
 # Policy: DIRECT
-# Updated: 2026-04-29T01:45:07.156Z
+# Updated: 2026-04-30T01:30:47.582Z
 # Total: 1111 rules
 host, google-ohttp-relay-safebrowsing.fastly-edge.com, DIRECT
 host, alt7-mtalk.google.com, DIRECT
