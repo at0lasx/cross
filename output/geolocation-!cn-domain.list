@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-04-30T01:30:49.077Z
-# Total: 25978 rules
+# Updated: 2026-05-01T01:46:56.114Z
+# Total: 25979 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -504,6 +504,7 @@ host, time4.facebook.com, DIRECT
 host, time4.google.com, DIRECT
 host, time5.facebook.com, DIRECT
 host, tmdb-image-prod.b-cdn.net, DIRECT
+host, tmdb-web-image-prod.b-cdn.net, DIRECT
 host, tv.applemusic.com, DIRECT
 host, tvcastlive-hamivideo.cdn.hinet.net, DIRECT
 host, ubisoft-orbit-savegames.s3.amazonaws.com, DIRECT
