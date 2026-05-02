@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-05-01T01:46:55.308Z
-# Total: 116126 rules
+# Updated: 2026-05-02T01:24:33.563Z
+# Total: 116125 rules
 host-suffix, alibaba, DIRECT
 host-suffix, xn--zfr164b, DIRECT
 host-suffix, xn--xhq521b, DIRECT
@@ -48,7 +48,7 @@ host-suffix, citic, DIRECT
 host-suffix, baidu, DIRECT
 host-suffix, alipay, DIRECT
 host-suffix, jscj.com, DIRECT
-host-suffix, chayeo.com, DIRECT
+host-suffix, auspous.com, DIRECT
 host-suffix, 027cloud.com, DIRECT
 host-suffix, 027eat.com, DIRECT
 host-suffix, 027g3nkf40.com, DIRECT
@@ -13565,7 +13565,7 @@ host-suffix, ausner.net, DIRECT
 host-suffix, ausnutria.com, DIRECT
 host-suffix, ausny.com, DIRECT
 host-suffix, ausperbio.com, DIRECT
-host-suffix, auspous.com, DIRECT
+host-suffix, jsjeda.com, DIRECT
 host-suffix, aussino.net, DIRECT
 host-suffix, austargroup.com, DIRECT
 host-suffix, austarstudy.com, DIRECT
@@ -13657,7 +13657,7 @@ host-suffix, av-ic.com, DIRECT
 host-suffix, av199.com, DIRECT
 host-suffix, av2.me, DIRECT
 host-suffix, av269.com, DIRECT
-host-suffix, jsjgbxg.com, DIRECT
+host-suffix, av380.net, DIRECT
 host-suffix, avadairy.com, DIRECT
 host-suffix, avalon233.com, DIRECT
 host-suffix, avanpa.com, DIRECT
@@ -21185,7 +21185,7 @@ host-suffix, chaxunjiao.com, DIRECT
 host-suffix, chayanfamily.com, DIRECT
 host-suffix, chayangge.com, DIRECT
 host-suffix, chaye.com, DIRECT
-host-suffix, jsjfz.com, DIRECT
+host-suffix, chayeo.com, DIRECT
 host-suffix, chayu.com, DIRECT
 host-suffix, chayueshebao.com, DIRECT
 host-suffix, chayuqing.com, DIRECT
@@ -58085,11 +58085,11 @@ host-suffix, jsjd.cc, DIRECT
 host-suffix, jsjdgy.com, DIRECT
 host-suffix, jsjdjt.com, DIRECT
 host-suffix, jsjdrcb.com, DIRECT
-host-suffix, jsjdzf.com, DIRECT
-host-suffix, jsjeda.com, DIRECT
-host-suffix, loorin.com, DIRECT
+host-suffix, nyzdjj.com, DIRECT
 host-suffix, 027chx.com, DIRECT
-host-suffix, av380.net, DIRECT
+host-suffix, yswebportal.cc, DIRECT
+host-suffix, jsjfz.com, DIRECT
+host-suffix, jsjgbxg.com, DIRECT
 host-suffix, jsjgtz.com, DIRECT
 host-suffix, jsjhtz.com, DIRECT
 host-suffix, jsjiami.com, DIRECT
@@ -65015,7 +65015,7 @@ host-suffix, loonlog.com, DIRECT
 host-suffix, looooker.com, DIRECT
 host-suffix, loooooong.com, DIRECT
 host-suffix, looquan.com, DIRECT
-host-suffix, jsjffj.com, DIRECT
+host-suffix, loorin.com, DIRECT
 host-suffix, loovee.com, DIRECT
 host-suffix, looyuoms.com, DIRECT
 host-suffix, looyush.com, DIRECT
@@ -73289,7 +73289,7 @@ host-suffix, nyxr-home.com, DIRECT
 host-suffix, nyxx365.com, DIRECT
 host-suffix, nyxz166.com, DIRECT
 host-suffix, nyyfy.com, DIRECT
-host-suffix, nyzdjj.com, DIRECT
+host-suffix, jsjdzf.com, DIRECT
 host-suffix, nyzy.com, DIRECT
 host-suffix, nz86.com, DIRECT
 host-suffix, nz998.com, DIRECT
@@ -108637,7 +108637,6 @@ host-suffix, yodao.info, DIRECT
 host-suffix, yodao.net, DIRECT
 host-suffix, yodao.org, DIRECT
 host-suffix, yodiya.com, DIRECT
-host-suffix, yodo1.com, DIRECT
 host-suffix, yodo1api.com, DIRECT
 host-suffix, yodou.com, DIRECT
 host-suffix, yoduzw.com, DIRECT
@@ -109501,7 +109500,7 @@ host-suffix, ysug.com, DIRECT
 host-suffix, ysupan.com, DIRECT
 host-suffix, ysw1950.com, DIRECT
 host-suffix, ysw68.com, DIRECT
-host-suffix, yswebportal.cc, DIRECT
+host-suffix, jsjffj.com, DIRECT
 host-suffix, yswh.com, DIRECT
 host-suffix, yswlgame.com, DIRECT
 host-suffix, yswswkj.com, DIRECT
