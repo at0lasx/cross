@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/telegram.yaml
 # Policy: DIRECT
-# Updated: 2026-05-04T01:27:18.565Z
+# Updated: 2026-05-05T01:26:48.486Z
 # Total: 20 rules
 host-suffix, cdn-telegram.org, DIRECT
 host-suffix, comments.app, DIRECT
