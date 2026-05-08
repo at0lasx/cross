@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.yaml
 # Policy: DIRECT
-# Updated: 2026-05-07T01:30:22.111Z
+# Updated: 2026-05-08T01:46:38.186Z
 # Total: 1784 rules
 host, ingest.apple-studies.com, DIRECT
 host, apple.com.akadns.net, DIRECT
@@ -1753,6 +1753,16 @@ host-suffix, api-adservices.apple.com, DIRECT
 host-suffix, iadsdk.apple.com, DIRECT
 host-suffix, iad.apple.com, DIRECT
 host-suffix, qwapi.com, DIRECT
+host, certs-lb.apple.com.akadns.net, DIRECT
+host, certs.apple.com, DIRECT
+host, crl-lb.apple.com.akadns.net, DIRECT
+host, crl.apple.com, DIRECT
+host, ocsp-lb.apple.com.akadns.net, DIRECT
+host, ocsp.apple.com, DIRECT
+host, ocsp2-lb.apple.com.akadns.net, DIRECT
+host, ocsp2.apple.com, DIRECT
+host, valid.apple.com, DIRECT
+host, valid.origin-apple.com.akadns.net, DIRECT
 host-suffix, beats1.cn, DIRECT
 host-suffix, beats1.com.cn, DIRECT
 host-suffix, beats2.com.cn, DIRECT
@@ -1776,13 +1786,3 @@ host-suffix, researchkit.cn, DIRECT
 host-suffix, researchkit.com.cn, DIRECT
 host-suffix, swiftui.cn, DIRECT
 host-suffix, swiftui.com.cn, DIRECT
-host, certs-lb.apple.com.akadns.net, DIRECT
-host, certs.apple.com, DIRECT
-host, crl-lb.apple.com.akadns.net, DIRECT
-host, crl.apple.com, DIRECT
-host, ocsp-lb.apple.com.akadns.net, DIRECT
-host, ocsp.apple.com, DIRECT
-host, ocsp2-lb.apple.com.akadns.net, DIRECT
-host, ocsp2.apple.com, DIRECT
-host, valid.apple.com, DIRECT
-host, valid.origin-apple.com.akadns.net, DIRECT
