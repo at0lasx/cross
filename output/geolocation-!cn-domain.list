@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-05-10T01:43:31.868Z
-# Total: 26139 rules
+# Updated: 2026-05-11T01:50:39.126Z
+# Total: 26143 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -773,8 +773,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, javplatform.com, DIRECT
-host-suffix, rustore.tv, DIRECT
+host-suffix, javopen.co, DIRECT
+host-suffix, rustore.team, DIRECT
 host-suffix, 12vpn.com, DIRECT
 host-suffix, 12vpn.net, DIRECT
 host-suffix, 1337x.gd, DIRECT
@@ -6797,6 +6797,7 @@ host-suffix, dat.foundation, DIRECT
 host-suffix, data-tscbank.ru, DIRECT
 host-suffix, data-vocabulary.org, DIRECT
 host-suffix, data.com, DIRECT
+host-suffix, data18.com, DIRECT
 host-suffix, datacloudmy.com, DIRECT
 host-suffix, dataframeworks.com, DIRECT
 host-suffix, dataliberation.org, DIRECT
@@ -7034,7 +7035,7 @@ host-suffix, dell.tm, DIRECT
 host-suffix, dell.tt, DIRECT
 host-suffix, dell.tv, DIRECT
 host-suffix, dell.ua, DIRECT
-host-suffix, javtube.com, DIRECT
+host-suffix, dell.ug, DIRECT
 host-suffix, dell.uz, DIRECT
 host-suffix, dell.vg, DIRECT
 host-suffix, dell.vn, DIRECT
@@ -7729,6 +7730,7 @@ host-suffix, dssott.com, DIRECT
 host-suffix, dstk.dk, DIRECT
 host-suffix, dswz88.xyz, DIRECT
 host-suffix, dsyiren.com, DIRECT
+host-suffix, dt18.com, DIRECT
 host-suffix, dtci.co, DIRECT
 host-suffix, dtci.technology, DIRECT
 host-suffix, dtiblog.com, DIRECT
@@ -8112,7 +8114,7 @@ host-suffix, ebaytv.org, DIRECT
 host-suffix, ebayuae.net, DIRECT
 host-suffix, ebayvakantiehuizen.com, DIRECT
 host-suffix, ebayvalet.com, DIRECT
-host-suffix, javtube.cc, DIRECT
+host-suffix, ebayvietnam.net, DIRECT
 host-suffix, ebayworlds.com, DIRECT
 host-suffix, ebayy.com, DIRECT
 host-suffix, xxxland.net, DIRECT
@@ -8635,7 +8637,7 @@ host-suffix, extrajapaneseporn.com, DIRECT
 host-suffix, extreme-board.com, DIRECT
 host-suffix, extremepornfilms.com, DIRECT
 host-suffix, extremetube.com, DIRECT
-host-suffix, exxxtra.net, DIRECT
+host-suffix, javtrust.com, DIRECT
 host-suffix, exxxtrasmall.com, DIRECT
 host-suffix, exxxtrasmall1.com, DIRECT
 host-suffix, eyevio.jp, DIRECT
@@ -9070,7 +9072,7 @@ host-suffix, fastpic.ru, DIRECT
 host-suffix, fastssh.com, DIRECT
 host-suffix, faststone.org, DIRECT
 host-suffix, fasttext.cc, DIRECT
-host-suffix, fasttrackreadysupport.com, DIRECT
+host-suffix, javtorrent.me, DIRECT
 host-suffix, fatbtc.com, DIRECT
 host-suffix, fatstube.com, DIRECT
 host-suffix, favebook.com, DIRECT
@@ -9452,7 +9454,7 @@ host-suffix, foreignaffairs.com, DIRECT
 host-suffix, foreignpolicy.com, DIRECT
 host-suffix, forgecdn.net, DIRECT
 host-suffix, forhertube.com, DIRECT
-host-suffix, javtrust.com, DIRECT
+host-suffix, form.new, DIRECT
 host-suffix, formit360.com, DIRECT
 host-suffix, formitfactory.com, DIRECT
 host-suffix, forms.new, DIRECT
@@ -10240,6 +10242,7 @@ host-suffix, gettyimages.se, DIRECT
 host-suffix, gettyimages.us, DIRECT
 host-suffix, getuploader.com, DIRECT
 host-suffix, getws1.com, DIRECT
+host-suffix, getwsj.com, DIRECT
 host-suffix, getwsone.com, DIRECT
 host-suffix, getzola.org, DIRECT
 host-suffix, gfacecbook.com, DIRECT
@@ -13365,6 +13368,7 @@ host-suffix, javdoe.to, DIRECT
 host-suffix, javdove.com, DIRECT
 host-suffix, javdove8.xyz, DIRECT
 host-suffix, javextreme.net, DIRECT
+host-suffix, javfc2.xyz, DIRECT
 host-suffix, javfilms.com, DIRECT
 host-suffix, javfinder.ai, DIRECT
 host-suffix, javfor.me, DIRECT
@@ -13418,9 +13422,9 @@ host-suffix, javmost.xyz, DIRECT
 host-suffix, javmuch.com, DIRECT
 host-suffix, javmulu.net, DIRECT
 host-suffix, javnew.net, DIRECT
-host-suffix, javopen.co, DIRECT
-host-suffix, javout.co, DIRECT
 host-suffix, 000webhost.com, DIRECT
+host-suffix, javout.co, DIRECT
+host-suffix, javplatform.com, DIRECT
 host-suffix, javpop.com, DIRECT
 host-suffix, javpop.link, DIRECT
 host-suffix, javporn.tech, DIRECT
@@ -13453,11 +13457,11 @@ host-suffix, javtag.net, DIRECT
 host-suffix, javtasty.com, DIRECT
 host-suffix, javteg.net, DIRECT
 host-suffix, javtiful.com, DIRECT
-host-suffix, javtorrent.me, DIRECT
-host-suffix, javtrailers.com, DIRECT
-host-suffix, form.new, DIRECT
-host-suffix, ebayvietnam.net, DIRECT
-host-suffix, dell.ug, DIRECT
+host-suffix, fasttrackreadysupport.com, DIRECT
+host-suffix, veet.hu, DIRECT
+host-suffix, exxxtra.net, DIRECT
+host-suffix, javtube.cc, DIRECT
+host-suffix, javtube.com, DIRECT
 host-suffix, javtube.net, DIRECT
 host-suffix, javvideoporn.com, DIRECT
 host-suffix, javvids.com, DIRECT
@@ -19796,8 +19800,8 @@ host-suffix, russoutdoor.ru, DIRECT
 host-suffix, rust-lang.org, DIRECT
 host-suffix, rustdesk.com, DIRECT
 host-suffix, rustore.ru, DIRECT
-host-suffix, rustore.team, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
+host-suffix, rustore.tv, DIRECT
 host-suffix, rustup.rs, DIRECT
 host-suffix, rusvpn.com, DIRECT
 host-suffix, waterdamagesandiego.org, DIRECT
@@ -23247,7 +23251,7 @@ host-suffix, veet.dk, DIRECT
 host-suffix, veet.es, DIRECT
 host-suffix, veet.fi, DIRECT
 host-suffix, veet.fr, DIRECT
-host-suffix, veet.hu, DIRECT
+host-suffix, javtrailers.com, DIRECT
 host-suffix, veet.jp, DIRECT
 host-suffix, veet.nl, DIRECT
 host-suffix, veet.no, DIRECT
