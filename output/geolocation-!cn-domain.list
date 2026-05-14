@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-05-13T01:50:52.659Z
-# Total: 26232 rules
+# Updated: 2026-05-14T01:53:23.349Z
+# Total: 26233 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -774,8 +774,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, javrank.com, DIRECT
-host-suffix, rutrk.org, DIRECT
+host-suffix, javquick.com, DIRECT
+host-suffix, rutubelist.ru, DIRECT
 host-suffix, 12vpn.net, DIRECT
 host-suffix, 1337x.gd, DIRECT
 host-suffix, 1337x.is, DIRECT
@@ -3003,7 +3003,7 @@ host-suffix, asiaone.com, DIRECT
 host-suffix, asiasociety.org, DIRECT
 host-suffix, asjmapihost.cc, DIRECT
 host-suffix, ask.com, DIRECT
-host-suffix, askfacebook.net, DIRECT
+host-suffix, jb22.lol, DIRECT
 host-suffix, askfacebook.org, DIRECT
 host-suffix, asknudes.com, DIRECT
 host-suffix, askstudent.com, DIRECT
@@ -3895,7 +3895,7 @@ host-suffix, beatsdreus.com, DIRECT
 host-suffix, beatsearbudsheadphoness.com, DIRECT
 host-suffix, beatselectronic.net, DIRECT
 host-suffix, beatselectronics.com, DIRECT
-host-suffix, beatsep.com, DIRECT
+host-suffix, jbe-platform.com, DIRECT
 host-suffix, beatsep.net, DIRECT
 host-suffix, beatsfacstore.com, DIRECT
 host-suffix, beatsfactoroutlets.com, DIRECT
@@ -5996,6 +5996,7 @@ host-suffix, chocam.com, DIRECT
 host-suffix, chocolatey.org, DIRECT
 host-suffix, choicereviews.org, DIRECT
 host-suffix, chomp.com, DIRECT
+host-suffix, chonglangtv.org, DIRECT
 host-suffix, chrdnet.com, DIRECT
 host-suffix, christianfreedom.org, DIRECT
 host-suffix, christianstudy.com, DIRECT
@@ -7619,7 +7620,7 @@ host-suffix, douwriteright.com, DIRECT
 host-suffix, douya.org, DIRECT
 host-suffix, douyintt10.me, DIRECT
 host-suffix, douzinnsi-eromannga.com, DIRECT
-host-suffix, jb.gg, DIRECT
+host-suffix, dowjones.com, DIRECT
 host-suffix, dowjones.io, DIRECT
 host-suffix, dowjoneson.com, DIRECT
 host-suffix, download.com, DIRECT
@@ -12491,7 +12492,7 @@ host-suffix, ikea.pl, DIRECT
 host-suffix, ikea.pr, DIRECT
 host-suffix, ikea.pt, DIRECT
 host-suffix, ikea.qa, DIRECT
-host-suffix, jayspov.net, DIRECT
+host-suffix, ikea.ro, DIRECT
 host-suffix, ikea.rs, DIRECT
 host-suffix, ikea.ru, DIRECT
 host-suffix, ikea.sa, DIRECT
@@ -13467,8 +13468,8 @@ host-suffix, javprime.net, DIRECT
 host-suffix, javpub.me, DIRECT
 host-suffix, javpush.com, DIRECT
 host-suffix, javqd.com, DIRECT
-host-suffix, javquick.com, DIRECT
 host-suffix, 000webhost.com, DIRECT
+host-suffix, javrank.com, DIRECT
 host-suffix, javrate.com, DIRECT
 host-suffix, javrave.club, DIRECT
 host-suffix, javroot.com, DIRECT
@@ -13502,10 +13503,10 @@ host-suffix, javwide.tv, DIRECT
 host-suffix, javxspot.com, DIRECT
 host-suffix, javxxx.me, DIRECT
 host-suffix, javynow.com, DIRECT
-host-suffix, ikea.ro, DIRECT
-host-suffix, dowjones.com, DIRECT
-host-suffix, twporn.net, DIRECT
-host-suffix, jbe-platform.com, DIRECT
+host-suffix, jayspov.net, DIRECT
+host-suffix, shemaleporn.xxx, DIRECT
+host-suffix, askfacebook.net, DIRECT
+host-suffix, beatsep.com, DIRECT
 host-suffix, jburl.top, DIRECT
 host-suffix, jc11.tw, DIRECT
 host-suffix, jcpenney.com, DIRECT
@@ -19867,9 +19868,9 @@ host-suffix, rutracker.me, DIRECT
 host-suffix, rutracker.net, DIRECT
 host-suffix, rutracker.nl, DIRECT
 host-suffix, rutracker.org, DIRECT
-host-suffix, 12vpn.com, DIRECT
+host-suffix, rutrk.org, DIRECT
 host-suffix, rutube.ru, DIRECT
-host-suffix, rutubelist.ru, DIRECT
+host-suffix, 12vpn.com, DIRECT
 host-suffix, ruvideos.net, DIRECT
 host-suffix, rwb.ru, DIRECT
 host-suffix, rwbautomation.ru, DIRECT
@@ -20521,7 +20522,7 @@ host-suffix, shemalehd.sex, DIRECT
 host-suffix, shemaleleaks.com, DIRECT
 host-suffix, shemalemodelstube.com, DIRECT
 host-suffix, shemaleporn.fun, DIRECT
-host-suffix, shemaleporn.xxx, DIRECT
+host-suffix, jb.gg, DIRECT
 host-suffix, shemalepornonly.com, DIRECT
 host-suffix, shemaleporntube.tv, DIRECT
 host-suffix, shemalespoiledwhore.com, DIRECT
@@ -22898,7 +22899,7 @@ host-suffix, twlegs.com, DIRECT
 host-suffix, twline5.com, DIRECT
 host-suffix, twnextdigital.com, DIRECT
 host-suffix, twoo.com, DIRECT
-host-suffix, jb22.lol, DIRECT
+host-suffix, twporn.net, DIRECT
 host-suffix, twreporter.org, DIRECT
 host-suffix, twt.tl, DIRECT
 host-suffix, twtkr.com, DIRECT
