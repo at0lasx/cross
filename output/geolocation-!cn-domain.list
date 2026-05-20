@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-05-19T01:57:57.381Z
-# Total: 26257 rules
+# Updated: 2026-05-20T01:57:34.367Z
+# Total: 26266 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -182,6 +182,7 @@ host, espndotcom.tt.omtrdc.net, DIRECT
 host, f3b7q2p3.ssl.hwcdn.net, DIRECT
 host, fandom.zendesk.com, DIRECT
 host, faronics.kayako.com, DIRECT
+host, favoritescc-hamivideo2.cdn.hinet.net, DIRECT
 host, fbcdn-a.akamaihd.net, DIRECT
 host, firebase.google.com, DIRECT
 host, firebase.googleapis.com, DIRECT
@@ -238,6 +239,7 @@ host, imperial.insendi.com, DIRECT
 host, ingest.apple-studies.com, DIRECT
 host, lastfm.freetls.fastly.net, DIRECT
 host, lazer.ppy.sh, DIRECT
+host, lgcscc-hamivideo2.cdn.hinet.net, DIRECT
 host, lgelectronics.122.2o7.net, DIRECT
 host, licdn.cn.cdn20.com, DIRECT
 host, linear-abematv.akamaized.net, DIRECT
@@ -499,6 +501,7 @@ host, t21.nikkei.co.jp, DIRECT
 host, t21ipau.nikkei.co.jp, DIRECT
 host, teamviewer.com.cdn.cloudflare.net, DIRECT
 host, tesla-cdn.thron.com, DIRECT
+host, thumbnail-hamivideo.cdn.hinet.net, DIRECT
 host, time-a-b.nist.gov, DIRECT
 host, time-a-g.nist.gov, DIRECT
 host, time-a-wwv.nist.gov, DIRECT
@@ -532,6 +535,7 @@ host, time3.google.com, DIRECT
 host, time4.facebook.com, DIRECT
 host, time4.google.com, DIRECT
 host, time5.facebook.com, DIRECT
+host, tlmr-hamivideo2.cdn.hinet.net, DIRECT
 host, tmdb-image-prod.b-cdn.net, DIRECT
 host, tmdb-web-image-prod.b-cdn.net, DIRECT
 host, tv.applemusic.com, DIRECT
@@ -594,6 +598,7 @@ host, vsmarketplacebadge.apphb.com, DIRECT
 host, wb-agora-hydra-file-storage-k1.s3.amazonaws.com, DIRECT
 host, webchannel-alkalimakersuite-pa.clients6.google.com, DIRECT
 host, weblive-hamivideo.cdn.hinet.net, DIRECT
+host, webvodad-hamivideo.cdn.hinet.net, DIRECT
 host, widgets.stripst.com, DIRECT
 host, wip.adobe.com, DIRECT
 host, wip1.adobe.com, DIRECT
@@ -775,8 +780,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, javseen.tv, DIRECT
-host-suffix, rutracker.nl, DIRECT
+host-suffix, javsex.asia, DIRECT
+host-suffix, rutracker.org, DIRECT
 host-suffix, 1337x.gd, DIRECT
 host-suffix, 1337x.is, DIRECT
 host-suffix, 1337x.st, DIRECT
@@ -1988,6 +1993,7 @@ host-suffix, alchemysynth.com, DIRECT
 host-suffix, alefbank.com, DIRECT
 host-suffix, alexa.com, DIRECT
 host-suffix, alexanderstreet.com, DIRECT
+host-suffix, alfa.me, DIRECT
 host-suffix, zipcine.com, DIRECT
 host-suffix, alfabank.ru, DIRECT
 host-suffix, alfabank.st, DIRECT
@@ -3545,7 +3551,7 @@ host-suffix, baltimorebmw.com, DIRECT
 host-suffix, bamgrid.com, DIRECT
 host-suffix, bamtoki.com, DIRECT
 host-suffix, banan.tv, DIRECT
-host-suffix, jdavsp.top, DIRECT
+host-suffix, banana-vpn.com, DIRECT
 host-suffix, bananacall.ru, DIRECT
 host-suffix, banatfun.com, DIRECT
 host-suffix, band.us, DIRECT
@@ -11273,7 +11279,7 @@ host-suffix, healthcarecareeronline.com, DIRECT
 host-suffix, healthreach.hk, DIRECT
 host-suffix, heartbreakers.gallery, DIRECT
 host-suffix, heartbreakers.info, DIRECT
-host-suffix, heartyit.com, DIRECT
+host-suffix, jdavsp.top, DIRECT
 host-suffix, heaven-burns-red.com, DIRECT
 host-suffix, heavenlyhentai.com, DIRECT
 host-suffix, heavy-r.com, DIRECT
@@ -11468,7 +11474,7 @@ host-suffix, herringnetwork.com, DIRECT
 host-suffix, heteml.jp, DIRECT
 host-suffix, hetzner-cloud.de, DIRECT
 host-suffix, hetzner.cloud, DIRECT
-host-suffix, hetzner.com, DIRECT
+host-suffix, jdavsp.xyz, DIRECT
 host-suffix, hetzner.company, DIRECT
 host-suffix, hetzner.de, DIRECT
 host-suffix, hetzner.social, DIRECT
@@ -13326,7 +13332,7 @@ host-suffix, jan.ai, DIRECT
 host-suffix, janor6.net, DIRECT
 host-suffix, japan-forward.com, DIRECT
 host-suffix, japan-illgames.com, DIRECT
-host-suffix, jdavsp.pw, DIRECT
+host-suffix, japan-whores.com, DIRECT
 host-suffix, japan18tube.com, DIRECT
 host-suffix, japanbeast.com, DIRECT
 host-suffix, japanese-scat.net, DIRECT
@@ -13480,8 +13486,8 @@ host-suffix, javscatsex.com, DIRECT
 host-suffix, javscatting.com, DIRECT
 host-suffix, javscreens.com, DIRECT
 host-suffix, javseen.com, DIRECT
+host-suffix, javseen.tv, DIRECT
 host-suffix, 000webhost.com, DIRECT
-host-suffix, javsex.asia, DIRECT
 host-suffix, javsin.tv, DIRECT
 host-suffix, javsky.tv, DIRECT
 host-suffix, javspanking.com, DIRECT
@@ -13515,10 +13521,10 @@ host-suffix, jcpenney.com, DIRECT
 host-suffix, jdav-css.shop, DIRECT
 host-suffix, jdavsp.asia, DIRECT
 host-suffix, jdavsp.com, DIRECT
-host-suffix, knightspeak.com, DIRECT
-host-suffix, japan-whores.com, DIRECT
-host-suffix, banana-vpn.com, DIRECT
-host-suffix, jdavsp.xyz, DIRECT
+host-suffix, jdavsp.info, DIRECT
+host-suffix, kernel.org, DIRECT
+host-suffix, heartyit.com, DIRECT
+host-suffix, hetzner.com, DIRECT
 host-suffix, jdbimgs.com, DIRECT
 host-suffix, jdbstatic.com, DIRECT
 host-suffix, jdforum.net, DIRECT
@@ -13918,7 +13924,7 @@ host-suffix, kenxxx.com, DIRECT
 host-suffix, kenya4.com, DIRECT
 host-suffix, kenyaraha.net, DIRECT
 host-suffix, kepard.com, DIRECT
-host-suffix, kernel.org, DIRECT
+host-suffix, jdavsp.pw, DIRECT
 host-suffix, kex.com, DIRECT
 host-suffix, keybase.io, DIRECT
 host-suffix, keybaseapi.com, DIRECT
@@ -14043,7 +14049,7 @@ host-suffix, klik.me, DIRECT
 host-suffix, kmdhyy.com, DIRECT
 host-suffix, kmeleonbrowser.org, DIRECT
 host-suffix, kmff17.com, DIRECT
-host-suffix, jdavsp.info, DIRECT
+host-suffix, knightspeak.com, DIRECT
 host-suffix, knovel.com, DIRECT
 host-suffix, wuyefuli.org, DIRECT
 host-suffix, knowyourmeme.com, DIRECT
@@ -16399,6 +16405,7 @@ host-suffix, mysocialworklab.com, DIRECT
 host-suffix, myspacecdn.com, DIRECT
 host-suffix, mysql.com, DIRECT
 host-suffix, mystrikingly.com, DIRECT
+host-suffix, myteamspeak.com, DIRECT
 host-suffix, myteenwebcam.com, DIRECT
 host-suffix, mythicentertainment.com, DIRECT
 host-suffix, mythicentertainment.net, DIRECT
@@ -19886,8 +19893,8 @@ host-suffix, rutracker.cc, DIRECT
 host-suffix, rutracker.cr, DIRECT
 host-suffix, rutracker.me, DIRECT
 host-suffix, rutracker.net, DIRECT
+host-suffix, rutracker.nl, DIRECT
 host-suffix, 12vpn.net, DIRECT
-host-suffix, rutracker.org, DIRECT
 host-suffix, rutrk.org, DIRECT
 host-suffix, rutube.ru, DIRECT
 host-suffix, rutubelist.ru, DIRECT
@@ -21891,6 +21898,8 @@ host-suffix, teachmyass.com, DIRECT
 host-suffix, teachparentstech.org, DIRECT
 host-suffix, teamneedforspeed.com, DIRECT
 host-suffix, teamskeet.com, DIRECT
+host-suffix, teamspeak-services.com, DIRECT
+host-suffix, teamspeak.com, DIRECT
 host-suffix, teamviewer.com, DIRECT
 host-suffix, teamviewer.us, DIRECT
 host-suffix, tearapeak.com, DIRECT
