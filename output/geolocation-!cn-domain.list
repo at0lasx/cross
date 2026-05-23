@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-05-22T01:58:02.028Z
-# Total: 26275 rules
+# Updated: 2026-05-23T01:49:08.078Z
+# Total: 26278 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -780,8 +780,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, javspanking.com, DIRECT
-host-suffix, rutube.ru, DIRECT
+host-suffix, javstar.club, DIRECT
+host-suffix, rutracker.nl, DIRECT
 host-suffix, 1337x.gd, DIRECT
 host-suffix, 1337x.is, DIRECT
 host-suffix, 1337x.st, DIRECT
@@ -927,6 +927,7 @@ host-suffix, 22112211.xyz, DIRECT
 host-suffix, 233abc.com, DIRECT
 host-suffix, 2371tom.com, DIRECT
 host-suffix, 24h.tv, DIRECT
+host-suffix, 24hbook.com, DIRECT
 host-suffix, 24hjav.com, DIRECT
 host-suffix, 24hrs.ca, DIRECT
 host-suffix, 24porn.com, DIRECT
@@ -2835,7 +2836,7 @@ host-suffix, applestore.me, DIRECT
 host-suffix, applestore.net, DIRECT
 host-suffix, yoyoav.net, DIRECT
 host-suffix, applestore.ph, DIRECT
-host-suffix, applestore.qa, DIRECT
+host-suffix, jenkins.io, DIRECT
 host-suffix, applestore.sg, DIRECT
 host-suffix, applestore.wang, DIRECT
 host-suffix, applestoreonline.com, DIRECT
@@ -4285,7 +4286,7 @@ host-suffix, bisq.network, DIRECT
 host-suffix, bistudio.com, DIRECT
 host-suffix, youtube.my, DIRECT
 host-suffix, bit-z.com, DIRECT
-host-suffix, jennylist.xyz, DIRECT
+host-suffix, bit.do, DIRECT
 host-suffix, bit.ly, DIRECT
 host-suffix, bitbaby.com, DIRECT
 host-suffix, bitballoon.com, DIRECT
@@ -5318,7 +5319,7 @@ host-suffix, buyaple.com, DIRECT
 host-suffix, buybeatsbydre-uk.com, DIRECT
 host-suffix, buybeatsheadphonesbydre.com, DIRECT
 host-suffix, buycheapbeatsbus.com, DIRECT
-host-suffix, buycheapbeatsbydre.com, DIRECT
+host-suffix, jdforum.net, DIRECT
 host-suffix, buycheapbeatsbydreshop.com, DIRECT
 host-suffix, buycheapbeatsdreuk.com, DIRECT
 host-suffix, buydrdrebeatbox.com, DIRECT
@@ -7883,7 +7884,7 @@ host-suffix, dw-world.com, DIRECT
 host-suffix, dw-world.de, DIRECT
 host-suffix, dw.com, DIRECT
 host-suffix, dw.de, DIRECT
-host-suffix, jenkins.io, DIRECT
+host-suffix, dweb.link, DIRECT
 host-suffix, dwg.com, DIRECT
 host-suffix, dwgtrueconvert.com, DIRECT
 host-suffix, dwgtrueview.com, DIRECT
@@ -13491,8 +13492,8 @@ host-suffix, javseen.tv, DIRECT
 host-suffix, javsex.asia, DIRECT
 host-suffix, javsin.tv, DIRECT
 host-suffix, javsky.tv, DIRECT
+host-suffix, javspanking.com, DIRECT
 host-suffix, 000webhost.com, DIRECT
-host-suffix, javstar.club, DIRECT
 host-suffix, javstore.net, DIRECT
 host-suffix, javsx.com, DIRECT
 host-suffix, javtag.net, DIRECT
@@ -13527,10 +13528,10 @@ host-suffix, jdavsp.pw, DIRECT
 host-suffix, jdavsp.top, DIRECT
 host-suffix, jdavsp.xyz, DIRECT
 host-suffix, jdbimgs.com, DIRECT
-host-suffix, jdbstatic.com, DIRECT
-host-suffix, suprememastertv.com, DIRECT
-host-suffix, dweb.link, DIRECT
-host-suffix, bit.do, DIRECT
+host-suffix, jex.com, DIRECT
+host-suffix, buycheapbeatsbydre.com, DIRECT
+host-suffix, applestore.qa, DIRECT
+host-suffix, jennylist.xyz, DIRECT
 host-suffix, jenporno.cz, DIRECT
 host-suffix, jerk-porn.com, DIRECT
 host-suffix, jerk24.com, DIRECT
@@ -13550,7 +13551,7 @@ host-suffix, jetbrains.space, DIRECT
 host-suffix, jetbrains.team, DIRECT
 host-suffix, jetfuelapp.com, DIRECT
 host-suffix, jetfuelapps.com, DIRECT
-host-suffix, jex.com, DIRECT
+host-suffix, jdbstatic.com, DIRECT
 host-suffix, x.co, DIRECT
 host-suffix, jfengtime.com, DIRECT
 host-suffix, jfn.su, DIRECT
@@ -14902,6 +14903,7 @@ host-suffix, marvelsuperheroseptember.com, DIRECT
 host-suffix, marvelsuperwar.com, DIRECT
 host-suffix, marxist.net, DIRECT
 host-suffix, marxists.org, DIRECT
+host-suffix, mas.to, DIRECT
 host-suffix, masalabin.com, DIRECT
 host-suffix, masaladesi.com, DIRECT
 host-suffix, masalaseen.net, DIRECT
@@ -16582,6 +16584,7 @@ host-suffix, nenastran.com, DIRECT
 host-suffix, nenitas.club, DIRECT
 host-suffix, nentindo.net, DIRECT
 host-suffix, neo-miracle.com, DIRECT
+host-suffix, neodb.social, DIRECT
 host-suffix, neoforged.net, DIRECT
 host-suffix, wikipedia.org, DIRECT
 host-suffix, neovim.io, DIRECT
@@ -19900,10 +19903,10 @@ host-suffix, rutracker.cc, DIRECT
 host-suffix, rutracker.cr, DIRECT
 host-suffix, rutracker.me, DIRECT
 host-suffix, rutracker.net, DIRECT
-host-suffix, rutracker.nl, DIRECT
+host-suffix, 12vpn.net, DIRECT
 host-suffix, rutracker.org, DIRECT
 host-suffix, rutrk.org, DIRECT
-host-suffix, 12vpn.net, DIRECT
+host-suffix, rutube.ru, DIRECT
 host-suffix, rutubelist.ru, DIRECT
 host-suffix, ruvideos.net, DIRECT
 host-suffix, rwb.ru, DIRECT
@@ -21646,7 +21649,7 @@ host-suffix, supportfacebook.com, DIRECT
 host-suffix, supr.cl, DIRECT
 host-suffix, supremacy.com, DIRECT
 host-suffix, supremacy.net, DIRECT
-host-suffix, jdforum.net, DIRECT
+host-suffix, suprememastertv.com, DIRECT
 host-suffix, sureporn.com, DIRECT
 host-suffix, surface.com, DIRECT
 host-suffix, surfeasy.com, DIRECT
