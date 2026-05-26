@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-05-25T02:01:54.795Z
-# Total: 26278 rules
+# Updated: 2026-05-26T01:53:58.372Z
+# Total: 26279 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -781,7 +781,7 @@ host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
 host-suffix, javstar.club, DIRECT
-host-suffix, rutracker.nl, DIRECT
+host-suffix, rutrk.org, DIRECT
 host-suffix, 1337x.gd, DIRECT
 host-suffix, 1337x.is, DIRECT
 host-suffix, 1337x.st, DIRECT
@@ -1731,7 +1731,7 @@ host-suffix, ah-me.com, DIRECT
 host-suffix, ahcathyxxx.com, DIRECT
 host-suffix, ahegao.online, DIRECT
 host-suffix, ahentaitv.com, DIRECT
-host-suffix, ahlxs-me.buzz, DIRECT
+host-suffix, jennylist.xyz, DIRECT
 host-suffix, ahlxsdh.sbs, DIRECT
 host-suffix, ahmia.fi, DIRECT
 host-suffix, ahorsecock.com, DIRECT
@@ -2836,7 +2836,7 @@ host-suffix, applestore.me, DIRECT
 host-suffix, applestore.net, DIRECT
 host-suffix, yoyoav.net, DIRECT
 host-suffix, applestore.ph, DIRECT
-host-suffix, jenkins.io, DIRECT
+host-suffix, applestore.qa, DIRECT
 host-suffix, applestore.sg, DIRECT
 host-suffix, applestore.wang, DIRECT
 host-suffix, applestoreonline.com, DIRECT
@@ -5319,7 +5319,7 @@ host-suffix, buyaple.com, DIRECT
 host-suffix, buybeatsbydre-uk.com, DIRECT
 host-suffix, buybeatsheadphonesbydre.com, DIRECT
 host-suffix, buycheapbeatsbus.com, DIRECT
-host-suffix, jdforum.net, DIRECT
+host-suffix, buycheapbeatsbydre.com, DIRECT
 host-suffix, buycheapbeatsbydreshop.com, DIRECT
 host-suffix, buycheapbeatsdreuk.com, DIRECT
 host-suffix, buydrdrebeatbox.com, DIRECT
@@ -13528,11 +13528,11 @@ host-suffix, jdavsp.pw, DIRECT
 host-suffix, jdavsp.top, DIRECT
 host-suffix, jdavsp.xyz, DIRECT
 host-suffix, jdbimgs.com, DIRECT
-host-suffix, jex.com, DIRECT
-host-suffix, buycheapbeatsbydre.com, DIRECT
-host-suffix, applestore.qa, DIRECT
-host-suffix, jennylist.xyz, DIRECT
-host-suffix, jenporno.cz, DIRECT
+host-suffix, jdbstatic.com, DIRECT
+host-suffix, jdforum.net, DIRECT
+host-suffix, strepsils.at, DIRECT
+host-suffix, ahlxs-me.buzz, DIRECT
+host-suffix, taqunuhai.vip, DIRECT
 host-suffix, jerk-porn.com, DIRECT
 host-suffix, jerk24.com, DIRECT
 host-suffix, jerkdolls.com, DIRECT
@@ -13551,7 +13551,7 @@ host-suffix, jetbrains.space, DIRECT
 host-suffix, jetbrains.team, DIRECT
 host-suffix, jetfuelapp.com, DIRECT
 host-suffix, jetfuelapps.com, DIRECT
-host-suffix, jdbstatic.com, DIRECT
+host-suffix, jex.com, DIRECT
 host-suffix, x.co, DIRECT
 host-suffix, jfengtime.com, DIRECT
 host-suffix, jfn.su, DIRECT
@@ -15422,6 +15422,7 @@ host-suffix, microvpn.com, DIRECT
 host-suffix, micstl.com, DIRECT
 host-suffix, midatlanticbmwmotorcycles.com, DIRECT
 host-suffix, midentsolutions.com, DIRECT
+host-suffix, midjourney.com, DIRECT
 host-suffix, midoushe.com, DIRECT
 host-suffix, wistia.net, DIRECT
 host-suffix, miexnoviadesnuda.com, DIRECT
@@ -19903,9 +19904,9 @@ host-suffix, rutracker.cc, DIRECT
 host-suffix, rutracker.cr, DIRECT
 host-suffix, rutracker.me, DIRECT
 host-suffix, rutracker.net, DIRECT
-host-suffix, 12vpn.net, DIRECT
+host-suffix, rutracker.nl, DIRECT
 host-suffix, rutracker.org, DIRECT
-host-suffix, rutrk.org, DIRECT
+host-suffix, 12vpn.net, DIRECT
 host-suffix, rutube.ru, DIRECT
 host-suffix, rutubelist.ru, DIRECT
 host-suffix, ruvideos.net, DIRECT
@@ -21521,7 +21522,7 @@ host-suffix, streamporn.cc, DIRECT
 host-suffix, streamporn.pw, DIRECT
 host-suffix, streamsex.com, DIRECT
 host-suffix, streetmeatasia.com, DIRECT
-host-suffix, strepsils.at, DIRECT
+host-suffix, jenkins.io, DIRECT
 host-suffix, strepsils.ch, DIRECT
 host-suffix, vpnrouter.homes, DIRECT
 host-suffix, vpnreviewz.com, DIRECT
@@ -21864,7 +21865,7 @@ host-suffix, tapatalk.com, DIRECT
 host-suffix, tapnow.ai, DIRECT
 host-suffix, taptap.io, DIRECT
 host-suffix, taptotokyo.com, DIRECT
-host-suffix, taqunuhai.vip, DIRECT
+host-suffix, jenporno.cz, DIRECT
 host-suffix, taradinhos.com, DIRECT
 host-suffix, tarantool.io, DIRECT
 host-suffix, tarantoolplus.ru, DIRECT
