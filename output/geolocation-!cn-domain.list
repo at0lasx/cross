@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-06-02T02:12:26.565Z
-# Total: 26324 rules
+# Updated: 2026-06-03T02:30:09.752Z
+# Total: 26325 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -782,7 +782,7 @@ host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
 host-suffix, javwide.com, DIRECT
-host-suffix, hkgolden.media, DIRECT
+host-suffix, humoron.com, DIRECT
 host-suffix, 1337x.gd, DIRECT
 host-suffix, 1337x.is, DIRECT
 host-suffix, 1337x.st, DIRECT
@@ -6156,7 +6156,7 @@ host-suffix, yango.africa, DIRECT
 host-suffix, yango-tech.com, DIRECT
 host-suffix, yango-team.com, DIRECT
 host-suffix, climate-server.com, DIRECT
-host-suffix, jetbrains.space, DIRECT
+host-suffix, clinica-tibet.ru, DIRECT
 host-suffix, clinical-videos.com, DIRECT
 host-suffix, clinicalkey.com, DIRECT
 host-suffix, clip16.com, DIRECT
@@ -6810,7 +6810,7 @@ host-suffix, dart.dev, DIRECT
 host-suffix, dartlang.org, DIRECT
 host-suffix, dartpad.dev, DIRECT
 host-suffix, dartsearch-cn.net, DIRECT
-host-suffix, dartsearch.net, DIRECT
+host-suffix, jetbrains.com, DIRECT
 host-suffix, darwindimensions.com, DIRECT
 host-suffix, darwinsource.com, DIRECT
 host-suffix, darwinsource.org, DIRECT
@@ -11607,7 +11607,7 @@ host-suffix, hkf202312.shop, DIRECT
 host-suffix, hkfaa.com, DIRECT
 host-suffix, hkgalden.com, DIRECT
 host-suffix, hkgolden.com, DIRECT
-host-suffix, jetbrains.net, DIRECT
+host-suffix, hkgolden.media, DIRECT
 host-suffix, hkgpao.com, DIRECT
 host-suffix, hkheadline.com, DIRECT
 host-suffix, xn--7hv594h.com, DIRECT
@@ -12118,7 +12118,7 @@ host-suffix, humanparty.me, DIRECT
 host-suffix, humanrightspressawards.org, DIRECT
 host-suffix, humblebundle.com, DIRECT
 host-suffix, hummingbird.ms, DIRECT
-host-suffix, humoron.com, DIRECT
+host-suffix, jetbrains.net, DIRECT
 host-suffix, hung-ya.com, DIRECT
 host-suffix, hungryclit.com, DIRECT
 host-suffix, hunk.ws, DIRECT
@@ -13553,9 +13553,9 @@ host-suffix, x0rd38.xyz, DIRECT
 host-suffix, jessicaturner.com, DIRECT
 host-suffix, jetbrains.ai, DIRECT
 host-suffix, jetbrains.cloud, DIRECT
-host-suffix, vrcdn.video, DIRECT
+host-suffix, dartsearch.net, DIRECT
 host-suffix, 12vpn.net, DIRECT
-host-suffix, clinica-tibet.ru, DIRECT
+host-suffix, spotify.com, DIRECT
 host-suffix, jetbrains.team, DIRECT
 host-suffix, jetfuelapp.com, DIRECT
 host-suffix, jetfuelapps.com, DIRECT
@@ -21265,7 +21265,7 @@ host-suffix, vrsexgames.biz, DIRECT
 host-suffix, spotflux.com, DIRECT
 host-suffix, spoti.fi, DIRECT
 host-suffix, spotify-everywhere.com, DIRECT
-host-suffix, spotify.com, DIRECT
+host-suffix, jetbrains.space, DIRECT
 host-suffix, spotify.design, DIRECT
 host-suffix, spotify.link, DIRECT
 host-suffix, spotifycdn.com, DIRECT
@@ -21388,7 +21388,7 @@ host-suffix, starbucks.com, DIRECT
 host-suffix, vrchat.net, DIRECT
 host-suffix, vrchat.com, DIRECT
 host-suffix, vrchat.cloud, DIRECT
-host-suffix, jetbrains.com, DIRECT
+host-suffix, vrcdn.video, DIRECT
 host-suffix, vrcdn.live, DIRECT
 host-suffix, vrcdn.cloud, DIRECT
 host-suffix, vrcams.io, DIRECT
@@ -22538,6 +22538,7 @@ host-suffix, tomonews.net, DIRECT
 host-suffix, tomp3.cc, DIRECT
 host-suffix, tomsguide.com, DIRECT
 host-suffix, ton.org, DIRECT
+host-suffix, toncenter.com, DIRECT
 host-suffix, tonec.com, DIRECT
 host-suffix, tonicmovies.com, DIRECT
 host-suffix, toolforge.org, DIRECT
