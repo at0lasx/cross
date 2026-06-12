@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-06-11T02:12:08.701Z
-# Total: 112788 rules
+# Updated: 2026-06-12T02:08:27.718Z
+# Total: 112796 rules
 host-suffix, alibaba, DIRECT
 host-suffix, xn--zfr164b, DIRECT
 host-suffix, xn--xhq521b, DIRECT
@@ -47,8 +47,8 @@ host-suffix, cn, DIRECT
 host-suffix, citic, DIRECT
 host-suffix, baidu, DIRECT
 host-suffix, alipay, DIRECT
-host-suffix, jsddbs.com, DIRECT
-host-suffix, ishangu.com, DIRECT
+host-suffix, jsddhjt.com, DIRECT
+host-suffix, maiyanju.com, DIRECT
 host-suffix, 027hxzy.com, DIRECT
 host-suffix, 027hy.com, DIRECT
 host-suffix, 027idc.com, DIRECT
@@ -7960,7 +7960,7 @@ host-suffix, 8295099d311031.beer, DIRECT
 host-suffix, 8295dc6e7e797638.com, DIRECT
 host-suffix, 82987977.com, DIRECT
 host-suffix, 829e30d07853f4fd.com, DIRECT
-host-suffix, 82d5d0e4f10291.beer, DIRECT
+host-suffix, jsjsgroup.com, DIRECT
 host-suffix, 82e0dd98d1edbbb1.com, DIRECT
 host-suffix, 82flex.com, DIRECT
 host-suffix, 82ip.com, DIRECT
@@ -10293,6 +10293,7 @@ host-suffix, ahcaw.com, DIRECT
 host-suffix, ahceisc.com, DIRECT
 host-suffix, ahcfrc.com, DIRECT
 host-suffix, ahchanye.com, DIRECT
+host-suffix, ahcjw.com, DIRECT
 host-suffix, ahcnb.com, DIRECT
 host-suffix, ahcoating.com, DIRECT
 host-suffix, ahcsdz.com, DIRECT
@@ -42292,6 +42293,7 @@ host-suffix, gxxlzxs.com, DIRECT
 host-suffix, gxxlzyc.com, DIRECT
 host-suffix, gxxmglzx.com, DIRECT
 host-suffix, gxxmjjs.com, DIRECT
+host-suffix, gxxmt.com, DIRECT
 host-suffix, gxxmyjs.com, DIRECT
 host-suffix, gxxqsm.com, DIRECT
 host-suffix, gxxrf.com, DIRECT
@@ -52414,7 +52416,7 @@ host-suffix, ishang.net, DIRECT
 host-suffix, ishanghome.com, DIRECT
 host-suffix, ishangman.com, DIRECT
 host-suffix, ishangtong.com, DIRECT
-host-suffix, jsjsgroup.com, DIRECT
+host-suffix, ishangu.com, DIRECT
 host-suffix, ishansong.com, DIRECT
 host-suffix, ishaohuang.com, DIRECT
 host-suffix, isharepc.com, DIRECT
@@ -52427,6 +52429,7 @@ host-suffix, ishengxue.com, DIRECT
 host-suffix, ishenping.com, DIRECT
 host-suffix, ishenyou.com, DIRECT
 host-suffix, ishijing.com, DIRECT
+host-suffix, ishijue.com, DIRECT
 host-suffix, ishipoffshore.com, DIRECT
 host-suffix, ishouhong.com, DIRECT
 host-suffix, ishouka.com, DIRECT
@@ -56243,8 +56246,8 @@ host-suffix, jsd2021.com, DIRECT
 host-suffix, jsdagua.com, DIRECT
 host-suffix, jsdas.com, DIRECT
 host-suffix, jsdcly.com, DIRECT
+host-suffix, jsddbs.com, DIRECT
 host-suffix, 0.zone, DIRECT
-host-suffix, jsddhjt.com, DIRECT
 host-suffix, jsddz.net, DIRECT
 host-suffix, jsdebang.com, DIRECT
 host-suffix, jsdehui.com, DIRECT
@@ -56417,10 +56420,10 @@ host-suffix, jsjljy.com, DIRECT
 host-suffix, jsjnsw.com, DIRECT
 host-suffix, jsjnw.org, DIRECT
 host-suffix, jsjrtzjt.com, DIRECT
-host-suffix, plesk-cn.com, DIRECT
+host-suffix, jsjs1982.com, DIRECT
+host-suffix, 82d5d0e4f10291.beer, DIRECT
 host-suffix, 027htxt.com, DIRECT
-host-suffix, zhiyuanxinglvye.com, DIRECT
-host-suffix, jsjszgz.com, DIRECT
+host-suffix, l2cn.com, DIRECT
 host-suffix, jsjtxx.com, DIRECT
 host-suffix, jsjunma.com, DIRECT
 host-suffix, jsjwkg.com, DIRECT
@@ -60063,7 +60066,7 @@ host-suffix, l-zb.com, DIRECT
 host-suffix, l.biz, DIRECT
 host-suffix, l178.info, DIRECT
 host-suffix, l1yu.com, DIRECT
-host-suffix, l2cn.com, DIRECT
+host-suffix, jsjszgz.com, DIRECT
 host-suffix, l2h.site, DIRECT
 host-suffix, l2t7.cc, DIRECT
 host-suffix, l2z4l.net, DIRECT
@@ -60247,6 +60250,7 @@ host-suffix, landchina.com, DIRECT
 host-suffix, landed.cc, DIRECT
 host-suffix, landhonor.com, DIRECT
 host-suffix, landi.com, DIRECT
+host-suffix, landian.news, DIRECT
 host-suffix, landian.vip, DIRECT
 host-suffix, landian.xyz, DIRECT
 host-suffix, landiannews.com, DIRECT
@@ -64690,7 +64694,7 @@ host-suffix, maixiaodao.com, DIRECT
 host-suffix, maixinxin.com, DIRECT
 host-suffix, maiya91.com, DIRECT
 host-suffix, maiyadi.com, DIRECT
-host-suffix, maiyanju.com, DIRECT
+host-suffix, jsjskgjt.com, DIRECT
 host-suffix, maiyaole.com, DIRECT
 host-suffix, maiyatian.com, DIRECT
 host-suffix, maiyayk.com, DIRECT
@@ -69376,6 +69380,7 @@ host-suffix, nfmedia.com, DIRECT
 host-suffix, nfmrtfv.com, DIRECT
 host-suffix, nfnews.com, DIRECT
 host-suffix, nfoservers.com, DIRECT
+host-suffix, nfpeople.com, DIRECT
 host-suffix, nfqbyp.com, DIRECT
 host-suffix, nfs-china.com, DIRECT
 host-suffix, nfschina.com, DIRECT
@@ -70818,6 +70823,7 @@ host-suffix, npqx.com, DIRECT
 host-suffix, nprc.net, DIRECT
 host-suffix, npsdyyy.com, DIRECT
 host-suffix, npsel.com, DIRECT
+host-suffix, npsv6.com, DIRECT
 host-suffix, nptpark.com, DIRECT
 host-suffix, nptparking.com, DIRECT
 host-suffix, nptwedding.com, DIRECT
@@ -73744,7 +73750,7 @@ host-suffix, plcloud.com, DIRECT
 host-suffix, plctlab.com, DIRECT
 host-suffix, plentypolymer.com, DIRECT
 host-suffix, pleo-securelogin.com, DIRECT
-host-suffix, jsjs1982.com, DIRECT
+host-suffix, plesk-cn.com, DIRECT
 host-suffix, plex2.com, DIRECT
 host-suffix, plexpt.com, DIRECT
 host-suffix, plfrog.com, DIRECT
@@ -92433,6 +92439,7 @@ host-suffix, ucnest.com, DIRECT
 host-suffix, ucpaas.com, DIRECT
 host-suffix, ucpchina.com, DIRECT
 host-suffix, ucpopo.com, DIRECT
+host-suffix, ucppt.com, DIRECT
 host-suffix, ucren.com, DIRECT
 host-suffix, ucsanya.com, DIRECT
 host-suffix, ucss.ninja, DIRECT
@@ -93472,6 +93479,7 @@ host-suffix, vcchar.com, DIRECT
 host-suffix, vcd.io, DIRECT
 host-suffix, vcdnga.com, DIRECT
 host-suffix, vcg.com, DIRECT
+host-suffix, vcgapi.com, DIRECT
 host-suffix, vchangyi.com, DIRECT
 host-suffix, vcimg.com, DIRECT
 host-suffix, vcinchina.com, DIRECT
@@ -109706,7 +109714,7 @@ host-suffix, zhiyu-china.com, DIRECT
 host-suffix, zhiyuan-robot.com, DIRECT
 host-suffix, zhiyuanbang.com, DIRECT
 host-suffix, zhiyuanshijie.com, DIRECT
-host-suffix, jsjskgjt.com, DIRECT
+host-suffix, zhiyuanxinglvye.com, DIRECT
 host-suffix, zhiyuanyun.com, DIRECT
 host-suffix, zhiyuanzhongyi.com, DIRECT
 host-suffix, zhiyuapp.com, DIRECT
