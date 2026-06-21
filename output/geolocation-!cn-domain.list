@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-06-20T02:01:54.789Z
-# Total: 26721 rules
+# Updated: 2026-06-21T02:13:55.717Z
+# Total: 26723 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -214,6 +214,8 @@ host, github-production-repository-image-32fea6.s3.amazonaws.com, DIRECT
 host, github-production-upload-manifest-file-7fdce7.s3.amazonaws.com, DIRECT
 host, github-production-user-asset-6210df.s3.amazonaws.com, DIRECT
 host, gitlab-assets.oss-cn-hongkong.aliyuncs.com, DIRECT
+host, gog-cdn-lumen.secure2.footprint.net, DIRECT
+host, gog-cdn.akamaized.net, DIRECT
 host, google-ohttp-relay-safebrowsing.fastly-edge.com, DIRECT
 host, hamivideo.hinet.net, DIRECT
 host, hammerandchisel.ssl.zendesk.com, DIRECT
