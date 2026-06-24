@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/spotify.yaml
 # Policy: DIRECT
-# Updated: 2026-06-23T01:56:13.765Z
-# Total: 26 rules
+# Updated: 2026-06-24T01:54:49.260Z
+# Total: 28 rules
 host, audio-ak-spotify-com.akamaized.net, DIRECT
 host, audio4-ak-spotify-com.akamaized.net, DIRECT
 host, cdn-spotify-experiments.conductrics.com, DIRECT
@@ -11,19 +11,21 @@ host, spotify.com.edgesuite.net, DIRECT
 host, spotify.map.fastly.net, DIRECT
 host, spotify.map.fastlylb.net, DIRECT
 host-suffix, byspotify.com, DIRECT
+host-suffix, lifeatspotify.com, DIRECT
 host-suffix, pscdn.co, DIRECT
 host-suffix, scdn.co, DIRECT
 host-suffix, spoti.fi, DIRECT
 host-suffix, spotify-everywhere.com, DIRECT
 host-suffix, spotify.com, DIRECT
 host-suffix, spotify.design, DIRECT
+host-suffix, spotify.link, DIRECT
 host-suffix, spotifycdn.com, DIRECT
 host-suffix, spotifycdn.net, DIRECT
 host-suffix, spotifycharts.com, DIRECT
 host-suffix, spotifycodes.com, DIRECT
 host-suffix, spotifyforbrands.com, DIRECT
+host-suffix, spotifyforvendors.com, DIRECT
 host-suffix, spotifyjobs.com, DIRECT
-host-suffix, spotify.link, DIRECT
 host-suffix, tospotify.com, DIRECT
 host, adeventtracker.spotify.com, DIRECT
 host, adstudio-assets.scdn.co, DIRECT
