@@ -1,6 +1,6 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-06-26T02:00:27.144Z
+# Updated: 2026-06-27T01:54:11.247Z
 # Total: 26738 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
