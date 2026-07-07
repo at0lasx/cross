@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-07-06T01:50:29.871Z
-# Total: 26778 rules
+# Updated: 2026-07-07T01:47:19.182Z
+# Total: 26780 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -799,8 +799,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, ruptly.video, DIRECT
-host-suffix, oklink.com, DIRECT
+host-suffix, rurtnews.com, DIRECT
+host-suffix, sexvideo10.com, DIRECT
 host-suffix, 1337x.is, DIRECT
 host-suffix, 1337x.st, DIRECT
 host-suffix, 1337x.to, DIRECT
@@ -2411,7 +2411,7 @@ host-suffix, anchor.fm, DIRECT
 host-suffix, anchorfree.com, DIRECT
 host-suffix, ancsconf.org, DIRECT
 host-suffix, andfaraway.net, DIRECT
-host-suffix, jitouch.com, DIRECT
+host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
 host-suffix, android-x86.org, DIRECT
 host-suffix, android.com, DIRECT
 host-suffix, androidapksfree.com, DIRECT
@@ -6584,7 +6584,7 @@ host-suffix, costcobusinessdelivery.com, DIRECT
 host-suffix, cotolia.com, DIRECT
 host-suffix, cotweet.com, DIRECT
 host-suffix, cougarsexmovies.com, DIRECT
-host-suffix, jiuse.ai, DIRECT
+host-suffix, counter.social, DIRECT
 host-suffix, coupang.com, DIRECT
 host-suffix, coupangcdn.com, DIRECT
 host-suffix, yandex.lv, DIRECT
@@ -12478,7 +12478,7 @@ host-suffix, icq.im, DIRECT
 host-suffix, icq.lt, DIRECT
 host-suffix, icq.mobi, DIRECT
 host-suffix, icq.org, DIRECT
-host-suffix, icq.ru, DIRECT
+host-suffix, jiuse.ai, DIRECT
 host-suffix, icq.sg, DIRECT
 host-suffix, icq2mobile.com, DIRECT
 host-suffix, icq5.com, DIRECT
@@ -13789,9 +13789,9 @@ host-suffix, jintian.net, DIRECT
 host-suffix, jinx.com, DIRECT
 host-suffix, jira-tcsbank.ru, DIRECT
 host-suffix, jira.com, DIRECT
-host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
+host-suffix, plasticlabs.com, DIRECT
 host-suffix, 1337x.gd, DIRECT
-host-suffix, counter.social, DIRECT
+host-suffix, icq.ru, DIRECT
 host-suffix, xbox360.com, DIRECT
 host-suffix, jiuse.icu, DIRECT
 host-suffix, jiuse.io, DIRECT
@@ -17766,7 +17766,7 @@ host-suffix, okko.sport, DIRECT
 host-suffix, okko.tv, DIRECT
 host-suffix, okkoapi.tv, DIRECT
 host-suffix, okl.lt, DIRECT
-host-suffix, jitsi.org, DIRECT
+host-suffix, oklink.com, DIRECT
 host-suffix, oknovrossiu.ru, DIRECT
 host-suffix, okpool.me, DIRECT
 host-suffix, oktech.ru, DIRECT
@@ -18229,6 +18229,8 @@ host-suffix, patreoncommunity.com, DIRECT
 host-suffix, patreonusercontent.com, DIRECT
 host-suffix, paulsimon-music.com, DIRECT
 host-suffix, pavpal.com, DIRECT
+host-suffix, pawchive.pw, DIRECT
+host-suffix, pawchive.st, DIRECT
 host-suffix, pawoo.net, DIRECT
 host-suffix, paxful.com, DIRECT
 host-suffix, paxlicense.org, DIRECT
@@ -18727,7 +18729,7 @@ host-suffix, plannotator.ai, DIRECT
 host-suffix, plansondemand.com, DIRECT
 host-suffix, plantsvszombies2.com, DIRECT
 host-suffix, plasma-mobile.org, DIRECT
-host-suffix, plasticlabs.com, DIRECT
+host-suffix, jitouch.com, DIRECT
 host-suffix, plastics-cadcam.com, DIRECT
 host-suffix, platiecom.ru, DIRECT
 host-suffix, platinumlinks.org, DIRECT
@@ -20264,8 +20266,8 @@ host-suffix, runwayescorts.com, DIRECT
 host-suffix, rupress.org, DIRECT
 host-suffix, ruptly.agency, DIRECT
 host-suffix, ruptly.tv, DIRECT
+host-suffix, ruptly.video, DIRECT
 host-suffix, 000webhost.com, DIRECT
-host-suffix, rurtnews.com, DIRECT
 host-suffix, rusfinance.ru, DIRECT
 host-suffix, rusfinancebank.ru, DIRECT
 host-suffix, rushporn.online, DIRECT
@@ -20834,7 +20836,7 @@ host-suffix, sexu.com, DIRECT
 host-suffix, sexualhentai.net, DIRECT
 host-suffix, sexuria.com, DIRECT
 host-suffix, sexvid.xxx, DIRECT
-host-suffix, sexvideo10.com, DIRECT
+host-suffix, jitsi.org, DIRECT
 host-suffix, sexvideo12com.pro, DIRECT
 host-suffix, sexvideos.host, DIRECT
 host-suffix, sexvideos.tel, DIRECT
