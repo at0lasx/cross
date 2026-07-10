@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-07-09T01:27:45.131Z
-# Total: 112060 rules
+# Updated: 2026-07-10T01:25:07.437Z
+# Total: 112062 rules
 host-suffix, alibaba, DIRECT
 host-suffix, yun, DIRECT
 host-suffix, xn--zfr164b, DIRECT
@@ -55,7 +55,7 @@ host-suffix, baidu, DIRECT
 host-suffix, anquan, DIRECT
 host-suffix, alipay, DIRECT
 host-suffix, jsepa.com, DIRECT
-host-suffix, 185c72b7d750569a.com, DIRECT
+host-suffix, aliyunga0022.com, DIRECT
 host-suffix, 027idc.com, DIRECT
 host-suffix, 027jsxh.com, DIRECT
 host-suffix, 027one.com, DIRECT
@@ -2135,7 +2135,7 @@ host-suffix, 1845p3hr95.com, DIRECT
 host-suffix, 18488.com, DIRECT
 host-suffix, 185185.com, DIRECT
 host-suffix, 1857qc.net, DIRECT
-host-suffix, jslcjt.com, DIRECT
+host-suffix, 185c72b7d750569a.com, DIRECT
 host-suffix, 18665348887.com, DIRECT
 host-suffix, 186688.com, DIRECT
 host-suffix, 18713d3521023.beer, DIRECT
@@ -11365,7 +11365,7 @@ host-suffix, aliyunga0018.com, DIRECT
 host-suffix, aliyunga0019.com, DIRECT
 host-suffix, aliyunga0020.com, DIRECT
 host-suffix, aliyunga0021.com, DIRECT
-host-suffix, aliyunga0022.com, DIRECT
+host-suffix, jsldxcl.com, DIRECT
 host-suffix, aliyunga0023.com, DIRECT
 host-suffix, aliyunga0024.com, DIRECT
 host-suffix, aliyunga0025.com, DIRECT
@@ -17552,7 +17552,7 @@ host-suffix, butao.com, DIRECT
 host-suffix, butel.com, DIRECT
 host-suffix, butian.net, DIRECT
 host-suffix, butiao.com, DIRECT
-host-suffix, jsldweb.com, DIRECT
+host-suffix, butjx.com, DIRECT
 host-suffix, butongshe.com, DIRECT
 host-suffix, butterapis.com, DIRECT
 host-suffix, button-nt.com, DIRECT
@@ -19853,7 +19853,7 @@ host-suffix, cfishsoft.com, DIRECT
 host-suffix, cfjqr.com, DIRECT
 host-suffix, cfjzyxh.com, DIRECT
 host-suffix, cfkjgx.com, DIRECT
-host-suffix, cflab.net, DIRECT
+host-suffix, jslegal.com, DIRECT
 host-suffix, cfldcn.com, DIRECT
 host-suffix, cflm.com, DIRECT
 host-suffix, cflpla.com, DIRECT
@@ -38262,7 +38262,7 @@ host-suffix, ggy775.com, DIRECT
 host-suffix, ggyouyu.com, DIRECT
 host-suffix, ggysfw.com, DIRECT
 host-suffix, ggyx666.com, DIRECT
-host-suffix, jskxjl.com, DIRECT
+host-suffix, ggyy100.com, DIRECT
 host-suffix, ggzbbj.com, DIRECT
 host-suffix, ggzc.net, DIRECT
 host-suffix, ggzgc.com, DIRECT
@@ -56056,11 +56056,11 @@ host-suffix, jskpcg.org, DIRECT
 host-suffix, jskuajing.com, DIRECT
 host-suffix, jskunquan.com, DIRECT
 host-suffix, jskwt.com, DIRECT
-host-suffix, ggyy100.com, DIRECT
+host-suffix, jskxjl.com, DIRECT
+host-suffix, jslcjt.com, DIRECT
+host-suffix, tabuzhe.com, DIRECT
 host-suffix, 027hy.com, DIRECT
-host-suffix, butjx.com, DIRECT
-host-suffix, jsldxcl.com, DIRECT
-host-suffix, jslegal.com, DIRECT
+host-suffix, cflab.net, DIRECT
 host-suffix, jslhgroup.com, DIRECT
 host-suffix, jslhjg.com, DIRECT
 host-suffix, jslida.net, DIRECT
@@ -87336,7 +87336,7 @@ host-suffix, tabbitbrowser.com, DIRECT
 host-suffix, tabbypro.com, DIRECT
 host-suffix, tabbywork.com, DIRECT
 host-suffix, tableauxmly.com, DIRECT
-host-suffix, tabuzhe.com, DIRECT
+host-suffix, jsldweb.com, DIRECT
 host-suffix, tabxexplorer.com, DIRECT
 host-suffix, tachangxing.com, DIRECT
 host-suffix, tactan.net, DIRECT
@@ -91355,6 +91355,7 @@ host-suffix, twtstudio.com, DIRECT
 host-suffix, twty.vip, DIRECT
 host-suffix, twwtn.com, DIRECT
 host-suffix, twyuxin.com, DIRECT
+host-suffix, twyxh.com, DIRECT
 host-suffix, twyxi.com, DIRECT
 host-suffix, twz1t32lzy.com, DIRECT
 host-suffix, twzilla.com, DIRECT
@@ -111588,6 +111589,7 @@ host-suffix, zwzsh.net, DIRECT
 host-suffix, zwzyzx.com, DIRECT
 host-suffix, zx-tour.com, DIRECT
 host-suffix, zx-xcx.com, DIRECT
+host-suffix, zx.com, DIRECT
 host-suffix, zx0093.com, DIRECT
 host-suffix, zx017.com, DIRECT
 host-suffix, zx017.net, DIRECT
