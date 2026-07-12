@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-07-11T01:18:43.856Z
-# Total: 26786 rules
+# Updated: 2026-07-12T01:20:30.116Z
+# Total: 26802 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -799,8 +799,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, ruptly.video, DIRECT
-host-suffix, bigtitvenera.com, DIRECT
+host-suffix, ruptly.agency, DIRECT
+host-suffix, qatarescortsvip.com, DIRECT
 host-suffix, 1337x.is, DIRECT
 host-suffix, 1337x.st, DIRECT
 host-suffix, 1337x.to, DIRECT
@@ -4107,6 +4107,9 @@ host-suffix, bestbuystores.com, DIRECT
 host-suffix, bestbuytradein.com, DIRECT
 host-suffix, bestbuyus.com, DIRECT
 host-suffix, bestcamsites.net, DIRECT
+host-suffix, bestchange.com, DIRECT
+host-suffix, bestchange.net, DIRECT
+host-suffix, bestchange.ru, DIRECT
 host-suffix, bestclouddrive.com, DIRECT
 host-suffix, bestdori.com, DIRECT
 host-suffix, besterpornos.com, DIRECT
@@ -4239,7 +4242,7 @@ host-suffix, bigtitsgallery.net, DIRECT
 host-suffix, bigtitsmodelsdirectory.com, DIRECT
 host-suffix, bigtitsthreesomes.com, DIRECT
 host-suffix, bigtitterrynova.com, DIRECT
-host-suffix, jitsi.org, DIRECT
+host-suffix, bigtitvenera.com, DIRECT
 host-suffix, bigtopsites.com, DIRECT
 host-suffix, biguz.net, DIRECT
 host-suffix, biitii.com, DIRECT
@@ -6657,6 +6660,7 @@ host-suffix, critiquebrainz.org, DIRECT
 host-suffix, crixet.com, DIRECT
 host-suffix, crmdynint-gcc.com, DIRECT
 host-suffix, crmdynint.com, DIRECT
+host-suffix, crocoblock.com, DIRECT
 host-suffix, crocotube.com, DIRECT
 host-suffix, cromite.org, DIRECT
 host-suffix, crossborderexpansion.com, DIRECT
@@ -7021,6 +7025,7 @@ host-suffix, delcamp.net, DIRECT
 host-suffix, delcamtv.com, DIRECT
 host-suffix, delcamuniversity.com, DIRECT
 host-suffix, delcamusa.com, DIRECT
+host-suffix, delets.online, DIRECT
 host-suffix, yakbutterblues.com, DIRECT
 host-suffix, 12diasderegalosdeitunes.cl, DIRECT
 host-suffix, dell.ac, DIRECT
@@ -7036,7 +7041,7 @@ host-suffix, dell.ca, DIRECT
 host-suffix, dell.cd, DIRECT
 host-suffix, dell.cg, DIRECT
 host-suffix, dell.ch, DIRECT
-host-suffix, jitouch.com, DIRECT
+host-suffix, dell.cl, DIRECT
 host-suffix, yahoosportsbook.com, DIRECT
 host-suffix, yahoosandbox.com, DIRECT
 host-suffix, yahoomusic.com, DIRECT
@@ -7560,7 +7565,7 @@ host-suffix, disquscdn.com, DIRECT
 host-suffix, disqusservice.com, DIRECT
 host-suffix, dit-inc.us, DIRECT
 host-suffix, xxxymovies.com, DIRECT
-host-suffix, diwodiwo.xyz, DIRECT
+host-suffix, jitouch.com, DIRECT
 host-suffix, diyarbakirescort.com, DIRECT
 host-suffix, diyin.org, DIRECT
 host-suffix, diyuser.buzz, DIRECT
@@ -9166,7 +9171,7 @@ host-suffix, fantasiasguatemala.com, DIRECT
 host-suffix, fantasti.cc, DIRECT
 host-suffix, fantom.foundation, DIRECT
 host-suffix, fantom.network, DIRECT
-host-suffix, jiuse.ai, DIRECT
+host-suffix, fantv.hk, DIRECT
 host-suffix, fap-xxx.com, DIRECT
 host-suffix, fap18.net, DIRECT
 host-suffix, fap666.com, DIRECT
@@ -9619,7 +9624,7 @@ host-suffix, forbes.com, DIRECT
 host-suffix, forbesimg.com, DIRECT
 host-suffix, forbiddenasian.com, DIRECT
 host-suffix, forbiddenmomsarchive.com, DIRECT
-host-suffix, force.com, DIRECT
+host-suffix, jiuse.ai, DIRECT
 host-suffix, forduck.cyou, DIRECT
 host-suffix, forefront.ai, DIRECT
 host-suffix, foreignaffairs.com, DIRECT
@@ -10430,6 +10435,7 @@ host-suffix, getpocket.com, DIRECT
 host-suffix, getporn.tv, DIRECT
 host-suffix, getprintersupports.com, DIRECT
 host-suffix, getscorecash.com, DIRECT
+host-suffix, getsentry.com, DIRECT
 host-suffix, getsession.org, DIRECT
 host-suffix, getsexgames.com, DIRECT
 host-suffix, getsynapse.io, DIRECT
@@ -11323,6 +11329,8 @@ host-suffix, hao21.xyz, DIRECT
 host-suffix, hao62.xyz, DIRECT
 host-suffix, haori888.com, DIRECT
 host-suffix, haplorrhini.com, DIRECT
+host-suffix, happ.info, DIRECT
+host-suffix, happ.su, DIRECT
 host-suffix, xn--mxtq18a.hk, DIRECT
 host-suffix, happymeal.com, DIRECT
 host-suffix, xn--mtswd61ejxq.com, DIRECT
@@ -13793,9 +13801,9 @@ host-suffix, jintian.net, DIRECT
 host-suffix, jinx.com, DIRECT
 host-suffix, jira-tcsbank.ru, DIRECT
 host-suffix, jira.com, DIRECT
-host-suffix, dell.cl, DIRECT
+host-suffix, diwodiwo.xyz, DIRECT
 host-suffix, 1337x.gd, DIRECT
-host-suffix, fantv.hk, DIRECT
+host-suffix, force.com, DIRECT
 host-suffix, xbox360.com, DIRECT
 host-suffix, jiuse.icu, DIRECT
 host-suffix, jiuse.io, DIRECT
@@ -16288,6 +16296,7 @@ host-suffix, motherless.com, DIRECT
 host-suffix, motiongraphicsandmore.com, DIRECT
 host-suffix, motionpictureser.com, DIRECT
 host-suffix, moto.com, DIRECT
+host-suffix, motocms.com, DIRECT
 host-suffix, motolia.com, DIRECT
 host-suffix, motopress.com, DIRECT
 host-suffix, motorola.ca, DIRECT
@@ -17850,6 +17859,7 @@ host-suffix, onekey-asset.com, DIRECT
 host-suffix, onekey.so, DIRECT
 host-suffix, onekeycn.com, DIRECT
 host-suffix, oneme.ru, DIRECT
+host-suffix, onemoment.cc, DIRECT
 host-suffix, onemozilla.org, DIRECT
 host-suffix, onenote.com, DIRECT
 host-suffix, onenote.net, DIRECT
@@ -18240,6 +18250,7 @@ host-suffix, paxful.com, DIRECT
 host-suffix, paxlicense.org, DIRECT
 host-suffix, paydiant.com, DIRECT
 host-suffix, payecom.ru, DIRECT
+host-suffix, payget.pro, DIRECT
 host-suffix, paygonline.com, DIRECT
 host-suffix, payhulu.com, DIRECT
 host-suffix, paylike.com, DIRECT
@@ -18737,6 +18748,7 @@ host-suffix, plasticlabs.com, DIRECT
 host-suffix, plastics-cadcam.com, DIRECT
 host-suffix, platiecom.ru, DIRECT
 host-suffix, platinumlinks.org, DIRECT
+host-suffix, platov.co, DIRECT
 host-suffix, play-asia.com, DIRECT
 host-suffix, play-bmm.shop, DIRECT
 host-suffix, play-bmmer.buzz, DIRECT
@@ -19536,7 +19548,7 @@ host-suffix, pzhanfor.today, DIRECT
 host-suffix, q10.jp, DIRECT
 host-suffix, q13.com, DIRECT
 host-suffix, q13fox.com, DIRECT
-host-suffix, qatarescortsvip.com, DIRECT
+host-suffix, jitsi.org, DIRECT
 host-suffix, qattdh.cc, DIRECT
 host-suffix, qattdh.top, DIRECT
 host-suffix, qattdh1.cc, DIRECT
@@ -19728,6 +19740,8 @@ host-suffix, rakutenadvertising.com, DIRECT
 host-suffix, rakutengiftcards.ca, DIRECT
 host-suffix, webkit.org, DIRECT
 host-suffix, webhosting.com, DIRECT
+host-suffix, ramon.cash, DIRECT
+host-suffix, ramon.money, DIRECT
 host-suffix, randyblue.com, DIRECT
 host-suffix, rapefilms.net, DIRECT
 host-suffix, rapetube.me, DIRECT
@@ -20268,9 +20282,9 @@ host-suffix, runningnike.com, DIRECT
 host-suffix, runporn.com, DIRECT
 host-suffix, runwayescorts.com, DIRECT
 host-suffix, rupress.org, DIRECT
-host-suffix, ruptly.agency, DIRECT
-host-suffix, ruptly.tv, DIRECT
 host-suffix, 000webhost.com, DIRECT
+host-suffix, ruptly.tv, DIRECT
+host-suffix, ruptly.video, DIRECT
 host-suffix, rurtnews.com, DIRECT
 host-suffix, rusfinance.ru, DIRECT
 host-suffix, rusfinancebank.ru, DIRECT
@@ -20674,6 +20688,7 @@ host-suffix, sensualgirls.org, DIRECT
 host-suffix, sensualmothers.com, DIRECT
 host-suffix, sensueel.net, DIRECT
 host-suffix, sentry-cdn.com, DIRECT
+host-suffix, sentry.dev, DIRECT
 host-suffix, sentry.io, DIRECT
 host-suffix, senzuritv.net, DIRECT
 host-suffix, seo-dash.net, DIRECT
@@ -22421,6 +22436,7 @@ host-suffix, tellme.pw, DIRECT
 host-suffix, tellmewhygame.com, DIRECT
 host-suffix, temetube.xyz, DIRECT
 host-suffix, temp-mail.org, DIRECT
+host-suffix, templatemonster.com, DIRECT
 host-suffix, temu.com, DIRECT
 host-suffix, tenbin.ai, DIRECT
 host-suffix, tenbyfotolia.com, DIRECT
