@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ai-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-07-16T01:17:14.091Z
+# Updated: 2026-07-17T01:20:57.243Z
 # Total: 166 rules
 host, ppl-ai-file-upload.s3.amazonaws.com, DIRECT
 host, pplx-res.cloudinary.com, DIRECT

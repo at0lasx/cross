@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-finance.yaml
 # Policy: DIRECT
-# Updated: 2026-07-16T01:17:13.320Z
+# Updated: 2026-07-17T01:20:56.178Z
 # Total: 607 rules
 host, standchartbank.sc.omtrdc.net, DIRECT
 host, standchartbank.tt.omtrdc.net, DIRECT

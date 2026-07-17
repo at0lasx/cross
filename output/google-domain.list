@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.yaml
 # Policy: DIRECT
-# Updated: 2026-07-16T01:17:13.720Z
+# Updated: 2026-07-17T01:20:56.679Z
 # Total: 1068 rules
 host, google-ohttp-relay-safebrowsing.fastly-edge.com, DIRECT
 host, publicca.googleapis.com, DIRECT

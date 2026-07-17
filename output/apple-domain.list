@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple.yaml
 # Policy: DIRECT
-# Updated: 2026-07-16T01:17:13.762Z
+# Updated: 2026-07-17T01:20:56.733Z
 # Total: 1790 rules
 host, apple.com.akadns.net, DIRECT
 host, configuration-lb.ls-apple.com.akadns.net, DIRECT
