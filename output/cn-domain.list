@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-07-19T01:18:29.105Z
-# Total: 111812 rules
+# Updated: 2026-07-20T03:11:02.872Z
+# Total: 111813 rules
 host-suffix, alibaba, DIRECT
 host-suffix, yun, DIRECT
 host-suffix, xn--zfr164b, DIRECT
@@ -55,7 +55,7 @@ host-suffix, baidu, DIRECT
 host-suffix, anquan, DIRECT
 host-suffix, alipay, DIRECT
 host-suffix, jsfywater.com, DIRECT
-host-suffix, alexinea.com, DIRECT
+host-suffix, taiyanghttp.com, DIRECT
 host-suffix, 028-xhxgt.com, DIRECT
 host-suffix, 0283home.com, DIRECT
 host-suffix, 0289kh1448.xin, DIRECT
@@ -10998,7 +10998,7 @@ host-suffix, alenable.com, DIRECT
 host-suffix, alertover.com, DIRECT
 host-suffix, alevelwx.com, DIRECT
 host-suffix, alexhaohao.com, DIRECT
-host-suffix, jsmjys.com, DIRECT
+host-suffix, alexinea.com, DIRECT
 host-suffix, alexpad.fun, DIRECT
 host-suffix, alexyan.cc, DIRECT
 host-suffix, alfachemar.com, DIRECT
@@ -37936,7 +37936,7 @@ host-suffix, gfvip02aj.com, DIRECT
 host-suffix, gfvip02ak.com, DIRECT
 host-suffix, gfvip02al.com, DIRECT
 host-suffix, gfvip02am.com, DIRECT
-host-suffix, gfvip02an.com, DIRECT
+host-suffix, jsmkyy.com, DIRECT
 host-suffix, gfvip02ao.com, DIRECT
 host-suffix, gfvip02ap.com, DIRECT
 host-suffix, gfvip02aq.com, DIRECT
@@ -55932,11 +55932,11 @@ host-suffix, jslyjc.com, DIRECT
 host-suffix, jslysp.com, DIRECT
 host-suffix, jsmda.org, DIRECT
 host-suffix, jsmfk.com, DIRECT
-host-suffix, wex7.com, DIRECT
+host-suffix, jsminstar.com, DIRECT
+host-suffix, jsmjys.com, DIRECT
+host-suffix, gfvip02an.com, DIRECT
 host-suffix, 027zpw.com, DIRECT
-host-suffix, topsrx.com, DIRECT
-host-suffix, jsmo.xin, DIRECT
-host-suffix, jsmodeling.com, DIRECT
+host-suffix, qdmcxh.com, DIRECT
 host-suffix, jsmolfa.com, DIRECT
 host-suffix, jsmrmf.com, DIRECT
 host-suffix, jsmsg.com, DIRECT
@@ -67442,6 +67442,7 @@ host-suffix, mychinaunicom.com, DIRECT
 host-suffix, mychuguan.com, DIRECT
 host-suffix, mychunyan.net, DIRECT
 host-suffix, myckjr.com, DIRECT
+host-suffix, mycloudnas.com, DIRECT
 host-suffix, mycloudstudy.com, DIRECT
 host-suffix, myclub2.com, DIRECT
 host-suffix, mycnc.org, DIRECT
@@ -74221,7 +74222,7 @@ host-suffix, qdlongre.com, DIRECT
 host-suffix, qdlpay.com, DIRECT
 host-suffix, qdlyxx.com, DIRECT
 host-suffix, qdmama.net, DIRECT
-host-suffix, qdmcxh.com, DIRECT
+host-suffix, jsmodeling.com, DIRECT
 host-suffix, qdmm.com, DIRECT
 host-suffix, qdmswx.com, DIRECT
 host-suffix, qdnsyh.com, DIRECT
@@ -87252,7 +87253,7 @@ host-suffix, taixirobot.com, DIRECT
 host-suffix, taixubio.com, DIRECT
 host-suffix, taixuguoji.com, DIRECT
 host-suffix, taiyangd.com, DIRECT
-host-suffix, taiyanghttp.com, DIRECT
+host-suffix, jsmo.xin, DIRECT
 host-suffix, taiyechem.com, DIRECT
 host-suffix, taiyin117.com, DIRECT
 host-suffix, taiyiplus.com, DIRECT
@@ -90023,7 +90024,7 @@ host-suffix, topsim.cc, DIRECT
 host-suffix, topsmartinfo.com, DIRECT
 host-suffix, topsmt.com, DIRECT
 host-suffix, topsresearch.com, DIRECT
-host-suffix, jsmkyy.com, DIRECT
+host-suffix, topsrx.com, DIRECT
 host-suffix, topstar.art, DIRECT
 host-suffix, topstarltd.com, DIRECT
 host-suffix, topsunholdings.com, DIRECT
@@ -95325,7 +95326,7 @@ host-suffix, wework-pro.com, DIRECT
 host-suffix, wework-studio.com, DIRECT
 host-suffix, wewuhu.com, DIRECT
 host-suffix, wex5.com, DIRECT
-host-suffix, jsminstar.com, DIRECT
+host-suffix, wex7.com, DIRECT
 host-suffix, wexcdn.com, DIRECT
 host-suffix, wexguivq.com, DIRECT
 host-suffix, wexiaocheng.com, DIRECT
