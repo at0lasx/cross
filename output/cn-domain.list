@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-07-23T01:24:24.551Z
-# Total: 111868 rules
+# Updated: 2026-07-24T01:20:07.723Z
+# Total: 111872 rules
 host-suffix, alibaba, DIRECT
 host-suffix, yun, DIRECT
 host-suffix, xn--zfr164b, DIRECT
@@ -54,8 +54,8 @@ host-suffix, citic, DIRECT
 host-suffix, baidu, DIRECT
 host-suffix, anquan, DIRECT
 host-suffix, alipay, DIRECT
-host-suffix, jsgc.com, DIRECT
-host-suffix, denganliang.com, DIRECT
+host-suffix, jsgc168.com, DIRECT
+host-suffix, gxchuen.com, DIRECT
 host-suffix, 028-xhxgt.com, DIRECT
 host-suffix, 0283home.com, DIRECT
 host-suffix, 0289kh1448.xin, DIRECT
@@ -12494,7 +12494,7 @@ host-suffix, artdata.net, DIRECT
 host-suffix, artebuy.com, DIRECT
 host-suffix, artech-graphite.com, DIRECT
 host-suffix, artemedhospital.com, DIRECT
-host-suffix, arterytek.com, DIRECT
+host-suffix, jsmodeling.com, DIRECT
 host-suffix, artexamcq.com, DIRECT
 host-suffix, artfinace.com, DIRECT
 host-suffix, artfoxlive.com, DIRECT
@@ -18664,7 +18664,7 @@ host-suffix, cbea.com, DIRECT
 host-suffix, cbecok.com, DIRECT
 host-suffix, cbecx.com, DIRECT
 host-suffix, cbeeexpo.com, DIRECT
-host-suffix, jsmolfa.com, DIRECT
+host-suffix, cbes21.com, DIRECT
 host-suffix, cbex.com, DIRECT
 host-suffix, cbf92cea38c259ee.com, DIRECT
 host-suffix, cbfau.com, DIRECT
@@ -19103,6 +19103,7 @@ host-suffix, cd-wx.net, DIRECT
 host-suffix, cd-zc.com, DIRECT
 host-suffix, cd00c44f211031.beer, DIRECT
 host-suffix, cd120.com, DIRECT
+host-suffix, cd120.info, DIRECT
 host-suffix, cd12371.com, DIRECT
 host-suffix, cd1958.com, DIRECT
 host-suffix, cd20.net, DIRECT
@@ -26277,7 +26278,7 @@ host-suffix, cxgaugrv.com, DIRECT
 host-suffix, cxgeo.com, DIRECT
 host-suffix, cxgj56.com, DIRECT
 host-suffix, cxglys.com, DIRECT
-host-suffix, jsmo.xin, DIRECT
+host-suffix, cxgw.com, DIRECT
 host-suffix, cxh99.com, DIRECT
 host-suffix, cxhan.com, DIRECT
 host-suffix, cxhr.com, DIRECT
@@ -27993,7 +27994,7 @@ host-suffix, demososo.com, DIRECT
 host-suffix, denachina.com, DIRECT
 host-suffix, denaircompressor.com, DIRECT
 host-suffix, deng88.com, DIRECT
-host-suffix, jsmodeling.com, DIRECT
+host-suffix, denganliang.com, DIRECT
 host-suffix, dengbaogonggao.com, DIRECT
 host-suffix, dengbi8.com, DIRECT
 host-suffix, dengbiao.com, DIRECT
@@ -36170,7 +36171,7 @@ host-suffix, fymall3.com, DIRECT
 host-suffix, fymall4.com, DIRECT
 host-suffix, fymall5.com, DIRECT
 host-suffix, fymall6.com, DIRECT
-host-suffix, fymall7.com, DIRECT
+host-suffix, jsmrmf.com, DIRECT
 host-suffix, fymall8.com, DIRECT
 host-suffix, fymall9.com, DIRECT
 host-suffix, fymallqa0.com, DIRECT
@@ -40542,7 +40543,7 @@ host-suffix, gxchlrf.com, DIRECT
 host-suffix, gxchr.com, DIRECT
 host-suffix, gxchuanghua.com, DIRECT
 host-suffix, gxchuanlan.com, DIRECT
-host-suffix, gxchuen.com, DIRECT
+host-suffix, jsmolfa.com, DIRECT
 host-suffix, gxchunmao.com, DIRECT
 host-suffix, gxchuxin.com, DIRECT
 host-suffix, gxcic.net, DIRECT
@@ -55788,8 +55789,8 @@ host-suffix, jsfyjt.com, DIRECT
 host-suffix, jsfywater.com, DIRECT
 host-suffix, jsfyxh.net, DIRECT
 host-suffix, jsgbds.com, DIRECT
+host-suffix, jsgc.com, DIRECT
 host-suffix, 0.zone, DIRECT
-host-suffix, jsgc168.com, DIRECT
 host-suffix, jsgcbank.com, DIRECT
 host-suffix, jsgcjyw.com, DIRECT
 host-suffix, jsgclaw.com, DIRECT
@@ -55960,10 +55961,10 @@ host-suffix, jsmfk.com, DIRECT
 host-suffix, jsminstar.com, DIRECT
 host-suffix, jsmjys.com, DIRECT
 host-suffix, jsmkyy.com, DIRECT
-host-suffix, cxgw.com, DIRECT
+host-suffix, jsmo.xin, DIRECT
+host-suffix, arterytek.com, DIRECT
 host-suffix, 027zpw.com, DIRECT
-host-suffix, cbes21.com, DIRECT
-host-suffix, jsmrmf.com, DIRECT
+host-suffix, fymall7.com, DIRECT
 host-suffix, jsmsg.com, DIRECT
 host-suffix, jsmxgs.com, DIRECT
 host-suffix, jsmxw.com, DIRECT
@@ -66536,6 +66537,7 @@ host-suffix, moe233.org, DIRECT
 host-suffix, moe321.com, DIRECT
 host-suffix, moeclub.org, DIRECT
 host-suffix, moedot.net, DIRECT
+host-suffix, moedu.com, DIRECT
 host-suffix, moeelf.com, DIRECT
 host-suffix, moefactory.com, DIRECT
 host-suffix, moefantasy.com, DIRECT
@@ -90618,6 +90620,7 @@ host-suffix, tsingoofoods.com, DIRECT
 host-suffix, tsingpost.com, DIRECT
 host-suffix, tsingshang.com, DIRECT
 host-suffix, tsingtek.com, DIRECT
+host-suffix, tsingtengms.com, DIRECT
 host-suffix, tsingtoo.com, DIRECT
 host-suffix, tsingtuo.com, DIRECT
 host-suffix, tsingyangroup.com, DIRECT
@@ -98250,6 +98253,7 @@ host-suffix, xcxwo.com, DIRECT
 host-suffix, xcxymw.com, DIRECT
 host-suffix, xcxzww.com, DIRECT
 host-suffix, xcyg.net, DIRECT
+host-suffix, xcz.im, DIRECT
 host-suffix, xczhmzb.com, DIRECT
 host-suffix, xczhsh.com, DIRECT
 host-suffix, xczim.com, DIRECT
