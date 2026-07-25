@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-07-24T01:20:09.192Z
-# Total: 26850 rules
+# Updated: 2026-07-25T01:21:10.578Z
+# Total: 26855 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -816,8 +816,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, ruptly.agency, DIRECT
-host-suffix, koukoku.jp, DIRECT
+host-suffix, ruptly.video, DIRECT
+host-suffix, google.jo, DIRECT
 host-suffix, 12vpn.com, DIRECT
 host-suffix, 12vpn.net, DIRECT
 host-suffix, 1337x.gd, DIRECT
@@ -3748,7 +3748,7 @@ host-suffix, bbyintl.com, DIRECT
 host-suffix, bbystatic.com, DIRECT
 host-suffix, bbyurl.us, DIRECT
 host-suffix, bcbits.com, DIRECT
-host-suffix, bcex.ca, DIRECT
+host-suffix, jiuse.io, DIRECT
 host-suffix, bcicdn.com, DIRECT
 host-suffix, bcove.video, DIRECT
 host-suffix, bcovlive.io, DIRECT
@@ -6154,6 +6154,7 @@ host-suffix, cinemax.com, DIRECT
 host-suffix, cinepornogratis.com, DIRECT
 host-suffix, cinny.in, DIRECT
 host-suffix, cios.org, DIRECT
+host-suffix, circle19.org, DIRECT
 host-suffix, cirosantilli.com, DIRECT
 host-suffix, 12diasdepresentesdeitunes.com, DIRECT
 host-suffix, cisco-returns.com, DIRECT
@@ -7668,6 +7669,7 @@ host-suffix, doclercdn.com, DIRECT
 host-suffix, docs.com, DIRECT
 host-suffix, docs.new, DIRECT
 host-suffix, docs.rs, DIRECT
+host-suffix, docs.rw, DIRECT
 host-suffix, doctor-videos.com, DIRECT
 host-suffix, documentforce.com, DIRECT
 host-suffix, documentingreality.com, DIRECT
@@ -10964,7 +10966,7 @@ host-suffix, google.is, DIRECT
 host-suffix, google.it, DIRECT
 host-suffix, xn--u2u927b.com, DIRECT
 host-suffix, google.je, DIRECT
-host-suffix, google.jo, DIRECT
+host-suffix, jiuse6666.com, DIRECT
 host-suffix, google.kg, DIRECT
 host-suffix, google.ki, DIRECT
 host-suffix, google.kz, DIRECT
@@ -13833,10 +13835,10 @@ host-suffix, jitouch.com, DIRECT
 host-suffix, jitsi.org, DIRECT
 host-suffix, jiuse.ai, DIRECT
 host-suffix, xboxab.com, DIRECT
-host-suffix, meripet.com, DIRECT
+host-suffix, jiuse.icu, DIRECT
+host-suffix, bcex.ca, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
-host-suffix, jiuse6666.com, DIRECT
-host-suffix, jiuse821.com, DIRECT
+host-suffix, vhx.tv, DIRECT
 host-suffix, jiuse822.com, DIRECT
 host-suffix, jiuse823.com, DIRECT
 host-suffix, jivara.global, DIRECT
@@ -14094,6 +14096,7 @@ host-suffix, kaotic.com, DIRECT
 host-suffix, karabako-gmo.com, DIRECT
 host-suffix, karafarinbank.ir, DIRECT
 host-suffix, karayou.com, DIRECT
+host-suffix, kards.com, DIRECT
 host-suffix, karechat.ai, DIRECT
 host-suffix, karger.com, DIRECT
 host-suffix, karinahart.com, DIRECT
@@ -14346,7 +14349,7 @@ host-suffix, koshelek.app, DIRECT
 host-suffix, kostenlosepornoclips.com, DIRECT
 host-suffix, kotlinlang.org, DIRECT
 host-suffix, koubaibu.jp, DIRECT
-host-suffix, jiuse.io, DIRECT
+host-suffix, koukoku.jp, DIRECT
 host-suffix, kouwobb.com, DIRECT
 host-suffix, kpacg.com, DIRECT
 host-suffix, kphimsex.net, DIRECT
@@ -14769,6 +14772,7 @@ host-suffix, localizestatus.com, DIRECT
 host-suffix, localpresshk.com, DIRECT
 host-suffix, localxlist.org, DIRECT
 host-suffix, lockestek.com, DIRECT
+host-suffix, log.rw, DIRECT
 host-suffix, logi.com, DIRECT
 host-suffix, wwwfacebok.com, DIRECT
 host-suffix, logicoolg.com, DIRECT
@@ -15516,7 +15520,7 @@ host-suffix, mercyprophet.org, DIRECT
 host-suffix, mergersandinquisitions.com, DIRECT
 host-suffix, meridian-trust.org, DIRECT
 host-suffix, meridian.net, DIRECT
-host-suffix, jiuse.icu, DIRECT
+host-suffix, meripet.com, DIRECT
 host-suffix, wordpress.tv, DIRECT
 host-suffix, merkl.xyz, DIRECT
 host-suffix, meshmixer.com, DIRECT
@@ -20323,9 +20327,9 @@ host-suffix, runningnike.com, DIRECT
 host-suffix, runporn.com, DIRECT
 host-suffix, runwayescorts.com, DIRECT
 host-suffix, rupress.org, DIRECT
-host-suffix, 000webhost.com, DIRECT
+host-suffix, ruptly.agency, DIRECT
 host-suffix, ruptly.tv, DIRECT
-host-suffix, ruptly.video, DIRECT
+host-suffix, 000webhost.com, DIRECT
 host-suffix, rurtnews.com, DIRECT
 host-suffix, rusfinance.ru, DIRECT
 host-suffix, rusfinancebank.ru, DIRECT
@@ -23197,6 +23201,7 @@ host-suffix, truyenhentai.xyz, DIRECT
 host-suffix, truyenkk1.com, DIRECT
 host-suffix, truyentranh86.com, DIRECT
 host-suffix, truyenwk.com, DIRECT
+host-suffix, try.rw, DIRECT
 host-suffix, tryalias.com, DIRECT
 host-suffix, tryboobs.com, DIRECT
 host-suffix, trycloudflare.com, DIRECT
@@ -24022,7 +24027,7 @@ host-suffix, vfsforgit.com, DIRECT
 host-suffix, vfsforgit.org, DIRECT
 host-suffix, vgcareers.net, DIRECT
 host-suffix, vgg8.com, DIRECT
-host-suffix, vhx.tv, DIRECT
+host-suffix, jiuse821.com, DIRECT
 host-suffix, vhxqa1.com, DIRECT
 host-suffix, vhxqa2.com, DIRECT
 host-suffix, vhxqa3.com, DIRECT
@@ -25452,7 +25457,7 @@ host-suffix, jivochat.com.co, DIRECT
 host-suffix, jivochat.com.br, DIRECT
 host-suffix, jivochat.co.za, DIRECT
 host-suffix, jivochat.co.in, DIRECT
-host-suffix, airbnb.com.sv, DIRECT
+host-suffix, jiuse.com.co, DIRECT
 host-suffix, jibunbank.co.jp, DIRECT
 host-suffix, jfc.go.jp, DIRECT
 host-suffix, jessicaturner.co.uk, DIRECT
@@ -26759,7 +26764,7 @@ host-suffix, airbnb.com.vn, DIRECT
 host-suffix, airbnb.com.ua, DIRECT
 host-suffix, airbnb.com.tw, DIRECT
 host-suffix, airbnb.com.tr, DIRECT
-host-suffix, jiuse.com.co, DIRECT
+host-suffix, airbnb.com.sv, DIRECT
 host-suffix, airbnb.com.sg, DIRECT
 host-suffix, airbnb.com.ro, DIRECT
 host-suffix, airbnb.com.py, DIRECT
