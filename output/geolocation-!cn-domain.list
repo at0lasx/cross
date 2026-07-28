@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-07-27T01:28:32.584Z
-# Total: 26855 rules
+# Updated: 2026-07-28T01:15:50.671Z
+# Total: 26857 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -816,8 +816,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, ruptly.video, DIRECT
-host-suffix, google.jo, DIRECT
+host-suffix, ruptly.tv, DIRECT
+host-suffix, bmw-group.net, DIRECT
 host-suffix, 12vpn.com, DIRECT
 host-suffix, 12vpn.net, DIRECT
 host-suffix, 1337x.gd, DIRECT
@@ -3748,7 +3748,7 @@ host-suffix, bbyintl.com, DIRECT
 host-suffix, bbystatic.com, DIRECT
 host-suffix, bbyurl.us, DIRECT
 host-suffix, bcbits.com, DIRECT
-host-suffix, jiuse.io, DIRECT
+host-suffix, bcex.ca, DIRECT
 host-suffix, bcicdn.com, DIRECT
 host-suffix, bcove.video, DIRECT
 host-suffix, bcovlive.io, DIRECT
@@ -4695,7 +4695,7 @@ host-suffix, bmw-fleet.net, DIRECT
 host-suffix, bmw-ghana.com, DIRECT
 host-suffix, bmw-golfsport.com, DIRECT
 host-suffix, bmw-group.com, DIRECT
-host-suffix, bmw-group.net, DIRECT
+host-suffix, jiuse.io, DIRECT
 host-suffix, bmw-grouparchiv.de, DIRECT
 host-suffix, bmw-grouparchives.com, DIRECT
 host-suffix, bmw-gta.ca, DIRECT
@@ -10613,6 +10613,7 @@ host-suffix, githubhackathon.com, DIRECT
 host-suffix, githubnext.com, DIRECT
 host-suffix, githubpreview.dev, DIRECT
 host-suffix, githubstatus.com, DIRECT
+host-suffix, githubsupport.com, DIRECT
 host-suffix, githubuniverse.com, DIRECT
 host-suffix, githubusercontent.com, DIRECT
 host-suffix, gitlab-static.net, DIRECT
@@ -10966,7 +10967,7 @@ host-suffix, google.is, DIRECT
 host-suffix, google.it, DIRECT
 host-suffix, xn--u2u927b.com, DIRECT
 host-suffix, google.je, DIRECT
-host-suffix, jiuse6666.com, DIRECT
+host-suffix, google.jo, DIRECT
 host-suffix, google.kg, DIRECT
 host-suffix, google.ki, DIRECT
 host-suffix, google.kz, DIRECT
@@ -13800,7 +13801,7 @@ host-suffix, jetbrains.team, DIRECT
 host-suffix, jetfuelapp.com, DIRECT
 host-suffix, jetfuelapps.com, DIRECT
 host-suffix, jex.com, DIRECT
-host-suffix, xboxgamestudios.com, DIRECT
+host-suffix, jiuse6666.com, DIRECT
 host-suffix, jfengtime.com, DIRECT
 host-suffix, jfn.su, DIRECT
 host-suffix, jfrog.com, DIRECT
@@ -13816,7 +13817,7 @@ host-suffix, jiaochuanba26.buzz, DIRECT
 host-suffix, jiaoyou8.com, DIRECT
 host-suffix, jiayoulu.com, DIRECT
 host-suffix, jibemobile.com, DIRECT
-host-suffix, xboxgamepass.com, DIRECT
+host-suffix, xboxgamestudios.com, DIRECT
 host-suffix, jieav.com, DIRECT
 host-suffix, jifangge.com, DIRECT
 host-suffix, jihadology.net, DIRECT
@@ -13834,11 +13835,11 @@ host-suffix, jira.com, DIRECT
 host-suffix, jitouch.com, DIRECT
 host-suffix, jitsi.org, DIRECT
 host-suffix, jiuse.ai, DIRECT
-host-suffix, xboxab.com, DIRECT
-host-suffix, jiuse.icu, DIRECT
-host-suffix, bcex.ca, DIRECT
+host-suffix, xboxgamepass.com, DIRECT
+host-suffix, rtde.agency, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
-host-suffix, vhx.tv, DIRECT
+host-suffix, xboxab.com, DIRECT
+host-suffix, jiuse821.com, DIRECT
 host-suffix, jiuse822.com, DIRECT
 host-suffix, jiuse823.com, DIRECT
 host-suffix, jivara.global, DIRECT
@@ -20257,7 +20258,7 @@ host-suffix, rtarabic.ru, DIRECT
 host-suffix, rtbcdn.ru, DIRECT
 host-suffix, rtbrasil.com, DIRECT
 host-suffix, rtbrasil.info, DIRECT
-host-suffix, rtde.agency, DIRECT
+host-suffix, jiuse.icu, DIRECT
 host-suffix, rtde.expert, DIRECT
 host-suffix, rtde.express, DIRECT
 host-suffix, rtde.info, DIRECT
@@ -20328,8 +20329,8 @@ host-suffix, runporn.com, DIRECT
 host-suffix, runwayescorts.com, DIRECT
 host-suffix, rupress.org, DIRECT
 host-suffix, ruptly.agency, DIRECT
-host-suffix, ruptly.tv, DIRECT
 host-suffix, 000webhost.com, DIRECT
+host-suffix, ruptly.video, DIRECT
 host-suffix, rurtnews.com, DIRECT
 host-suffix, rusfinance.ru, DIRECT
 host-suffix, rusfinancebank.ru, DIRECT
@@ -23202,6 +23203,7 @@ host-suffix, truyenkk1.com, DIRECT
 host-suffix, truyentranh86.com, DIRECT
 host-suffix, truyenwk.com, DIRECT
 host-suffix, try.rw, DIRECT
+host-suffix, tryai.dev, DIRECT
 host-suffix, tryalias.com, DIRECT
 host-suffix, tryboobs.com, DIRECT
 host-suffix, trycloudflare.com, DIRECT
@@ -24027,7 +24029,7 @@ host-suffix, vfsforgit.com, DIRECT
 host-suffix, vfsforgit.org, DIRECT
 host-suffix, vgcareers.net, DIRECT
 host-suffix, vgg8.com, DIRECT
-host-suffix, jiuse821.com, DIRECT
+host-suffix, vhx.tv, DIRECT
 host-suffix, vhxqa1.com, DIRECT
 host-suffix, vhxqa2.com, DIRECT
 host-suffix, vhxqa3.com, DIRECT
@@ -25457,9 +25459,9 @@ host-suffix, jivochat.com.co, DIRECT
 host-suffix, jivochat.com.br, DIRECT
 host-suffix, jivochat.co.za, DIRECT
 host-suffix, jivochat.co.in, DIRECT
+host-suffix, jfc.go.jp, DIRECT
 host-suffix, jiuse.com.co, DIRECT
 host-suffix, jibunbank.co.jp, DIRECT
-host-suffix, jfc.go.jp, DIRECT
 host-suffix, jessicaturner.co.uk, DIRECT
 host-suffix, jav.com.co, DIRECT
 host-suffix, hsbc.com.hk, DIRECT
