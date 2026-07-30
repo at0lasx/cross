@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-07-29T01:18:18.777Z
-# Total: 111872 rules
+# Updated: 2026-07-30T01:11:35.543Z
+# Total: 111873 rules
 host-suffix, alibaba, DIRECT
 host-suffix, yun, DIRECT
 host-suffix, xn--zfr164b, DIRECT
@@ -55,7 +55,7 @@ host-suffix, baidu, DIRECT
 host-suffix, anquan, DIRECT
 host-suffix, alipay, DIRECT
 host-suffix, jsgc168.com, DIRECT
-host-suffix, gxchuen.com, DIRECT
+host-suffix, bjsdcm.net, DIRECT
 host-suffix, 028-xhxgt.com, DIRECT
 host-suffix, 0283home.com, DIRECT
 host-suffix, 0289kh1448.xin, DIRECT
@@ -4930,7 +4930,7 @@ host-suffix, 51csr.com, DIRECT
 host-suffix, 51cto.com, DIRECT
 host-suffix, 51cube.com, DIRECT
 host-suffix, 51cxsoft.com, DIRECT
-host-suffix, 51cywx.com, DIRECT
+host-suffix, jsmxgs.com, DIRECT
 host-suffix, 51czapp.com, DIRECT
 host-suffix, 51dai.com, DIRECT
 host-suffix, 51daifu.com, DIRECT
@@ -12494,7 +12494,7 @@ host-suffix, artdata.net, DIRECT
 host-suffix, artebuy.com, DIRECT
 host-suffix, artech-graphite.com, DIRECT
 host-suffix, artemedhospital.com, DIRECT
-host-suffix, jsmodeling.com, DIRECT
+host-suffix, arterytek.com, DIRECT
 host-suffix, artexamcq.com, DIRECT
 host-suffix, artfinace.com, DIRECT
 host-suffix, artfoxlive.com, DIRECT
@@ -16215,7 +16215,7 @@ host-suffix, bjsbnet.com, DIRECT
 host-suffix, bjscfl.com, DIRECT
 host-suffix, bjscszh.com, DIRECT
 host-suffix, bjscyxh.com, DIRECT
-host-suffix, bjsdcm.net, DIRECT
+host-suffix, jsmsg.com, DIRECT
 host-suffix, bjsdeyy.com, DIRECT
 host-suffix, bjsdfz.com, DIRECT
 host-suffix, bjsdgroup.com, DIRECT
@@ -36171,7 +36171,7 @@ host-suffix, fymall3.com, DIRECT
 host-suffix, fymall4.com, DIRECT
 host-suffix, fymall5.com, DIRECT
 host-suffix, fymall6.com, DIRECT
-host-suffix, jsmrmf.com, DIRECT
+host-suffix, fymall7.com, DIRECT
 host-suffix, fymall8.com, DIRECT
 host-suffix, fymall9.com, DIRECT
 host-suffix, fymallqa0.com, DIRECT
@@ -40543,7 +40543,7 @@ host-suffix, gxchlrf.com, DIRECT
 host-suffix, gxchr.com, DIRECT
 host-suffix, gxchuanghua.com, DIRECT
 host-suffix, gxchuanlan.com, DIRECT
-host-suffix, jsmolfa.com, DIRECT
+host-suffix, gxchuen.com, DIRECT
 host-suffix, gxchunmao.com, DIRECT
 host-suffix, gxchuxin.com, DIRECT
 host-suffix, gxcic.net, DIRECT
@@ -55962,11 +55962,11 @@ host-suffix, jsminstar.com, DIRECT
 host-suffix, jsmjys.com, DIRECT
 host-suffix, jsmkyy.com, DIRECT
 host-suffix, jsmo.xin, DIRECT
-host-suffix, arterytek.com, DIRECT
+host-suffix, jsmodeling.com, DIRECT
+host-suffix, jsmolfa.com, DIRECT
+host-suffix, morefood.com, DIRECT
 host-suffix, 027zpw.com, DIRECT
-host-suffix, fymall7.com, DIRECT
-host-suffix, jsmsg.com, DIRECT
-host-suffix, jsmxgs.com, DIRECT
+host-suffix, 51cywx.com, DIRECT
 host-suffix, jsmxw.com, DIRECT
 host-suffix, jsna.work, DIRECT
 host-suffix, jsnaier.com, DIRECT
@@ -66780,7 +66780,7 @@ host-suffix, mordernstone.com, DIRECT
 host-suffix, morechinese.cc, DIRECT
 host-suffix, moreck.com, DIRECT
 host-suffix, moredian.com, DIRECT
-host-suffix, morefood.com, DIRECT
+host-suffix, jsmrmf.com, DIRECT
 host-suffix, morefreegame.com, DIRECT
 host-suffix, morefun-philippines.com, DIRECT
 host-suffix, morefunstudio.com, DIRECT
@@ -100618,6 +100618,7 @@ host-suffix, xmmtu.com, DIRECT
 host-suffix, xmmuye.com, DIRECT
 host-suffix, xmnjdwx.com, DIRECT
 host-suffix, xmocloud01.com, DIRECT
+host-suffix, xmoj.tech, DIRECT
 host-suffix, xmonecode.com, DIRECT
 host-suffix, xmos.tv, DIRECT
 host-suffix, xmov.ai, DIRECT
