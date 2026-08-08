@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-08-07T01:56:56.357Z
-# Total: 111290 rules
+# Updated: 2026-08-08T00:39:44.178Z
+# Total: 111293 rules
 host-suffix, alibaba, DIRECT
 host-suffix, yun, DIRECT
 host-suffix, xn--zfr164b, DIRECT
@@ -54,8 +54,8 @@ host-suffix, citic, DIRECT
 host-suffix, baidu, DIRECT
 host-suffix, anquan, DIRECT
 host-suffix, alipay, DIRECT
-host-suffix, jsghx.com, DIRECT
-host-suffix, ucdns7.com, DIRECT
+host-suffix, jsgjksl.com, DIRECT
+host-suffix, fequan.com, DIRECT
 host-suffix, 028kuaidai.com, DIRECT
 host-suffix, 028ltzx.com, DIRECT
 host-suffix, 028office.com, DIRECT
@@ -5156,7 +5156,7 @@ host-suffix, 51speeds.com, DIRECT
 host-suffix, 51spjx.com, DIRECT
 host-suffix, 51ssl.com, DIRECT
 host-suffix, 51ste.com, DIRECT
-host-suffix, 51sucaiyuan.com, DIRECT
+host-suffix, jsntg.com, DIRECT
 host-suffix, 51suitui.com, DIRECT
 host-suffix, 51sutong.com, DIRECT
 host-suffix, 51sytx.com, DIRECT
@@ -12024,7 +12024,7 @@ host-suffix, apehorse.com, DIRECT
 host-suffix, apeloa.com, DIRECT
 host-suffix, apesk.com, DIRECT
 host-suffix, apet.vip, DIRECT
-host-suffix, jsntg.com, DIRECT
+host-suffix, apetdog.com, DIRECT
 host-suffix, apetops.com, DIRECT
 host-suffix, apevolo.com, DIRECT
 host-suffix, apexhuntingau.com, DIRECT
@@ -33985,7 +33985,7 @@ host-suffix, fenzhi.com, DIRECT
 host-suffix, fenzhi.net, DIRECT
 host-suffix, fenzijr.com, DIRECT
 host-suffix, feotech.com, DIRECT
-host-suffix, fequan.com, DIRECT
+host-suffix, jsntgas.com, DIRECT
 host-suffix, ferlie.net, DIRECT
 host-suffix, ferlytc.com, DIRECT
 host-suffix, fermatmind.com, DIRECT
@@ -46906,7 +46906,7 @@ host-suffix, hr-welink.com, DIRECT
 host-suffix, hr002.com, DIRECT
 host-suffix, hr025.com, DIRECT
 host-suffix, hr0571.com, DIRECT
-host-suffix, hr0660.com, DIRECT
+host-suffix, jsnx.net, DIRECT
 host-suffix, hr0715.com, DIRECT
 host-suffix, hr0752.com, DIRECT
 host-suffix, hr0753.com, DIRECT
@@ -55498,9 +55498,9 @@ host-suffix, jsgh.org, DIRECT
 host-suffix, jsghfw.com, DIRECT
 host-suffix, jsgho.com, DIRECT
 host-suffix, jsgho.net, DIRECT
-host-suffix, 0.zone, DIRECT
+host-suffix, jsghx.com, DIRECT
 host-suffix, jsgian.com, DIRECT
-host-suffix, jsgjksl.com, DIRECT
+host-suffix, 0.zone, DIRECT
 host-suffix, jsgjl.net, DIRECT
 host-suffix, jsgkw.org, DIRECT
 host-suffix, jsgogogo.com, DIRECT
@@ -55672,11 +55672,11 @@ host-suffix, jsnewexpo.com, DIRECT
 host-suffix, jsningyi.com, DIRECT
 host-suffix, jsnjck.com, DIRECT
 host-suffix, jsnjjg.com, DIRECT
-host-suffix, zwtkl8.com, DIRECT
+host-suffix, jsnkmy.com, DIRECT
+host-suffix, jsnol.com, DIRECT
+host-suffix, 51sucaiyuan.com, DIRECT
 host-suffix, 028hema.com, DIRECT
-host-suffix, apetdog.com, DIRECT
-host-suffix, jsntgas.com, DIRECT
-host-suffix, jsnx.net, DIRECT
+host-suffix, hr0660.com, DIRECT
 host-suffix, jsnxs.com, DIRECT
 host-suffix, jsnydefy.com, DIRECT
 host-suffix, jsnydsfy.com, DIRECT
@@ -63586,6 +63586,7 @@ host-suffix, madailicai.com, DIRECT
 host-suffix, madajiefood.com, DIRECT
 host-suffix, madaomall.com, DIRECT
 host-suffix, madboxi.com, DIRECT
+host-suffix, made-in-china.com, DIRECT
 host-suffix, madefuns.com, DIRECT
 host-suffix, madeinchinastone.com, DIRECT
 host-suffix, madewei.com, DIRECT
@@ -65311,6 +65312,7 @@ host-suffix, microwu.com, DIRECT
 host-suffix, microxiang.com, DIRECT
 host-suffix, microyan.com, DIRECT
 host-suffix, microzuji.com, DIRECT
+host-suffix, micstatic.com, DIRECT
 host-suffix, mictormedical.com, DIRECT
 host-suffix, micu.hk, DIRECT
 host-suffix, micun.com, DIRECT
@@ -72952,6 +72954,7 @@ host-suffix, powerchinashow.com, DIRECT
 host-suffix, powerchinayun.com, DIRECT
 host-suffix, powerde.com, DIRECT
 host-suffix, powereasy.net, DIRECT
+host-suffix, poweremarket.com, DIRECT
 host-suffix, powerex1.com, DIRECT
 host-suffix, powerflow-tech.com, DIRECT
 host-suffix, powerfulchina.com, DIRECT
@@ -91128,7 +91131,7 @@ host-suffix, uccpd.com, DIRECT
 host-suffix, ucdchina.com, DIRECT
 host-suffix, ucdns22.com, DIRECT
 host-suffix, ucdns4.com, DIRECT
-host-suffix, jsnol.com, DIRECT
+host-suffix, ucdns7.com, DIRECT
 host-suffix, ucdok.com, DIRECT
 host-suffix, ucdrs.net, DIRECT
 host-suffix, ucgslb.com, DIRECT
@@ -110807,7 +110810,7 @@ host-suffix, zwpyyds.com, DIRECT
 host-suffix, zwslshy.com, DIRECT
 host-suffix, zwsmds.com, DIRECT
 host-suffix, zwtianshangm.com, DIRECT
-host-suffix, jsnkmy.com, DIRECT
+host-suffix, zwtkl8.com, DIRECT
 host-suffix, zwtxipr.com, DIRECT
 host-suffix, zwuoo.com, DIRECT
 host-suffix, zwwdm.com, DIRECT
