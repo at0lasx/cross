@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-08-09T00:42:29.847Z
-# Total: 111293 rules
+# Updated: 2026-08-10T00:43:56.671Z
+# Total: 111294 rules
 host-suffix, alibaba, DIRECT
 host-suffix, yun, DIRECT
 host-suffix, xn--zfr164b, DIRECT
@@ -55,7 +55,7 @@ host-suffix, baidu, DIRECT
 host-suffix, anquan, DIRECT
 host-suffix, alipay, DIRECT
 host-suffix, jsgjksl.com, DIRECT
-host-suffix, fequan.com, DIRECT
+host-suffix, yfwnm.com, DIRECT
 host-suffix, 028kuaidai.com, DIRECT
 host-suffix, 028ltzx.com, DIRECT
 host-suffix, 028office.com, DIRECT
@@ -5156,7 +5156,7 @@ host-suffix, 51speeds.com, DIRECT
 host-suffix, 51spjx.com, DIRECT
 host-suffix, 51ssl.com, DIRECT
 host-suffix, 51ste.com, DIRECT
-host-suffix, jsntg.com, DIRECT
+host-suffix, 51sucaiyuan.com, DIRECT
 host-suffix, 51suitui.com, DIRECT
 host-suffix, 51sutong.com, DIRECT
 host-suffix, 51sytx.com, DIRECT
@@ -13283,7 +13283,7 @@ host-suffix, b5esports.me, DIRECT
 host-suffix, b5m.com, DIRECT
 host-suffix, b5nngc6zmt.com, DIRECT
 host-suffix, b6098130711042.beer, DIRECT
-host-suffix, b612.me, DIRECT
+host-suffix, jsntg.com, DIRECT
 host-suffix, b612.net, DIRECT
 host-suffix, b612kaji.com, DIRECT
 host-suffix, b643bce461009.beer, DIRECT
@@ -33985,7 +33985,7 @@ host-suffix, fenzhi.com, DIRECT
 host-suffix, fenzhi.net, DIRECT
 host-suffix, fenzijr.com, DIRECT
 host-suffix, feotech.com, DIRECT
-host-suffix, jsntgas.com, DIRECT
+host-suffix, fequan.com, DIRECT
 host-suffix, ferlie.net, DIRECT
 host-suffix, ferlytc.com, DIRECT
 host-suffix, fermatmind.com, DIRECT
@@ -37217,7 +37217,7 @@ host-suffix, geekcar.net, DIRECT
 host-suffix, geekclo.com, DIRECT
 host-suffix, geekdaxue.co, DIRECT
 host-suffix, geekdive.com, DIRECT
-host-suffix, geekefu.com, DIRECT
+host-suffix, jsnx.net, DIRECT
 host-suffix, geekercloud.com, DIRECT
 host-suffix, geekerconsulting.com, DIRECT
 host-suffix, geekerhua.com, DIRECT
@@ -46906,7 +46906,7 @@ host-suffix, hr-welink.com, DIRECT
 host-suffix, hr002.com, DIRECT
 host-suffix, hr025.com, DIRECT
 host-suffix, hr0571.com, DIRECT
-host-suffix, jsnx.net, DIRECT
+host-suffix, hr0660.com, DIRECT
 host-suffix, hr0715.com, DIRECT
 host-suffix, hr0752.com, DIRECT
 host-suffix, hr0753.com, DIRECT
@@ -55674,9 +55674,9 @@ host-suffix, jsnjck.com, DIRECT
 host-suffix, jsnjjg.com, DIRECT
 host-suffix, jsnkmy.com, DIRECT
 host-suffix, jsnol.com, DIRECT
-host-suffix, 51sucaiyuan.com, DIRECT
+host-suffix, b612.me, DIRECT
 host-suffix, 028hema.com, DIRECT
-host-suffix, hr0660.com, DIRECT
+host-suffix, geekefu.com, DIRECT
 host-suffix, jsnxs.com, DIRECT
 host-suffix, jsnydefy.com, DIRECT
 host-suffix, jsnydsfy.com, DIRECT
@@ -60908,6 +60908,7 @@ host-suffix, lifeup.vip, DIRECT
 host-suffix, lifevc.com, DIRECT
 host-suffix, lifevccdn.com, DIRECT
 host-suffix, lifeweeker.com, DIRECT
+host-suffix, lifexue.com, DIRECT
 host-suffix, lifeyk.com, DIRECT
 host-suffix, lifeyn.net, DIRECT
 host-suffix, lifezb.com, DIRECT
@@ -102657,7 +102658,7 @@ host-suffix, yftxt.com, DIRECT
 host-suffix, yfty88.com, DIRECT
 host-suffix, yfvb.com, DIRECT
 host-suffix, yfway.com, DIRECT
-host-suffix, yfwnm.com, DIRECT
+host-suffix, jsntgas.com, DIRECT
 host-suffix, yfwpt.vip, DIRECT
 host-suffix, yfycrc.com, DIRECT
 host-suffix, yfycyboil.com, DIRECT
