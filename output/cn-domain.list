@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-08-11T00:43:32.540Z
-# Total: 111294 rules
+# Updated: 2026-08-12T00:51:18.588Z
+# Total: 111297 rules
 host-suffix, alibaba, DIRECT
 host-suffix, yun, DIRECT
 host-suffix, xn--zfr164b, DIRECT
@@ -55,7 +55,7 @@ host-suffix, baidu, DIRECT
 host-suffix, anquan, DIRECT
 host-suffix, alipay, DIRECT
 host-suffix, jsgjksl.com, DIRECT
-host-suffix, yfwnm.com, DIRECT
+host-suffix, jlc-ecad.com, DIRECT
 host-suffix, 028kuaidai.com, DIRECT
 host-suffix, 028ltzx.com, DIRECT
 host-suffix, 028office.com, DIRECT
@@ -13283,7 +13283,7 @@ host-suffix, b5esports.me, DIRECT
 host-suffix, b5m.com, DIRECT
 host-suffix, b5nngc6zmt.com, DIRECT
 host-suffix, b6098130711042.beer, DIRECT
-host-suffix, jsntg.com, DIRECT
+host-suffix, b612.me, DIRECT
 host-suffix, b612.net, DIRECT
 host-suffix, b612kaji.com, DIRECT
 host-suffix, b643bce461009.beer, DIRECT
@@ -26462,7 +26462,7 @@ host-suffix, d-robotics.cc, DIRECT
 host-suffix, d-stars.net, DIRECT
 host-suffix, d-techs.com, DIRECT
 host-suffix, d-wolves.com, DIRECT
-host-suffix, d.cg, DIRECT
+host-suffix, jsnx.net, DIRECT
 host-suffix, d.design, DIRECT
 host-suffix, d00.net, DIRECT
 host-suffix, d03jd.com, DIRECT
@@ -37217,7 +37217,7 @@ host-suffix, geekcar.net, DIRECT
 host-suffix, geekclo.com, DIRECT
 host-suffix, geekdaxue.co, DIRECT
 host-suffix, geekdive.com, DIRECT
-host-suffix, jsnx.net, DIRECT
+host-suffix, geekefu.com, DIRECT
 host-suffix, geekercloud.com, DIRECT
 host-suffix, geekerconsulting.com, DIRECT
 host-suffix, geekerhua.com, DIRECT
@@ -37664,7 +37664,7 @@ host-suffix, gfnormal08an.com, DIRECT
 host-suffix, gfnormal08ao.com, DIRECT
 host-suffix, gfnormal08ap.com, DIRECT
 host-suffix, gfnormal08aq.com, DIRECT
-host-suffix, gfnormal08ar.com, DIRECT
+host-suffix, jsntg.com, DIRECT
 host-suffix, gfnormal08as.com, DIRECT
 host-suffix, gfnormal08at.com, DIRECT
 host-suffix, gfnormal09aa.com, DIRECT
@@ -51325,6 +51325,8 @@ host-suffix, iot101.com, DIRECT
 host-suffix, iot688.com, DIRECT
 host-suffix, iot889.com, DIRECT
 host-suffix, iotachem.com, DIRECT
+host-suffix, iotaskyt.com, DIRECT
+host-suffix, iotaskyty.com, DIRECT
 host-suffix, iotbay.com, DIRECT
 host-suffix, iotfair.net, DIRECT
 host-suffix, iotku.com, DIRECT
@@ -54721,7 +54723,7 @@ host-suffix, jlc-cnc.com, DIRECT
 host-suffix, jlc-code.com, DIRECT
 host-suffix, jlc-dfm.com, DIRECT
 host-suffix, jlc-drm.com, DIRECT
-host-suffix, jlc-ecad.com, DIRECT
+host-suffix, jsntgas.com, DIRECT
 host-suffix, jlc-erp.com, DIRECT
 host-suffix, jlc-fpc.com, DIRECT
 host-suffix, jlc-gw.com, DIRECT
@@ -55674,9 +55676,9 @@ host-suffix, jsnjck.com, DIRECT
 host-suffix, jsnjjg.com, DIRECT
 host-suffix, jsnkmy.com, DIRECT
 host-suffix, jsnol.com, DIRECT
-host-suffix, b612.me, DIRECT
+host-suffix, gfnormal08ar.com, DIRECT
 host-suffix, 028hema.com, DIRECT
-host-suffix, geekefu.com, DIRECT
+host-suffix, d.cg, DIRECT
 host-suffix, jsnxs.com, DIRECT
 host-suffix, jsnydefy.com, DIRECT
 host-suffix, jsnydsfy.com, DIRECT
@@ -87222,6 +87224,7 @@ host-suffix, tbapp.com, DIRECT
 host-suffix, tbbbk.com, DIRECT
 host-suffix, tbcache.com, DIRECT
 host-suffix, tbcdn.com, DIRECT
+host-suffix, tbdesk.com, DIRECT
 host-suffix, tbh5.com, DIRECT
 host-suffix, tbhcc.com, DIRECT
 host-suffix, tbhelper.com, DIRECT
@@ -102658,7 +102661,7 @@ host-suffix, yftxt.com, DIRECT
 host-suffix, yfty88.com, DIRECT
 host-suffix, yfvb.com, DIRECT
 host-suffix, yfway.com, DIRECT
-host-suffix, jsntgas.com, DIRECT
+host-suffix, yfwnm.com, DIRECT
 host-suffix, yfwpt.vip, DIRECT
 host-suffix, yfycrc.com, DIRECT
 host-suffix, yfycyboil.com, DIRECT
