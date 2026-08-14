@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-08-13T00:52:35.706Z
-# Total: 111297 rules
+# Updated: 2026-08-14T00:51:56.308Z
+# Total: 111304 rules
 host-suffix, alibaba, DIRECT
 host-suffix, yun, DIRECT
 host-suffix, xn--zfr164b, DIRECT
@@ -55,7 +55,7 @@ host-suffix, baidu, DIRECT
 host-suffix, anquan, DIRECT
 host-suffix, alipay, DIRECT
 host-suffix, jsgjksl.com, DIRECT
-host-suffix, jlc-ecad.com, DIRECT
+host-suffix, comicer.com, DIRECT
 host-suffix, 028kuaidai.com, DIRECT
 host-suffix, 028ltzx.com, DIRECT
 host-suffix, 028office.com, DIRECT
@@ -2125,6 +2125,7 @@ host-suffix, 1949idc.com, DIRECT
 host-suffix, 194nb.com, DIRECT
 host-suffix, 195155.com, DIRECT
 host-suffix, 195268032591463.icu, DIRECT
+host-suffix, 1958xy.com, DIRECT
 host-suffix, 195idc.com, DIRECT
 host-suffix, 196b7adb23969e39.com, DIRECT
 host-suffix, 196g.com, DIRECT
@@ -3737,6 +3738,7 @@ host-suffix, 36kr.com, DIRECT
 host-suffix, 36kr.net, DIRECT
 host-suffix, 36krcdn.com, DIRECT
 host-suffix, 36krcnd.com, DIRECT
+host-suffix, 36linkr.com, DIRECT
 host-suffix, 36pnes36t0qs.com, DIRECT
 host-suffix, 36qp.com, DIRECT
 host-suffix, 36rv3j3.shop, DIRECT
@@ -6677,7 +6679,7 @@ host-suffix, 66rjz.com, DIRECT
 host-suffix, 66rom.com, DIRECT
 host-suffix, 66rou.com, DIRECT
 host-suffix, 66rpg.com, DIRECT
-host-suffix, 66ruian.com, DIRECT
+host-suffix, jsntg.com, DIRECT
 host-suffix, 66shouyou.com, DIRECT
 host-suffix, 66sj.com, DIRECT
 host-suffix, 66sy.com, DIRECT
@@ -13764,7 +13766,6 @@ host-suffix, bamaying.com, DIRECT
 host-suffix, bamboofactorychina.com, DIRECT
 host-suffix, bambooolab.com, DIRECT
 host-suffix, bambu-lab.com, DIRECT
-host-suffix, bambulab.com, DIRECT
 host-suffix, bamengame.com, DIRECT
 host-suffix, bamensq.com, DIRECT
 host-suffix, bamenzhushou.com, DIRECT
@@ -16318,6 +16319,7 @@ host-suffix, bkscc.com, DIRECT
 host-suffix, bktencent.com, DIRECT
 host-suffix, bktsj.com, DIRECT
 host-suffix, bkweek.com, DIRECT
+host-suffix, bkzhibo.com, DIRECT
 host-suffix, bkzzy.com, DIRECT
 host-suffix, bl.com, DIRECT
 host-suffix, bl0757.com, DIRECT
@@ -24209,7 +24211,7 @@ host-suffix, comflowy.com, DIRECT
 host-suffix, comfylink.com, DIRECT
 host-suffix, comiai.com, DIRECT
 host-suffix, comicdd.com, DIRECT
-host-suffix, comicer.com, DIRECT
+host-suffix, jsnol.com, DIRECT
 host-suffix, comicfans.net, DIRECT
 host-suffix, comicv.com, DIRECT
 host-suffix, comicyu.com, DIRECT
@@ -26462,7 +26464,7 @@ host-suffix, d-robotics.cc, DIRECT
 host-suffix, d-stars.net, DIRECT
 host-suffix, d-techs.com, DIRECT
 host-suffix, d-wolves.com, DIRECT
-host-suffix, jsnx.net, DIRECT
+host-suffix, d.cg, DIRECT
 host-suffix, d.design, DIRECT
 host-suffix, d00.net, DIRECT
 host-suffix, d03jd.com, DIRECT
@@ -37664,7 +37666,7 @@ host-suffix, gfnormal08an.com, DIRECT
 host-suffix, gfnormal08ao.com, DIRECT
 host-suffix, gfnormal08ap.com, DIRECT
 host-suffix, gfnormal08aq.com, DIRECT
-host-suffix, jsntg.com, DIRECT
+host-suffix, gfnormal08ar.com, DIRECT
 host-suffix, gfnormal08as.com, DIRECT
 host-suffix, gfnormal08at.com, DIRECT
 host-suffix, gfnormal09aa.com, DIRECT
@@ -52950,6 +52952,7 @@ host-suffix, jgsdaily.com, DIRECT
 host-suffix, jgsemicon.com, DIRECT
 host-suffix, jgstour.com, DIRECT
 host-suffix, jgsxfw.com, DIRECT
+host-suffix, jgtab.link, DIRECT
 host-suffix, jgtc315.com, DIRECT
 host-suffix, jguanjia.com, DIRECT
 host-suffix, jgums.com, DIRECT
@@ -54694,6 +54697,7 @@ host-suffix, jkydt.com, DIRECT
 host-suffix, jkyule.com, DIRECT
 host-suffix, jkzhilu.com, DIRECT
 host-suffix, jkzl.com, DIRECT
+host-suffix, jkzlrs.com, DIRECT
 host-suffix, jkzn365.com, DIRECT
 host-suffix, jl-er.com, DIRECT
 host-suffix, jl-jssk.com, DIRECT
@@ -54723,7 +54727,7 @@ host-suffix, jlc-cnc.com, DIRECT
 host-suffix, jlc-code.com, DIRECT
 host-suffix, jlc-dfm.com, DIRECT
 host-suffix, jlc-drm.com, DIRECT
-host-suffix, jsntgas.com, DIRECT
+host-suffix, jlc-ecad.com, DIRECT
 host-suffix, jlc-erp.com, DIRECT
 host-suffix, jlc-fpc.com, DIRECT
 host-suffix, jlc-gw.com, DIRECT
@@ -55674,11 +55678,11 @@ host-suffix, jsnewexpo.com, DIRECT
 host-suffix, jsningyi.com, DIRECT
 host-suffix, jsnjck.com, DIRECT
 host-suffix, jsnjjg.com, DIRECT
-host-suffix, jsnkmy.com, DIRECT
-host-suffix, jsnol.com, DIRECT
-host-suffix, gfnormal08ar.com, DIRECT
+host-suffix, winjoinit.com, DIRECT
 host-suffix, 028hema.com, DIRECT
-host-suffix, d.cg, DIRECT
+host-suffix, 66ruian.com, DIRECT
+host-suffix, jsntgas.com, DIRECT
+host-suffix, jsnx.net, DIRECT
 host-suffix, jsnxs.com, DIRECT
 host-suffix, jsnydefy.com, DIRECT
 host-suffix, jsnydsfy.com, DIRECT
@@ -56343,6 +56347,7 @@ host-suffix, juwangmedia.com, DIRECT
 host-suffix, juwanhezi.com, DIRECT
 host-suffix, juwanshe.com, DIRECT
 host-suffix, juweixin.com, DIRECT
+host-suffix, juwinmedia.com, DIRECT
 host-suffix, juwuxian.com, DIRECT
 host-suffix, juxia.com, DIRECT
 host-suffix, juxian.com, DIRECT
@@ -85551,6 +85556,7 @@ host-suffix, sxygsj.com, DIRECT
 host-suffix, sxyj.net, DIRECT
 host-suffix, sxyqgs.asia, DIRECT
 host-suffix, sxyyc.net, DIRECT
+host-suffix, sxyygh.com, DIRECT
 host-suffix, sxzhaobiao.com, DIRECT
 host-suffix, sxzhongfei.com, DIRECT
 host-suffix, sxzhyy.com, DIRECT
@@ -95591,7 +95597,7 @@ host-suffix, winhealthgroups.com, DIRECT
 host-suffix, winhlb.com, DIRECT
 host-suffix, winhong.com, DIRECT
 host-suffix, winicssec.com, DIRECT
-host-suffix, winjoinit.com, DIRECT
+host-suffix, jsnkmy.com, DIRECT
 host-suffix, winkingworks.com, DIRECT
 host-suffix, winkkie.com, DIRECT
 host-suffix, winksi.com, DIRECT
@@ -98076,6 +98082,7 @@ host-suffix, xhscdn.com, DIRECT
 host-suffix, xhscdn.net, DIRECT
 host-suffix, xhsd.com, DIRECT
 host-suffix, xhsd.net, DIRECT
+host-suffix, xhsdzd.com, DIRECT
 host-suffix, xhsf.com, DIRECT
 host-suffix, xhslink.com, DIRECT
 host-suffix, xhslw.com, DIRECT
