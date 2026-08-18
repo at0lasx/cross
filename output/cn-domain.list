@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-08-17T00:28:29.919Z
-# Total: 111304 rules
+# Updated: 2026-08-18T00:28:14.525Z
+# Total: 111305 rules
 host-suffix, alibaba, DIRECT
 host-suffix, yun, DIRECT
 host-suffix, xn--zfr164b, DIRECT
@@ -55,7 +55,7 @@ host-suffix, baidu, DIRECT
 host-suffix, anquan, DIRECT
 host-suffix, alipay, DIRECT
 host-suffix, jsgjksl.com, DIRECT
-host-suffix, comicer.com, DIRECT
+host-suffix, scjcdl.com, DIRECT
 host-suffix, 028kuaidai.com, DIRECT
 host-suffix, 028ltzx.com, DIRECT
 host-suffix, 028office.com, DIRECT
@@ -6679,7 +6679,7 @@ host-suffix, 66rjz.com, DIRECT
 host-suffix, 66rom.com, DIRECT
 host-suffix, 66rou.com, DIRECT
 host-suffix, 66rpg.com, DIRECT
-host-suffix, jsntg.com, DIRECT
+host-suffix, 66ruian.com, DIRECT
 host-suffix, 66shouyou.com, DIRECT
 host-suffix, 66sj.com, DIRECT
 host-suffix, 66sy.com, DIRECT
@@ -24211,7 +24211,7 @@ host-suffix, comflowy.com, DIRECT
 host-suffix, comfylink.com, DIRECT
 host-suffix, comiai.com, DIRECT
 host-suffix, comicdd.com, DIRECT
-host-suffix, jsnol.com, DIRECT
+host-suffix, comicer.com, DIRECT
 host-suffix, comicfans.net, DIRECT
 host-suffix, comicv.com, DIRECT
 host-suffix, comicyu.com, DIRECT
@@ -34870,7 +34870,7 @@ host-suffix, foundertech.com, DIRECT
 host-suffix, foundertype.com, DIRECT
 host-suffix, founpad.com, DIRECT
 host-suffix, four-faith.com, DIRECT
-host-suffix, fourco-inc.com, DIRECT
+host-suffix, jsnx.net, DIRECT
 host-suffix, fourfaithwater.com, DIRECT
 host-suffix, fovmy.com, DIRECT
 host-suffix, fow.ink, DIRECT
@@ -55678,11 +55678,11 @@ host-suffix, jsnewexpo.com, DIRECT
 host-suffix, jsningyi.com, DIRECT
 host-suffix, jsnjck.com, DIRECT
 host-suffix, jsnjjg.com, DIRECT
-host-suffix, winjoinit.com, DIRECT
+host-suffix, jsnkmy.com, DIRECT
+host-suffix, jsnol.com, DIRECT
+host-suffix, yjldp.com, DIRECT
 host-suffix, 028hema.com, DIRECT
-host-suffix, 66ruian.com, DIRECT
-host-suffix, jsntgas.com, DIRECT
-host-suffix, jsnx.net, DIRECT
+host-suffix, fourco-inc.com, DIRECT
 host-suffix, jsnxs.com, DIRECT
 host-suffix, jsnydefy.com, DIRECT
 host-suffix, jsnydsfy.com, DIRECT
@@ -74239,6 +74239,7 @@ host-suffix, qianvisa.com, DIRECT
 host-suffix, qianwa.com, DIRECT
 host-suffix, qianwanku.com, DIRECT
 host-suffix, qianwen.com, DIRECT
+host-suffix, qianwenai.com, DIRECT
 host-suffix, qianxiangbank.com, DIRECT
 host-suffix, qianxibj.net, DIRECT
 host-suffix, qianximiye.com, DIRECT
@@ -78798,7 +78799,7 @@ host-suffix, scixh.com, DIRECT
 host-suffix, sciyard.com, DIRECT
 host-suffix, sciyon.com, DIRECT
 host-suffix, scjcce.com, DIRECT
-host-suffix, scjcdl.com, DIRECT
+host-suffix, jsntgas.com, DIRECT
 host-suffix, scjhg.com, DIRECT
 host-suffix, scjhhb.com, DIRECT
 host-suffix, scjhyq.com, DIRECT
@@ -95597,7 +95598,7 @@ host-suffix, winhealthgroups.com, DIRECT
 host-suffix, winhlb.com, DIRECT
 host-suffix, winhong.com, DIRECT
 host-suffix, winicssec.com, DIRECT
-host-suffix, jsnkmy.com, DIRECT
+host-suffix, winjoinit.com, DIRECT
 host-suffix, winkingworks.com, DIRECT
 host-suffix, winkkie.com, DIRECT
 host-suffix, winksi.com, DIRECT
@@ -103719,7 +103720,7 @@ host-suffix, yjiyun.com, DIRECT
 host-suffix, yjjsjt.com, DIRECT
 host-suffix, yjk.com, DIRECT
 host-suffix, yjk.im, DIRECT
-host-suffix, yjldp.com, DIRECT
+host-suffix, jsntg.com, DIRECT
 host-suffix, yjlhq.com, DIRECT
 host-suffix, yjlin4.com, DIRECT
 host-suffix, yjlink.cc, DIRECT
