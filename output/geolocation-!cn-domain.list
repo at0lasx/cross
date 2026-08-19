@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-08-18T00:28:15.484Z
-# Total: 26998 rules
+# Updated: 2026-08-19T00:28:03.604Z
+# Total: 26999 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -822,7 +822,7 @@ host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
 host-suffix, jfengtime.com, DIRECT
-host-suffix, artstation.com, DIRECT
+host-suffix, cheggcdn.com, DIRECT
 host-suffix, 12vpn.com, DIRECT
 host-suffix, 12vpn.net, DIRECT
 host-suffix, 1337x.gd, DIRECT
@@ -3030,7 +3030,7 @@ host-suffix, arteldoc.tv, DIRECT
 host-suffix, artixlinux.org, DIRECT
 host-suffix, artnudegalleries.com, DIRECT
 host-suffix, artoferotica.info, DIRECT
-host-suffix, jiuse.io, DIRECT
+host-suffix, artstation.com, DIRECT
 host-suffix, artstationmedia.com, DIRECT
 host-suffix, artstor.org, DIRECT
 host-suffix, artstorm.com, DIRECT
@@ -5513,7 +5513,7 @@ host-suffix, c4rex.co, DIRECT
 host-suffix, c4slive.com, DIRECT
 host-suffix, cabconnect.org, DIRECT
 host-suffix, cableav.tv, DIRECT
-host-suffix, cableav.xyz, DIRECT
+host-suffix, jiuse6666.com, DIRECT
 host-suffix, cablegatesearch.net, DIRECT
 host-suffix, yinya.shop, DIRECT
 host-suffix, cabletvdirectv.com, DIRECT
@@ -6038,7 +6038,7 @@ host-suffix, checkgfw.com, DIRECT
 host-suffix, cheerwholesale.us, DIRECT
 host-suffix, chef.io, DIRECT
 host-suffix, chegg.com, DIRECT
-host-suffix, cheggcdn.com, DIRECT
+host-suffix, jiuse.io, DIRECT
 host-suffix, chemequations.com, DIRECT
 host-suffix, chemnetbase.com, DIRECT
 host-suffix, chengjuanseo.com, DIRECT
@@ -6533,7 +6533,7 @@ host-suffix, comfyregistry.org, DIRECT
 host-suffix, comic-growl.com, DIRECT
 host-suffix, comicbox.xyz, DIRECT
 host-suffix, comicbushi-web.com, DIRECT
-host-suffix, comicscartoonporn.com, DIRECT
+host-suffix, jiuse.icu, DIRECT
 host-suffix, comicsporno.es, DIRECT
 host-suffix, comicunivers.com, DIRECT
 host-suffix, comicuniverse.org, DIRECT
@@ -13909,9 +13909,9 @@ host-suffix, jitouch.com, DIRECT
 host-suffix, jitsi.org, DIRECT
 host-suffix, jiuse.ai, DIRECT
 host-suffix, xboxone.co, DIRECT
-host-suffix, lianhonghong.com, DIRECT
+host-suffix, comicscartoonporn.com, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
-host-suffix, weldberres.ru, DIRECT
+host-suffix, cableav.xyz, DIRECT
 host-suffix, jiuse821.com, DIRECT
 host-suffix, jiuse822.com, DIRECT
 host-suffix, jiuse823.com, DIRECT
@@ -14660,7 +14660,7 @@ host-suffix, lhakar.org, DIRECT
 host-suffix, li.taipei, DIRECT
 host-suffix, liangyou.net, DIRECT
 host-suffix, liangzhichuanmei.com, DIRECT
-host-suffix, jiuse.icu, DIRECT
+host-suffix, lianhonghong.com, DIRECT
 host-suffix, lianjiajr.net, DIRECT
 host-suffix, liaowangxizang.net, DIRECT
 host-suffix, wwwxoom.com, DIRECT
@@ -17524,6 +17524,7 @@ host-suffix, nonlinearnastran.com, DIRECT
 host-suffix, nonstopfap.com, DIRECT
 host-suffix, noodlemagazine.com, DIRECT
 host-suffix, noosferabank.ru, DIRECT
+host-suffix, nordcdn.com, DIRECT
 host-suffix, nordstrom.com, DIRECT
 host-suffix, nordstromimage.com, DIRECT
 host-suffix, nordstrommedia.com, DIRECT
@@ -19583,7 +19584,7 @@ host-suffix, proxifier.com, DIRECT
 host-suffix, proxomitron.info, DIRECT
 host-suffix, proxpn.com, DIRECT
 host-suffix, proxyadult.org, DIRECT
-host-suffix, jiuse6666.com, DIRECT
+host-suffix, weldberres.ru, DIRECT
 host-suffix, proxyrarbg.org, DIRECT
 host-suffix, proxz.com, DIRECT
 host-suffix, proyectoclubes.com, DIRECT
