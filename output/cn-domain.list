@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-08-19T00:28:02.028Z
+# Updated: 2026-08-20T00:28:34.120Z
 # Total: 111305 rules
 host-suffix, alibaba, DIRECT
 host-suffix, yun, DIRECT
