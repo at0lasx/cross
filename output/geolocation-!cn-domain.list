@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-08-26T00:30:47.305Z
-# Total: 27021 rules
+# Updated: 2026-08-27T05:19:05.221Z
+# Total: 27023 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -821,8 +821,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, jfrog.com, DIRECT
-host-suffix, karta-banka-rf.ru, DIRECT
+host-suffix, jfn.su, DIRECT
+host-suffix, easyanticheat.net, DIRECT
 host-suffix, 12vpn.com, DIRECT
 host-suffix, 12vpn.net, DIRECT
 host-suffix, 1337x.gd, DIRECT
@@ -3385,7 +3385,7 @@ host-suffix, av11.org, DIRECT
 host-suffix, av1688.cc, DIRECT
 host-suffix, av369.net, DIRECT
 host-suffix, av4.us, DIRECT
-host-suffix, jiuse823.com, DIRECT
+host-suffix, av69.tv, DIRECT
 host-suffix, av69.us, DIRECT
 host-suffix, av6k.com, DIRECT
 host-suffix, av6k.vip, DIRECT
@@ -5005,7 +5005,7 @@ host-suffix, bmwmagazine.de, DIRECT
 host-suffix, bmwmass.com, DIRECT
 host-suffix, bmwmass.net, DIRECT
 host-suffix, bmwmc.net, DIRECT
-host-suffix, bmwmontreal.ca, DIRECT
+host-suffix, jiuse6666.com, DIRECT
 host-suffix, bmwmotorcycles.com, DIRECT
 host-suffix, bmwmotorcycleusa.com, DIRECT
 host-suffix, younger19.com, DIRECT
@@ -7044,7 +7044,7 @@ host-suffix, dditsadn.com, DIRECT
 host-suffix, dditscdn.com, DIRECT
 host-suffix, de-rt.com, DIRECT
 host-suffix, de-rt.org, DIRECT
-host-suffix, de-rtnews.com, DIRECT
+host-suffix, jiuse822.com, DIRECT
 host-suffix, de-rtnews.net, DIRECT
 host-suffix, de1lib.org, DIRECT
 host-suffix, deadhouse.org, DIRECT
@@ -8173,7 +8173,7 @@ host-suffix, eastturkistangovernmentinexile.us, DIRECT
 host-suffix, xxxpornhd.pro, DIRECT
 host-suffix, easy-jtag.com, DIRECT
 host-suffix, easy.ac, DIRECT
-host-suffix, easyanticheat.net, DIRECT
+host-suffix, jiuse821.com, DIRECT
 host-suffix, easylist.to, DIRECT
 host-suffix, easynike.com, DIRECT
 host-suffix, easypic.com, DIRECT
@@ -11367,6 +11367,7 @@ host-suffix, xn--pssu7ci2j23mp9ny48b.hk, DIRECT
 host-suffix, h-webtoon.com, DIRECT
 host-suffix, h0930.com, DIRECT
 host-suffix, h18ani1.vip, DIRECT
+host-suffix, h264.io, DIRECT
 host-suffix, h2o.ai, DIRECT
 host-suffix, h2porn.com, DIRECT
 host-suffix, h528.com, DIRECT
@@ -13885,8 +13886,8 @@ host-suffix, jetfuelapps.com, DIRECT
 host-suffix, jex.com, DIRECT
 host-suffix, xboxone.co, DIRECT
 host-suffix, jfengtime.com, DIRECT
-host-suffix, jfn.su, DIRECT
 host-suffix, 000webhost.com, DIRECT
+host-suffix, jfrog.com, DIRECT
 host-suffix, jfrog.org, DIRECT
 host-suffix, jgg18.xyz, DIRECT
 host-suffix, jgoodies.com, DIRECT
@@ -13920,10 +13921,10 @@ host-suffix, jiuse.ai, DIRECT
 host-suffix, xboxgamestudios.com, DIRECT
 host-suffix, jiuse.icu, DIRECT
 host-suffix, jiuse.io, DIRECT
-host-suffix, jiuse6666.com, DIRECT
-host-suffix, smpte.org, DIRECT
+host-suffix, bmwmontreal.ca, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
-host-suffix, av69.tv, DIRECT
+host-suffix, de-rtnews.com, DIRECT
+host-suffix, jiuse823.com, DIRECT
 host-suffix, jivara.global, DIRECT
 host-suffix, jivo.chat, DIRECT
 host-suffix, jivo.ru, DIRECT
@@ -14186,7 +14187,7 @@ host-suffix, karinahart.com, DIRECT
 host-suffix, karing.app, DIRECT
 host-suffix, karlajames.com, DIRECT
 host-suffix, karmahelp.ru, DIRECT
-host-suffix, jiuse822.com, DIRECT
+host-suffix, karta-banka-rf.ru, DIRECT
 host-suffix, karupsha.com, DIRECT
 host-suffix, karupspc.com, DIRECT
 host-suffix, kaspersky-labs.com, DIRECT
@@ -17217,6 +17218,7 @@ host-suffix, nftstatic.com, DIRECT
 host-suffix, nftstorage.link, DIRECT
 host-suffix, nga.mil, DIRECT
 host-suffix, ngeo.com, DIRECT
+host-suffix, ngfiles.com, DIRECT
 host-suffix, nginx.com, DIRECT
 host-suffix, nginx.org, DIRECT
 host-suffix, nginxconfig.io, DIRECT
@@ -21515,7 +21517,7 @@ host-suffix, smn.news, DIRECT
 host-suffix, smokinmovies.com, DIRECT
 host-suffix, smotreshka.tv, DIRECT
 host-suffix, smplace.com, DIRECT
-host-suffix, jiuse821.com, DIRECT
+host-suffix, smpte.org, DIRECT
 host-suffix, smtb.jp, DIRECT
 host-suffix, smutcam.com, DIRECT
 host-suffix, smutcams.com, DIRECT
