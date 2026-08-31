@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-08-30T01:56:37.918Z
-# Total: 27025 rules
+# Updated: 2026-08-31T01:52:12.010Z
+# Total: 27026 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -821,8 +821,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, jfrog.org, DIRECT
-host-suffix, youtube.se, DIRECT
+host-suffix, jfrog.com, DIRECT
+host-suffix, usercontent.dev, DIRECT
 host-suffix, 12vpn.com, DIRECT
 host-suffix, 12vpn.net, DIRECT
 host-suffix, 1337x.gd, DIRECT
@@ -2843,7 +2843,7 @@ host-suffix, appleone.community, DIRECT
 host-suffix, appleone.film, DIRECT
 host-suffix, appleone.guide, DIRECT
 host-suffix, appleone.host, DIRECT
-host-suffix, appleone.space, DIRECT
+host-suffix, jiuse823.com, DIRECT
 host-suffix, appleone.tech, DIRECT
 host-suffix, appleone.website, DIRECT
 host-suffix, appleonline.com, DIRECT
@@ -3743,7 +3743,7 @@ host-suffix, youtube.si, DIRECT
 host-suffix, youtube.sg, DIRECT
 host-suffix, bbcchinese.com, DIRECT
 host-suffix, bbchat.tv, DIRECT
-host-suffix, jiuse823.com, DIRECT
+host-suffix, youtube.se, DIRECT
 host-suffix, youtube.sa, DIRECT
 host-suffix, bbcpersian.com, DIRECT
 host-suffix, bbcpornonly.com, DIRECT
@@ -9134,7 +9134,7 @@ host-suffix, faceebook.com, DIRECT
 host-suffix, faceebot.com, DIRECT
 host-suffix, facegbok.com, DIRECT
 host-suffix, facegbook.com, DIRECT
-host-suffix, jivara.global, DIRECT
+host-suffix, faceid99.com, DIRECT
 host-suffix, faceid99.net, DIRECT
 host-suffix, faceidglobal.com, DIRECT
 host-suffix, faceit-cdn.net, DIRECT
@@ -10530,6 +10530,7 @@ host-suffix, geti2p.net, DIRECT
 host-suffix, getlantern.org, DIRECT
 host-suffix, getmalus.com, DIRECT
 host-suffix, getmdl.io, DIRECT
+host-suffix, getmonero.org, DIRECT
 host-suffix, getnews.jp, DIRECT
 host-suffix, getoutline.org, DIRECT
 host-suffix, getpaint.net, DIRECT
@@ -13383,7 +13384,7 @@ host-suffix, ipadair.tw, DIRECT
 host-suffix, ipadaustralia.com, DIRECT
 host-suffix, ipadmini.cm, DIRECT
 host-suffix, xfockers.com, DIRECT
-host-suffix, ipadmini.lk, DIRECT
+host-suffix, jiuse821.com, DIRECT
 host-suffix, ipadpro.buzz, DIRECT
 host-suffix, ipdefenseforum.com, DIRECT
 host-suffix, ipfire.org, DIRECT
@@ -13887,8 +13888,8 @@ host-suffix, jex.com, DIRECT
 host-suffix, xboxone.co, DIRECT
 host-suffix, jfengtime.com, DIRECT
 host-suffix, jfn.su, DIRECT
-host-suffix, jfrog.com, DIRECT
 host-suffix, 000webhost.com, DIRECT
+host-suffix, jfrog.org, DIRECT
 host-suffix, jgg18.xyz, DIRECT
 host-suffix, jgoodies.com, DIRECT
 host-suffix, jhelab.org, DIRECT
@@ -13922,10 +13923,10 @@ host-suffix, xboxgamestudios.com, DIRECT
 host-suffix, jiuse.icu, DIRECT
 host-suffix, jiuse.io, DIRECT
 host-suffix, jiuse6666.com, DIRECT
-host-suffix, jiuse821.com, DIRECT
-host-suffix, spaceforce.mil, DIRECT
+host-suffix, ipadmini.lk, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
-host-suffix, faceid99.com, DIRECT
+host-suffix, appleone.space, DIRECT
+host-suffix, jivara.global, DIRECT
 host-suffix, jivo.chat, DIRECT
 host-suffix, jivo.ru, DIRECT
 host-suffix, xboxgamepass.com, DIRECT
@@ -21767,7 +21768,7 @@ host-suffix, soyjak.party, DIRECT
 host-suffix, soyjak.st, DIRECT
 host-suffix, sp.cool, DIRECT
 host-suffix, spaceexplored.com, DIRECT
-host-suffix, jiuse822.com, DIRECT
+host-suffix, spaceforce.mil, DIRECT
 host-suffix, waltermartin.com, DIRECT
 host-suffix, spacemail.com, DIRECT
 host-suffix, waltdisneystudios.com, DIRECT
@@ -23845,7 +23846,7 @@ host-suffix, useplannr.com, DIRECT
 host-suffix, userapi.com, DIRECT
 host-suffix, userapi.ru, DIRECT
 host-suffix, usercentrics.eu, DIRECT
-host-suffix, usercontent.dev, DIRECT
+host-suffix, jiuse822.com, DIRECT
 host-suffix, userdrive.org, DIRECT
 host-suffix, userpxt.io, DIRECT
 host-suffix, usersdrive.com, DIRECT
