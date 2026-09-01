@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-08-31T01:52:12.010Z
-# Total: 27026 rules
+# Updated: 2026-09-01T02:14:30.899Z
+# Total: 27033 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -821,8 +821,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, jfrog.com, DIRECT
-host-suffix, usercontent.dev, DIRECT
+host-suffix, jfrog.org, DIRECT
+host-suffix, bang-movies.com, DIRECT
 host-suffix, 12vpn.com, DIRECT
 host-suffix, 12vpn.net, DIRECT
 host-suffix, 1337x.gd, DIRECT
@@ -2843,7 +2843,7 @@ host-suffix, appleone.community, DIRECT
 host-suffix, appleone.film, DIRECT
 host-suffix, appleone.guide, DIRECT
 host-suffix, appleone.host, DIRECT
-host-suffix, jiuse823.com, DIRECT
+host-suffix, appleone.space, DIRECT
 host-suffix, appleone.tech, DIRECT
 host-suffix, appleone.website, DIRECT
 host-suffix, appleonline.com, DIRECT
@@ -3660,7 +3660,7 @@ host-suffix, bandgirlz.com, DIRECT
 host-suffix, bandpage.com, DIRECT
 host-suffix, bandwagonhost.com, DIRECT
 host-suffix, bang-dream.com, DIRECT
-host-suffix, bang-movies.com, DIRECT
+host-suffix, jiuse823.com, DIRECT
 host-suffix, bangbros.com, DIRECT
 host-suffix, bangbrosnetwork.com, DIRECT
 host-suffix, bangchen.net, DIRECT
@@ -4448,6 +4448,7 @@ host-suffix, blackamateursvideos.com, DIRECT
 host-suffix, blackandstacked.com, DIRECT
 host-suffix, blackboxgames.com, DIRECT
 host-suffix, blacked.com, DIRECT
+host-suffix, blackedraw.com, DIRECT
 host-suffix, blackfridaydrebeatsnew.com, DIRECT
 host-suffix, blackfridaydrebeatsshop.com, DIRECT
 host-suffix, blackhomeporn.com, DIRECT
@@ -10350,6 +10351,8 @@ host-suffix, gastrointestinalexam.com, DIRECT
 host-suffix, gate.cc, DIRECT
 host-suffix, gate.com, DIRECT
 host-suffix, gate.io, DIRECT
+host-suffix, gate.tv, DIRECT
+host-suffix, gateapi.io, DIRECT
 host-suffix, gatecoin.com, DIRECT
 host-suffix, gatedata.org, DIRECT
 host-suffix, gateimg.com, DIRECT
@@ -13384,7 +13387,7 @@ host-suffix, ipadair.tw, DIRECT
 host-suffix, ipadaustralia.com, DIRECT
 host-suffix, ipadmini.cm, DIRECT
 host-suffix, xfockers.com, DIRECT
-host-suffix, jiuse821.com, DIRECT
+host-suffix, ipadmini.lk, DIRECT
 host-suffix, ipadpro.buzz, DIRECT
 host-suffix, ipdefenseforum.com, DIRECT
 host-suffix, ipfire.org, DIRECT
@@ -13888,8 +13891,8 @@ host-suffix, jex.com, DIRECT
 host-suffix, xboxone.co, DIRECT
 host-suffix, jfengtime.com, DIRECT
 host-suffix, jfn.su, DIRECT
+host-suffix, jfrog.com, DIRECT
 host-suffix, 000webhost.com, DIRECT
-host-suffix, jfrog.org, DIRECT
 host-suffix, jgg18.xyz, DIRECT
 host-suffix, jgoodies.com, DIRECT
 host-suffix, jhelab.org, DIRECT
@@ -13923,10 +13926,10 @@ host-suffix, xboxgamestudios.com, DIRECT
 host-suffix, jiuse.icu, DIRECT
 host-suffix, jiuse.io, DIRECT
 host-suffix, jiuse6666.com, DIRECT
-host-suffix, ipadmini.lk, DIRECT
+host-suffix, jiuse821.com, DIRECT
+host-suffix, wix.com, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
-host-suffix, appleone.space, DIRECT
-host-suffix, jivara.global, DIRECT
+host-suffix, npmjs.org, DIRECT
 host-suffix, jivo.chat, DIRECT
 host-suffix, jivo.ru, DIRECT
 host-suffix, xboxgamepass.com, DIRECT
@@ -15837,6 +15840,7 @@ host-suffix, milfthreesomes.com, DIRECT
 host-suffix, milftube.pro, DIRECT
 host-suffix, milftugs.com, DIRECT
 host-suffix, milfvr.com, DIRECT
+host-suffix, milfy.com, DIRECT
 host-suffix, milfzr.com, DIRECT
 host-suffix, miliav.com, DIRECT
 host-suffix, milkmanbook.com, DIRECT
@@ -16193,7 +16197,7 @@ host-suffix, mixi.net, DIRECT
 host-suffix, mixmaturesex.com, DIRECT
 host-suffix, mixvintagesex.com, DIRECT
 host-suffix, mixx.com, DIRECT
-host-suffix, wix.com, DIRECT
+host-suffix, jiuse822.com, DIRECT
 host-suffix, wix-code.com, DIRECT
 host-suffix, mizzmona.com, DIRECT
 host-suffix, mji.rip, DIRECT
@@ -17586,7 +17590,7 @@ host-suffix, nozomi.la, DIRECT
 host-suffix, wikileaks.pl, DIRECT
 host-suffix, npm.community, DIRECT
 host-suffix, npmjs.com, DIRECT
-host-suffix, npmjs.org, DIRECT
+host-suffix, jivara.global, DIRECT
 host-suffix, npnt.me, DIRECT
 host-suffix, npr.org, DIRECT
 host-suffix, npsboost.com, DIRECT
@@ -21462,6 +21466,7 @@ host-suffix, slashdot.org, DIRECT
 host-suffix, slashine.onl, DIRECT
 host-suffix, slavbank.ru, DIRECT
 host-suffix, slavicstar.com, DIRECT
+host-suffix, slayed.com, DIRECT
 host-suffix, slc.tl, DIRECT
 host-suffix, sldolls.com, DIRECT
 host-suffix, sleazyfork.org, DIRECT
@@ -23480,6 +23485,7 @@ host-suffix, turntable.fm, DIRECT
 host-suffix, tusco.ru, DIRECT
 host-suffix, tushy.com, DIRECT
 host-suffix, tushycash.com, DIRECT
+host-suffix, tushyraw.com, DIRECT
 host-suffix, tuta.com, DIRECT
 host-suffix, tuta.io, DIRECT
 host-suffix, tutamail.com, DIRECT
@@ -23846,7 +23852,7 @@ host-suffix, useplannr.com, DIRECT
 host-suffix, userapi.com, DIRECT
 host-suffix, userapi.ru, DIRECT
 host-suffix, usercentrics.eu, DIRECT
-host-suffix, jiuse822.com, DIRECT
+host-suffix, usercontent.dev, DIRECT
 host-suffix, userdrive.org, DIRECT
 host-suffix, userpxt.io, DIRECT
 host-suffix, usersdrive.com, DIRECT
@@ -24462,6 +24468,7 @@ host-suffix, vivaldi.com, DIRECT
 host-suffix, vivaxnxx.com, DIRECT
 host-suffix, vivthomas.com, DIRECT
 host-suffix, vixen.com, DIRECT
+host-suffix, vixengroup.com, DIRECT
 host-suffix, vixvids.to, DIRECT
 host-suffix, vjav.com, DIRECT
 host-suffix, voachinese.com, DIRECT
