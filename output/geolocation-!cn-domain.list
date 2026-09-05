@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-09-04T01:35:04.040Z
-# Total: 27033 rules
+# Updated: 2026-09-05T01:36:31.992Z
+# Total: 27034 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -822,7 +822,7 @@ host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
 host-suffix, jfrog.org, DIRECT
-host-suffix, bang-movies.com, DIRECT
+host-suffix, madhomemadeporn.com, DIRECT
 host-suffix, 12vpn.com, DIRECT
 host-suffix, 12vpn.net, DIRECT
 host-suffix, 1337x.gd, DIRECT
@@ -3660,7 +3660,7 @@ host-suffix, bandgirlz.com, DIRECT
 host-suffix, bandpage.com, DIRECT
 host-suffix, bandwagonhost.com, DIRECT
 host-suffix, bang-dream.com, DIRECT
-host-suffix, jiuse823.com, DIRECT
+host-suffix, bang-movies.com, DIRECT
 host-suffix, bangbros.com, DIRECT
 host-suffix, bangbrosnetwork.com, DIRECT
 host-suffix, bangchen.net, DIRECT
@@ -4849,7 +4849,7 @@ host-suffix, bmw-worldfinal.com, DIRECT
 host-suffix, bmw-yachtsport.com, DIRECT
 host-suffix, bmw-yeg.ca, DIRECT
 host-suffix, bmw-yemen.com, DIRECT
-host-suffix, bmw.am, DIRECT
+host-suffix, jivara.global, DIRECT
 host-suffix, bmw.at, DIRECT
 host-suffix, bmw.az, DIRECT
 host-suffix, bmw.ba, DIRECT
@@ -13927,9 +13927,9 @@ host-suffix, jiuse.icu, DIRECT
 host-suffix, jiuse.io, DIRECT
 host-suffix, jiuse6666.com, DIRECT
 host-suffix, jiuse821.com, DIRECT
-host-suffix, wix.com, DIRECT
+host-suffix, needforspeedredline.com, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
-host-suffix, npmjs.org, DIRECT
+host-suffix, bmw.am, DIRECT
 host-suffix, jivo.chat, DIRECT
 host-suffix, jivo.ru, DIRECT
 host-suffix, xboxgamepass.com, DIRECT
@@ -14777,6 +14777,7 @@ host-suffix, linseysworld.com, DIRECT
 host-suffix, linux.do, DIRECT
 host-suffix, linux.org, DIRECT
 host-suffix, wwwmfacebook.com, DIRECT
+host-suffix, linux.sb, DIRECT
 host-suffix, linuxfoundation.org, DIRECT
 host-suffix, linuxfromscratch.org, DIRECT
 host-suffix, linuxmint.com, DIRECT
@@ -15113,7 +15114,7 @@ host-suffix, madewithcode.com, DIRECT
 host-suffix, madewithmaya.com, DIRECT
 host-suffix, madewithstudiotools.com, DIRECT
 host-suffix, madewithunity.jp, DIRECT
-host-suffix, madhomemadeporn.com, DIRECT
+host-suffix, jiuse823.com, DIRECT
 host-suffix, madonna-av.com, DIRECT
 host-suffix, madou.club, DIRECT
 host-suffix, madou.la, DIRECT
@@ -16197,7 +16198,7 @@ host-suffix, mixi.net, DIRECT
 host-suffix, mixmaturesex.com, DIRECT
 host-suffix, mixvintagesex.com, DIRECT
 host-suffix, mixx.com, DIRECT
-host-suffix, jiuse822.com, DIRECT
+host-suffix, wix.com, DIRECT
 host-suffix, wix-code.com, DIRECT
 host-suffix, mizzmona.com, DIRECT
 host-suffix, mji.rip, DIRECT
@@ -16991,7 +16992,7 @@ host-suffix, needforspeedeliminator.com, DIRECT
 host-suffix, needforspeedlightning.com, DIRECT
 host-suffix, needforspeedoverdrive.com, DIRECT
 host-suffix, needforspeedproven.com, DIRECT
-host-suffix, needforspeedredline.com, DIRECT
+host-suffix, jiuse822.com, DIRECT
 host-suffix, needforspeedshowdown.com, DIRECT
 host-suffix, needforspeedstreetkings.com, DIRECT
 host-suffix, needforspeedtakedown.com, DIRECT
@@ -17590,7 +17591,7 @@ host-suffix, nozomi.la, DIRECT
 host-suffix, wikileaks.pl, DIRECT
 host-suffix, npm.community, DIRECT
 host-suffix, npmjs.com, DIRECT
-host-suffix, jivara.global, DIRECT
+host-suffix, npmjs.org, DIRECT
 host-suffix, npnt.me, DIRECT
 host-suffix, npr.org, DIRECT
 host-suffix, npsboost.com, DIRECT
