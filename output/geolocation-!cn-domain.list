@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-09-06T01:30:43.175Z
-# Total: 27040 rules
+# Updated: 2026-09-07T01:29:09.612Z
+# Total: 27041 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -265,6 +265,7 @@ host, img-prod-cms-rt-microsoft-com.akamaized.net, DIRECT
 host, img-s-msn-com.akamaized.net, DIRECT
 host, impala-media-production.s3.amazonaws.com, DIRECT
 host, imperial.insendi.com, DIRECT
+host, lastfm-img.freetls.fastly.net, DIRECT
 host, lastfm.freetls.fastly.net, DIRECT
 host, lazer.ppy.sh, DIRECT
 host, lgcscc-hamivideo2.cdn.hinet.net, DIRECT
