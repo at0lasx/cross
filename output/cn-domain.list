@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-09-09T01:46:27.457Z
-# Total: 111021 rules
+# Updated: 2026-09-10T01:41:29.476Z
+# Total: 111022 rules
 host-suffix, alibaba, DIRECT
 host-suffix, yun, DIRECT
 host-suffix, xn--zfr164b, DIRECT
@@ -55,7 +55,7 @@ host-suffix, baidu, DIRECT
 host-suffix, anquan, DIRECT
 host-suffix, alipay, DIRECT
 host-suffix, jsjgbxg.com, DIRECT
-host-suffix, cargai.com, DIRECT
+host-suffix, taoyougou.com, DIRECT
 host-suffix, 027htxt.com, DIRECT
 host-suffix, 027hxzy.com, DIRECT
 host-suffix, 027hy.com, DIRECT
@@ -11299,7 +11299,7 @@ host-suffix, alu-ledprofile.com, DIRECT
 host-suffix, aluaa.com, DIRECT
 host-suffix, aluminiumchina.com, DIRECT
 host-suffix, aluntan.com, DIRECT
-host-suffix, alwaysnb.com, DIRECT
+host-suffix, jssihuan.com, DIRECT
 host-suffix, alwayzev.com, DIRECT
 host-suffix, alwindoor.com, DIRECT
 host-suffix, alxw.com, DIRECT
@@ -18297,7 +18297,7 @@ host-suffix, carellicpa.com, DIRECT
 host-suffix, carertec.com, DIRECT
 host-suffix, careuc.com, DIRECT
 host-suffix, carezb.com, DIRECT
-host-suffix, jssia.org, DIRECT
+host-suffix, cargai.com, DIRECT
 host-suffix, cargeer.com, DIRECT
 host-suffix, cargo001.com, DIRECT
 host-suffix, cargodiscovery.com, DIRECT
@@ -18955,7 +18955,7 @@ host-suffix, cded23c0b11011.beer, DIRECT
 host-suffix, cdedu.com, DIRECT
 host-suffix, cdeledu.com, DIRECT
 host-suffix, cdenvironment.com, DIRECT
-host-suffix, jssihuan.com, DIRECT
+host-suffix, cdfanmu.com, DIRECT
 host-suffix, cdfcjg.com, DIRECT
 host-suffix, cdfcn.com, DIRECT
 host-suffix, cdfeimi.com, DIRECT
@@ -52370,7 +52370,7 @@ host-suffix, jcnqqnf.com, DIRECT
 host-suffix, jcodecraeer.com, DIRECT
 host-suffix, jcorv.org, DIRECT
 host-suffix, jcpeixun.com, DIRECT
-host-suffix, jcpesz.com, DIRECT
+host-suffix, jsshuntai.com, DIRECT
 host-suffix, jcqzw.com, DIRECT
 host-suffix, jcrb.com, DIRECT
 host-suffix, jcrcw.com, DIRECT
@@ -55538,9 +55538,9 @@ host-suffix, jsshichuang.com, DIRECT
 host-suffix, jsshow.net, DIRECT
 host-suffix, jsshrzx.com, DIRECT
 host-suffix, jsshuangxin.com, DIRECT
-host-suffix, lianqi.net, DIRECT
+host-suffix, jcpesz.com, DIRECT
 host-suffix, 027hpit.com, DIRECT
-host-suffix, cdfanmu.com, DIRECT
+host-suffix, alwaysnb.com, DIRECT
 host-suffix, jssjchyxh.com, DIRECT
 host-suffix, jssjrfw.com, DIRECT
 host-suffix, jssjxgyw.com, DIRECT
@@ -60497,7 +60497,7 @@ host-suffix, lianok.com, DIRECT
 host-suffix, lianouyiyuan.com, DIRECT
 host-suffix, lianpingroup.com, DIRECT
 host-suffix, lianpunet.com, DIRECT
-host-suffix, jsshuntai.com, DIRECT
+host-suffix, lianqi.net, DIRECT
 host-suffix, lianqigong.com, DIRECT
 host-suffix, liansaipiao.com, DIRECT
 host-suffix, lianshang.com, DIRECT
@@ -86842,7 +86842,7 @@ host-suffix, taoxuemiao.com, DIRECT
 host-suffix, taoyaohh.site, DIRECT
 host-suffix, taoyitu.com, DIRECT
 host-suffix, taoyizhu.com, DIRECT
-host-suffix, taoyougou.com, DIRECT
+host-suffix, jssia.org, DIRECT
 host-suffix, taoyuanc.com, DIRECT
 host-suffix, taoyuewenhua.net, DIRECT
 host-suffix, taozg.store, DIRECT
@@ -104883,6 +104883,7 @@ host-suffix, yuano.cc, DIRECT
 host-suffix, yuanpanguoji.com, DIRECT
 host-suffix, yuanqiao.net, DIRECT
 host-suffix, yuanqiao.pw, DIRECT
+host-suffix, yuanqidesk.com, DIRECT
 host-suffix, yuanqilt.com, DIRECT
 host-suffix, yuanqingsh.com, DIRECT
 host-suffix, yuanqisenlin.com, DIRECT
