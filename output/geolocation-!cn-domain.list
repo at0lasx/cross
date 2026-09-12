@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-09-11T01:40:35.386Z
-# Total: 27042 rules
+# Updated: 2026-09-12T01:46:34.921Z
+# Total: 27043 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -823,7 +823,7 @@ host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
 host-suffix, jgoodies.com, DIRECT
-host-suffix, gvt0.com, DIRECT
+host-suffix, cmx.im, DIRECT
 host-suffix, 12diasderegalosdeitunes.pe, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
 host-suffix, 12vpn.com, DIRECT
@@ -6415,7 +6415,7 @@ host-suffix, cms-twdigitalassets.com, DIRECT
 host-suffix, cms.gov, DIRECT
 host-suffix, cmu.edu, DIRECT
 host-suffix, cmule.com, DIRECT
-host-suffix, cmx.im, DIRECT
+host-suffix, jivo.chat, DIRECT
 host-suffix, cn-proxy.com, DIRECT
 host-suffix, yandexgo.com, DIRECT
 host-suffix, yandexcom.net, DIRECT
@@ -11345,7 +11345,7 @@ host-suffix, guysnightlife.com, DIRECT
 host-suffix, gv.com, DIRECT
 host-suffix, gvlib.com, DIRECT
 host-suffix, xn--pssu7ci2j23mp9ny48b.xn--j6w193g, DIRECT
-host-suffix, jivo.chat, DIRECT
+host-suffix, gvt0.com, DIRECT
 host-suffix, gvt1-cn.com, DIRECT
 host-suffix, gvt1.com, DIRECT
 host-suffix, gvt2-cn.com, DIRECT
@@ -11521,7 +11521,7 @@ host-suffix, hboinflight.com, DIRECT
 host-suffix, hbolacontent.net, DIRECT
 host-suffix, hbolaunchpad.com, DIRECT
 host-suffix, hbomailman.com, DIRECT
-host-suffix, jivo.ru, DIRECT
+host-suffix, xn--i2ru8q2qg.com, DIRECT
 host-suffix, hbomax.com, DIRECT
 host-suffix, hbomax.eu, DIRECT
 host-suffix, hbomaxcdn.com, DIRECT
@@ -13098,7 +13098,7 @@ host-suffix, installbuzzsaw.com, DIRECT
 host-suffix, instamgram.com, DIRECT
 host-suffix, instangram.com, DIRECT
 host-suffix, instantfap.com, DIRECT
-host-suffix, instantfapgay.com, DIRECT
+host-suffix, jivo.ru, DIRECT
 host-suffix, instantink.com, DIRECT
 host-suffix, instantssl.com, DIRECT
 host-suffix, instanttelegram.com, DIRECT
@@ -13932,9 +13932,9 @@ host-suffix, jiuse6666.com, DIRECT
 host-suffix, jiuse821.com, DIRECT
 host-suffix, jiuse822.com, DIRECT
 host-suffix, jiuse823.com, DIRECT
-host-suffix, vrsumo.com, DIRECT
+host-suffix, movefreerewards.com, DIRECT
 host-suffix, 12diasderegalosdeitunes.hn, DIRECT
-host-suffix, xn--i2ru8q2qg.com, DIRECT
+host-suffix, instantfapgay.com, DIRECT
 host-suffix, xboxgamepass.com, DIRECT
 host-suffix, xboxab.com, DIRECT
 host-suffix, jivochat.com, DIRECT
@@ -16473,7 +16473,7 @@ host-suffix, move-free.net, DIRECT
 host-suffix, move.com, DIRECT
 host-suffix, moveaws.com, DIRECT
 host-suffix, movefreeoffers.com, DIRECT
-host-suffix, movefreerewards.com, DIRECT
+host-suffix, jivara.global, DIRECT
 host-suffix, movefrees.com, DIRECT
 host-suffix, movements.org, DIRECT
 host-suffix, movenetworks.com, DIRECT
@@ -19780,6 +19780,7 @@ host-suffix, qstatus.com, DIRECT
 host-suffix, qt-project.org, DIRECT
 host-suffix, qt.io, DIRECT
 host-suffix, qtrac.eu, DIRECT
+host-suffix, quakemachinex.com, DIRECT
 host-suffix, qualcomm-email.com, DIRECT
 host-suffix, qualcomm-inc.com, DIRECT
 host-suffix, weknowporn.com, DIRECT
@@ -22518,7 +22519,7 @@ host-suffix, 101xxx.xyz, DIRECT
 host-suffix, target.com, DIRECT
 host-suffix, targetimg1.com, DIRECT
 host-suffix, tarkov.com, DIRECT
-host-suffix, jivara.global, DIRECT
+host-suffix, vrsumo.com, DIRECT
 host-suffix, tasexy.com, DIRECT
 host-suffix, tasexy.top, DIRECT
 host-suffix, vrsmash.com, DIRECT
