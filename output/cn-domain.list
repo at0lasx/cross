@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-09-23T02:00:42.962Z
-# Total: 111030 rules
+# Updated: 2026-09-24T01:49:58.768Z
+# Total: 111031 rules
 host-suffix, alibaba, DIRECT
 host-suffix, yun, DIRECT
 host-suffix, xn--zfr164b, DIRECT
@@ -55,7 +55,7 @@ host-suffix, baidu, DIRECT
 host-suffix, anquan, DIRECT
 host-suffix, alipay, DIRECT
 host-suffix, jsjhtz.com, DIRECT
-host-suffix, rdamicro.com, DIRECT
+host-suffix, 52etf.site, DIRECT
 host-suffix, 027htxt.com, DIRECT
 host-suffix, 027hxzy.com, DIRECT
 host-suffix, 027hy.com, DIRECT
@@ -4900,7 +4900,7 @@ host-suffix, 51g4.com, DIRECT
 host-suffix, 51gaifang.com, DIRECT
 host-suffix, 51gamecard.com, DIRECT
 host-suffix, 51ganjie.com, DIRECT
-host-suffix, 51gaoji.com, DIRECT
+host-suffix, jssjrfw.com, DIRECT
 host-suffix, 51gaoxiao.com, DIRECT
 host-suffix, 51garlic.com, DIRECT
 host-suffix, 51gdrc.com, DIRECT
@@ -5436,7 +5436,7 @@ host-suffix, 52dyy.com, DIRECT
 host-suffix, 52edns.com, DIRECT
 host-suffix, 52edy.com, DIRECT
 host-suffix, 52enku.com, DIRECT
-host-suffix, 52etf.site, DIRECT
+host-suffix, jssjchyxh.com, DIRECT
 host-suffix, 52fangzi.com, DIRECT
 host-suffix, 52fanxing.com, DIRECT
 host-suffix, 52fzwg.com, DIRECT
@@ -16728,7 +16728,7 @@ host-suffix, bookshadow.com, DIRECT
 host-suffix, bookshi.com, DIRECT
 host-suffix, bookshoptw.com, DIRECT
 host-suffix, bookshuku.com, DIRECT
-host-suffix, jssihuan.com, DIRECT
+host-suffix, booksky.cc, DIRECT
 host-suffix, bookskys.com, DIRECT
 host-suffix, booksn.com, DIRECT
 host-suffix, booksos.net, DIRECT
@@ -55542,9 +55542,9 @@ host-suffix, jsshrzx.com, DIRECT
 host-suffix, jsshuangxin.com, DIRECT
 host-suffix, jsshuntai.com, DIRECT
 host-suffix, jssia.org, DIRECT
-host-suffix, booksky.cc, DIRECT
+host-suffix, yinkead.com, DIRECT
 host-suffix, 027hpit.com, DIRECT
-host-suffix, xy3yy.com, DIRECT
+host-suffix, 51gaoji.com, DIRECT
 host-suffix, jssjxgyw.com, DIRECT
 host-suffix, jssks.com, DIRECT
 host-suffix, jssling.com, DIRECT
@@ -76286,7 +76286,7 @@ host-suffix, rd-game.com, DIRECT
 host-suffix, rd351.com, DIRECT
 host-suffix, rdacs.com, DIRECT
 host-suffix, rdadiy.com, DIRECT
-host-suffix, jssjchyxh.com, DIRECT
+host-suffix, rdamicro.com, DIRECT
 host-suffix, rdbuy.com, DIRECT
 host-suffix, rdcnzz.com, DIRECT
 host-suffix, rdcolg.net, DIRECT
@@ -82484,6 +82484,7 @@ host-suffix, sjez.com, DIRECT
 host-suffix, sjf029.com, DIRECT
 host-suffix, sjfcdn.com, DIRECT
 host-suffix, sjfh168.com, DIRECT
+host-suffix, sjfls6.com, DIRECT
 host-suffix, sjfpro.com, DIRECT
 host-suffix, sjfzxm.com, DIRECT
 host-suffix, sjg8.com, DIRECT
@@ -101003,7 +101004,7 @@ host-suffix, xy1758.com, DIRECT
 host-suffix, xy178.com, DIRECT
 host-suffix, xy3000.com, DIRECT
 host-suffix, xy36z.com, DIRECT
-host-suffix, jssjrfw.com, DIRECT
+host-suffix, xy3yy.com, DIRECT
 host-suffix, xy58.net, DIRECT
 host-suffix, xy599.com, DIRECT
 host-suffix, xy980.net, DIRECT
@@ -103063,7 +103064,7 @@ host-suffix, yinjia.com, DIRECT
 host-suffix, yinjiabio.com, DIRECT
 host-suffix, yinjispace.com, DIRECT
 host-suffix, yinka.co, DIRECT
-host-suffix, yinkead.com, DIRECT
+host-suffix, jssihuan.com, DIRECT
 host-suffix, yinlimedia.com, DIRECT
 host-suffix, yinlingshuyuan.com, DIRECT
 host-suffix, yinlvaa.com, DIRECT
