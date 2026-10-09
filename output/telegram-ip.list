@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/telegram.yaml
 # Policy: DIRECT
-# Updated: 2026-10-08T03:11:42.789Z
+# Updated: 2026-10-09T03:17:40.842Z
 # Total: 12 rules
 ip-cidr, 91.105.192.0/23, DIRECT, no-resolve
 ip-cidr, 91.108.4.0/22, DIRECT, no-resolve

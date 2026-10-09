@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-10-08T03:11:42.456Z
-# Total: 27099 rules
+# Updated: 2026-10-09T03:17:40.659Z
+# Total: 27103 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -100,6 +100,8 @@ host, cloudcode-pa.googleapis.com, DIRECT
 host, cloudsync-prod.s3.amazonaws.com, DIRECT
 host, configuration-lb.ls-apple.com.akadns.net, DIRECT
 host, copilot-proxy.githubusercontent.com, DIRECT
+host, copilot-telemetry-service.githubusercontent.com, DIRECT
+host, copilot-telemetry.githubusercontent.com, DIRECT
 host, copilot-workspace.githubnext.com, DIRECT
 host, copilotprodattachments.blob.core.windows.net, DIRECT
 host, crl.microsoft.com, DIRECT
@@ -268,6 +270,8 @@ host, img-prod-cms-rt-microsoft-com.akamaized.net, DIRECT
 host, img-s-msn-com.akamaized.net, DIRECT
 host, impala-media-production.s3.amazonaws.com, DIRECT
 host, imperial.insendi.com, DIRECT
+host, incoming-telemetry.thunderbird.net, DIRECT
+host, incoming.telemetry.mozilla.org, DIRECT
 host, lastfm-img.freetls.fastly.net, DIRECT
 host, lastfm.freetls.fastly.net, DIRECT
 host, lazer.ppy.sh, DIRECT
