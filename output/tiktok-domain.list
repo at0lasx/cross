@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.yaml
 # Policy: DIRECT
-# Updated: 2026-10-09T03:17:38.362Z
+# Updated: 2026-10-10T02:57:26.275Z
 # Total: 37 rules
 host-suffix, bytedapm.com, DIRECT
 host-suffix, muscdn.com, DIRECT
