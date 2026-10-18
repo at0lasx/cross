@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.yaml
 # Policy: DIRECT
-# Updated: 2026-10-17T01:46:34.836Z
-# Total: 130 rules
+# Updated: 2026-10-18T01:44:20.207Z
+# Total: 132 rules
 host, instant.arubanetworks.com, DIRECT
 host, setmeup.arubanetworks.com, DIRECT
 host, asusrouter.com, DIRECT
@@ -10,6 +10,8 @@ host, www.asusrouter.com, DIRECT
 host, oasisauth.h3c.com, DIRECT
 host, routerlogin.com, DIRECT
 host, www.routerlogin.com, DIRECT
+host, localhost.weixin.qq.com, DIRECT
+host, localhost.work.weixin.qq.com, DIRECT
 host, tplogin.cn, DIRECT
 host, miwifi.com, DIRECT
 host, www.miwifi.com, DIRECT

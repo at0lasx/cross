@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-10-17T01:46:34.750Z
-# Total: 27195 rules
+# Updated: 2026-10-18T01:44:20.110Z
+# Total: 27201 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -829,8 +829,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, jiangweiping.com, DIRECT
-host-suffix, nikeplus.org, DIRECT
+host-suffix, jiaoyou8.com, DIRECT
+host-suffix, dirtypornvids.com, DIRECT
 host-suffix, 12diasderegalosdeitunes.pe, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
 host-suffix, 12vpn.com, DIRECT
@@ -2505,7 +2505,7 @@ host-suffix, anime-pictures.net, DIRECT
 host-suffix, anime-tube.pw, DIRECT
 host-suffix, animedao-tv.com, DIRECT
 host-suffix, animegal.net, DIRECT
-host-suffix, animehentaihub.com, DIRECT
+host-suffix, jizzonline.com, DIRECT
 host-suffix, animeidhentai.com, DIRECT
 host-suffix, animepornhd.com, DIRECT
 host-suffix, animesex.me, DIRECT
@@ -6658,7 +6658,7 @@ host-suffix, coolsexnew.com, DIRECT
 host-suffix, coolstuffinc.com, DIRECT
 host-suffix, coomer.party, DIRECT
 host-suffix, coomer.st, DIRECT
-host-suffix, jizzle.com, DIRECT
+host-suffix, coomer.su, DIRECT
 host-suffix, coova.com, DIRECT
 host-suffix, coova.net, DIRECT
 host-suffix, coova.org, DIRECT
@@ -6887,6 +6887,7 @@ host-suffix, cursor-cdn.com, DIRECT
 host-suffix, cursor.com, DIRECT
 host-suffix, cursor.sh, DIRECT
 host-suffix, cursorapi.com, DIRECT
+host-suffix, cursorvm.com, DIRECT
 host-suffix, curve.fi, DIRECT
 host-suffix, curvefish.com, DIRECT
 host-suffix, curvybbwwives.com, DIRECT
@@ -7555,7 +7556,7 @@ host-suffix, dirtyflix.com, DIRECT
 host-suffix, dirtyhomefuck.com, DIRECT
 host-suffix, dirtyleague.com, DIRECT
 host-suffix, dirtyonline.com, DIRECT
-host-suffix, dirtypornvids.com, DIRECT
+host-suffix, jjgirls.com, DIRECT
 host-suffix, dirtyscat.org, DIRECT
 host-suffix, dirtyshack.com, DIRECT
 host-suffix, dirtyship.com, DIRECT
@@ -12079,7 +12080,7 @@ host-suffix, hongkongdollvideo.org, DIRECT
 host-suffix, hongkongfp.com, DIRECT
 host-suffix, xn--e1aigb.xn--p1ai, DIRECT
 host-suffix, hongzhi.li, DIRECT
-host-suffix, honkaiimpact3.com, DIRECT
+host-suffix, jjsuo.sbs, DIRECT
 host-suffix, honkaistarrail.com, DIRECT
 host-suffix, honnaka.jp, DIRECT
 host-suffix, honven.xyz, DIRECT
@@ -13976,10 +13977,10 @@ host-suffix, jgoodies.com, DIRECT
 host-suffix, jhelab.org, DIRECT
 host-suffix, jhxl.org, DIRECT
 host-suffix, jhzyw.xyz, DIRECT
-host-suffix, 000webhost.com, DIRECT
+host-suffix, jiangweiping.com, DIRECT
 host-suffix, jiaochuanba25.buzz, DIRECT
 host-suffix, jiaochuanba26.buzz, DIRECT
-host-suffix, jiaoyou8.com, DIRECT
+host-suffix, 000webhost.com, DIRECT
 host-suffix, jiayoulu.com, DIRECT
 host-suffix, jibemobile.com, DIRECT
 host-suffix, xboxone.com, DIRECT
@@ -14011,12 +14012,12 @@ host-suffix, jivara.global, DIRECT
 host-suffix, jiyou520.com, DIRECT
 host-suffix, xboxlive.com, DIRECT
 host-suffix, jizzboom.com, DIRECT
-host-suffix, meitula.net, DIRECT
+host-suffix, jizzbunker.com, DIRECT
+host-suffix, jizzhut.com, DIRECT
+host-suffix, jizzle.com, DIRECT
+host-suffix, animehentaihub.com, DIRECT
 host-suffix, 12diasderegalosdeitunes.hn, DIRECT
-host-suffix, coomer.su, DIRECT
-host-suffix, jizzonline.com, DIRECT
-host-suffix, jjgirls.com, DIRECT
-host-suffix, jjsuo.sbs, DIRECT
+host-suffix, honkaiimpact3.com, DIRECT
 host-suffix, jkb.cc, DIRECT
 host-suffix, jkbeats.com, DIRECT
 host-suffix, jkf.net, DIRECT
@@ -15664,7 +15665,7 @@ host-suffix, megurineluka.com, DIRECT
 host-suffix, meguso.com, DIRECT
 host-suffix, meijinsen.jp, DIRECT
 host-suffix, meilleurpornos.com, DIRECT
-host-suffix, jizzbunker.com, DIRECT
+host-suffix, meitula.net, DIRECT
 host-suffix, meizhong.blog, DIRECT
 host-suffix, meizhong.report, DIRECT
 host-suffix, melon.com, DIRECT
@@ -17471,7 +17472,7 @@ host-suffix, nikeoutletstore.com, DIRECT
 host-suffix, nikeoutletstores.com, DIRECT
 host-suffix, nikepioneer.com, DIRECT
 host-suffix, nikeplus.com, DIRECT
-host-suffix, jizzhut.com, DIRECT
+host-suffix, nikeplus.org, DIRECT
 host-suffix, nikepress.com, DIRECT
 host-suffix, nikeprice.com, DIRECT
 host-suffix, nikeproduct.com, DIRECT
@@ -18199,6 +18200,7 @@ host-suffix, op7979.com, DIRECT
 host-suffix, opac-project.eu, DIRECT
 host-suffix, wholefoodsmarket.com, DIRECT
 host-suffix, openai.com, DIRECT
+host-suffix, openai.org, DIRECT
 host-suffix, openamt.com, DIRECT
 host-suffix, openapiplatform.com, DIRECT
 host-suffix, openapiservice.com, DIRECT
@@ -20836,6 +20838,7 @@ host-suffix, schwab.com, DIRECT
 host-suffix, wbtek.ru, DIRECT
 host-suffix, wbstatic.ru, DIRECT
 host-suffix, schwabassetmanagement.com, DIRECT
+host-suffix, schwabcdn.com, DIRECT
 host-suffix, schwabplan.com, DIRECT
 host-suffix, sci-hub.ee, DIRECT
 host-suffix, wbstatic.net, DIRECT
@@ -23189,6 +23192,8 @@ host-suffix, vpn4all.com, DIRECT
 host-suffix, timestalks.com, DIRECT
 host-suffix, timeweb.cloud, DIRECT
 host-suffix, timeweb.com, DIRECT
+host-suffix, timeweb.tech, DIRECT
+host-suffix, timewebcloud.kz, DIRECT
 host-suffix, timi1.me, DIRECT
 host-suffix, timo0.com, DIRECT
 host-suffix, timtales.com, DIRECT
@@ -23766,6 +23771,7 @@ host-suffix, typekit.com, DIRECT
 host-suffix, typekit.net, DIRECT
 host-suffix, typenetwork.com, DIRECT
 host-suffix, typepad.com, DIRECT
+host-suffix, typesafe.ai, DIRECT
 host-suffix, typeset.io, DIRECT
 host-suffix, typesquare.com, DIRECT
 host-suffix, typography.com, DIRECT
