@@ -1,7 +1,7 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-10-19T02:01:24.199Z
-# Total: 27213 rules
+# Updated: 2026-10-20T02:18:33.445Z
+# Total: 27218 rules
 host, 1password.drift.click, DIRECT
 host, 3dns-1.adobe.com, DIRECT
 host, 3dns-2.adobe.com, DIRECT
@@ -274,6 +274,8 @@ host, impala-media-production.s3.amazonaws.com, DIRECT
 host, imperial.insendi.com, DIRECT
 host, incoming-telemetry.thunderbird.net, DIRECT
 host, incoming.telemetry.mozilla.org, DIRECT
+host, kp-config-smart-tv.akamaized.net, DIRECT
+host, kp-configs-smart-tv.s3.eu-central-1.amazonaws.com, DIRECT
 host, lastfm-img.freetls.fastly.net, DIRECT
 host, lastfm.freetls.fastly.net, DIRECT
 host, lazer.ppy.sh, DIRECT
@@ -831,8 +833,8 @@ host-suffix, aws, DIRECT
 host-suffix, apple, DIRECT
 host-suffix, android, DIRECT
 host-suffix, amazon, DIRECT
-host-suffix, jiangweiping.com, DIRECT
-host-suffix, xxxvirtualworld.com, DIRECT
+host-suffix, jiaochuanba26.buzz, DIRECT
+host-suffix, jm98.cc, DIRECT
 host-suffix, 12diasderegalosdeitunes.pe, DIRECT
 host-suffix, 12joursdecadeauxdeitunes.com, DIRECT
 host-suffix, 12vpn.com, DIRECT
@@ -4523,13 +4525,13 @@ host-suffix, youtube.la, DIRECT
 host-suffix, youtube.kz, DIRECT
 host-suffix, youtube.kr, DIRECT
 host-suffix, blog.jp, DIRECT
+host-suffix, jjgirls.com, DIRECT
 host-suffix, youtube.jp, DIRECT
 host-suffix, youtube.jo, DIRECT
 host-suffix, youtube.it, DIRECT
 host-suffix, youtube.is, DIRECT
 host-suffix, youtube.iq, DIRECT
 host-suffix, youtube.in, DIRECT
-host-suffix, youtube.ie, DIRECT
 host-suffix, blogblog.com, DIRECT
 host-suffix, blogcatalog.com, DIRECT
 host-suffix, blogcity.me, DIRECT
@@ -4552,14 +4554,15 @@ host-suffix, blogspot.cat, DIRECT
 host-suffix, blogspot.cf, DIRECT
 host-suffix, blogspot.ch, DIRECT
 host-suffix, blogspot.cl, DIRECT
+host-suffix, youtube.ie, DIRECT
 host-suffix, youtube.hu, DIRECT
 host-suffix, youtube.hr, DIRECT
 host-suffix, youtube.hk, DIRECT
 host-suffix, youtube.gt, DIRECT
 host-suffix, youtube.gr, DIRECT
 host-suffix, youtube.ge, DIRECT
-host-suffix, youtube.fr, DIRECT
 host-suffix, blogspot.com, DIRECT
+host-suffix, youtube.fr, DIRECT
 host-suffix, youtube.fi, DIRECT
 host-suffix, youtube.es, DIRECT
 host-suffix, youtube.ee, DIRECT
@@ -4572,7 +4575,6 @@ host-suffix, youtube.co, DIRECT
 host-suffix, youtube.cl, DIRECT
 host-suffix, youtube.ch, DIRECT
 host-suffix, youtube.cat, DIRECT
-host-suffix, youtube.ca, DIRECT
 host-suffix, blogspot.cv, DIRECT
 host-suffix, blogspot.cz, DIRECT
 host-suffix, blogspot.de, DIRECT
@@ -4617,11 +4619,11 @@ host-suffix, blogspot.vn, DIRECT
 host-suffix, blogtd.org, DIRECT
 host-suffix, blogterest.net, DIRECT
 host-suffix, bloodshed.net, DIRECT
+host-suffix, youtube.ca, DIRECT
 host-suffix, youtube.by, DIRECT
 host-suffix, youtube.bo, DIRECT
-host-suffix, youtube.bh, DIRECT
 host-suffix, bloomberg.com, DIRECT
-host-suffix, youtube.bg, DIRECT
+host-suffix, youtube.bh, DIRECT
 host-suffix, bloomberg.de, DIRECT
 host-suffix, bloomberg.fm, DIRECT
 host-suffix, bloomberg.tv, DIRECT
@@ -4689,7 +4691,7 @@ host-suffix, bmi.ir, DIRECT
 host-suffix, bmia.org, DIRECT
 host-suffix, bmj.com, DIRECT
 host-suffix, bml.info, DIRECT
-host-suffix, youtube.be, DIRECT
+host-suffix, youtube.bg, DIRECT
 host-suffix, bmw-abudhabi.com, DIRECT
 host-suffix, bmw-adventskalender.com, DIRECT
 host-suffix, bmw-albania.com, DIRECT
@@ -4712,16 +4714,16 @@ host-suffix, bmw-connecteddrive.be, DIRECT
 host-suffix, bmw-connecteddrive.bg, DIRECT
 host-suffix, bmw-connecteddrive.ca, DIRECT
 host-suffix, bmw-connecteddrive.ch, DIRECT
+host-suffix, youtube.be, DIRECT
 host-suffix, youtube.ba, DIRECT
 host-suffix, youtube.az, DIRECT
-host-suffix, youtube.at, DIRECT
 host-suffix, bmw-connecteddrive.com, DIRECT
+host-suffix, youtube.at, DIRECT
 host-suffix, youtube.am, DIRECT
 host-suffix, youtube.al, DIRECT
 host-suffix, youtube.ae, DIRECT
 host-suffix, youtube-nocookie.com, DIRECT
 host-suffix, 02weqj32.com, DIRECT
-host-suffix, youtu.be, DIRECT
 host-suffix, bmw-connecteddrive.cz, DIRECT
 host-suffix, bmw-connecteddrive.de, DIRECT
 host-suffix, bmw-connecteddrive.dk, DIRECT
@@ -4753,7 +4755,7 @@ host-suffix, bmw-connecteddrive.sk, DIRECT
 host-suffix, bmw-connecteddrive.tw, DIRECT
 host-suffix, bmw-corporate-sales.com, DIRECT
 host-suffix, bmw-diplomatic-sales.com, DIRECT
-host-suffix, youtrannytube.com, DIRECT
+host-suffix, youtu.be, DIRECT
 host-suffix, bmw-drivingexperience.com, DIRECT
 host-suffix, bmw-dubai.com, DIRECT
 host-suffix, bmw-eg.com, DIRECT
@@ -4798,13 +4800,14 @@ host-suffix, bmw-motorrad.ca, DIRECT
 host-suffix, bmw-motorrad.ch, DIRECT
 host-suffix, bmw-motorrad.cl, DIRECT
 host-suffix, bmw-motorrad.co, DIRECT
+host-suffix, youtrannytube.com, DIRECT
 host-suffix, youtrack.cloud, DIRECT
 host-suffix, youskbe.com, DIRECT
 host-suffix, yousendit.com, DIRECT
 host-suffix, yourxxxvideos.pro, DIRECT
 host-suffix, yourwifemymeat.com, DIRECT
-host-suffix, yourvserver.net, DIRECT
 host-suffix, bmw-motorrad.com, DIRECT
+host-suffix, yourvserver.net, DIRECT
 host-suffix, yourvoyeurvideos.com, DIRECT
 host-suffix, yourupskirt.com, DIRECT
 host-suffix, yourporngod.com, DIRECT
@@ -4814,7 +4817,6 @@ host-suffix, yourpelvicexam.com, DIRECT
 host-suffix, yourmonsterbeats.com, DIRECT
 host-suffix, yourmomsgotbigtits.com, DIRECT
 host-suffix, yourmomlovesanal.com, DIRECT
-host-suffix, yourlust.com, DIRECT
 host-suffix, bmw-motorrad.cr, DIRECT
 host-suffix, bmw-motorrad.cz, DIRECT
 host-suffix, bmw-motorrad.de, DIRECT
@@ -4858,7 +4860,7 @@ host-suffix, bmw-oman.com, DIRECT
 host-suffix, bmw-ottawa.ca, DIRECT
 host-suffix, bmw-pakistan.com, DIRECT
 host-suffix, bmw-plant-munich.com, DIRECT
-host-suffix, yourlisten.com, DIRECT
+host-suffix, yourlust.com, DIRECT
 host-suffix, bmw-powertrain.com, DIRECT
 host-suffix, bmw-product-highlights.com, DIRECT
 host-suffix, bmw-qatar.com, DIRECT
@@ -4899,6 +4901,7 @@ host-suffix, bmw.ca, DIRECT
 host-suffix, bmw.cc, DIRECT
 host-suffix, bmw.ch, DIRECT
 host-suffix, bmw.cl, DIRECT
+host-suffix, yourlisten.com, DIRECT
 host-suffix, yourgynexam.com, DIRECT
 host-suffix, yourfreeporn.tv, DIRECT
 host-suffix, yourflashporn.com, DIRECT
@@ -4909,8 +4912,8 @@ host-suffix, yourdirtymind.com, DIRECT
 host-suffix, yourdailypornvideos.ws, DIRECT
 host-suffix, yourbrain.com, DIRECT
 host-suffix, yourassbig.com, DIRECT
-host-suffix, youramateurporn.com, DIRECT
 host-suffix, bmw.com, DIRECT
+host-suffix, youramateurporn.com, DIRECT
 host-suffix, your-storageshare.de, DIRECT
 host-suffix, your-storagebox.de, DIRECT
 host-suffix, your-server.de, DIRECT
@@ -4940,7 +4943,6 @@ host-suffix, younger19.com, DIRECT
 host-suffix, youngamateursporn.com, DIRECT
 host-suffix, young-xxx.net, DIRECT
 host-suffix, young-webcam.net, DIRECT
-host-suffix, young-amateur-movies.com, DIRECT
 host-suffix, bmw.cw, DIRECT
 host-suffix, bmw.cz, DIRECT
 host-suffix, bmw.de, DIRECT
@@ -5046,10 +5048,10 @@ host-suffix, bmwmc.net, DIRECT
 host-suffix, bmwmontreal.ca, DIRECT
 host-suffix, bmwmotorcycles.com, DIRECT
 host-suffix, bmwmotorcycleusa.com, DIRECT
+host-suffix, young-amateur-movies.com, DIRECT
 host-suffix, youmind.site, DIRECT
 host-suffix, youmind.com, DIRECT
 host-suffix, youmind.ai, DIRECT
-host-suffix, youmaker.com, DIRECT
 host-suffix, bmwmotorradhk.com, DIRECT
 host-suffix, bmwmotorshowblog.com, DIRECT
 host-suffix, bmwmotorsport.com, DIRECT
@@ -5091,7 +5093,7 @@ host-suffix, bnappweb.black, DIRECT
 host-suffix, bnbchain.org, DIRECT
 host-suffix, bnbstatic.com, DIRECT
 host-suffix, bnef.com, DIRECT
-host-suffix, youlucky.com, DIRECT
+host-suffix, youmaker.com, DIRECT
 host-suffix, bnn.co, DIRECT
 host-suffix, bnrmetal.com, DIRECT
 host-suffix, bntrace.com, DIRECT
@@ -5106,10 +5108,10 @@ host-suffix, boc.ru, DIRECT
 host-suffix, bocici.buzz, DIRECT
 host-suffix, bod.asia, DIRECT
 host-suffix, bodgirls.com, DIRECT
-host-suffix, youla.ru, DIRECT
+host-suffix, youlucky.com, DIRECT
 host-suffix, bodyfluids-jav.com, DIRECT
 host-suffix, bohemia.net, DIRECT
-host-suffix, youla.io, DIRECT
+host-suffix, youla.ru, DIRECT
 host-suffix, bokep.net, DIRECT
 host-suffix, bokepseks.org, DIRECT
 host-suffix, bokepvidz.com, DIRECT
@@ -5129,7 +5131,7 @@ host-suffix, boobstagram.com, DIRECT
 host-suffix, boodigo.com, DIRECT
 host-suffix, boodigogo.com, DIRECT
 host-suffix, book-catalog.ru, DIRECT
-host-suffix, jizzhut.com, DIRECT
+host-suffix, youla.io, DIRECT
 host-suffix, book18.org, DIRECT
 host-suffix, book1917.live, DIRECT
 host-suffix, book4you.org, DIRECT
@@ -8041,7 +8043,7 @@ host-suffix, duckduckco.com, DIRECT
 host-suffix, duckduckco.de, DIRECT
 host-suffix, duckduckgo.ca, DIRECT
 host-suffix, duckduckgo.co, DIRECT
-host-suffix, jizzle.com, DIRECT
+host-suffix, xxxvirtualworld.com, DIRECT
 host-suffix, duckduckgo.com, DIRECT
 host-suffix, xxxvidso.com, DIRECT
 host-suffix, xxxvidos.vip, DIRECT
@@ -8691,7 +8693,7 @@ host-suffix, xxxfiles.com, DIRECT
 host-suffix, xxxfile.org, DIRECT
 host-suffix, epochtimes.com, DIRECT
 host-suffix, xxxengine.net, DIRECT
-host-suffix, xxxdinotube.com, DIRECT
+host-suffix, jizzle.com, DIRECT
 host-suffix, xxxdesi.cc, DIRECT
 host-suffix, xxxdan.com, DIRECT
 host-suffix, xxxcomics.org, DIRECT
@@ -13986,9 +13988,9 @@ host-suffix, jgoodies.com, DIRECT
 host-suffix, jhelab.org, DIRECT
 host-suffix, jhxl.org, DIRECT
 host-suffix, jhzyw.xyz, DIRECT
-host-suffix, 000webhost.com, DIRECT
+host-suffix, jiangweiping.com, DIRECT
 host-suffix, jiaochuanba25.buzz, DIRECT
-host-suffix, jiaochuanba26.buzz, DIRECT
+host-suffix, 000webhost.com, DIRECT
 host-suffix, jiaoyou8.com, DIRECT
 host-suffix, jiayoulu.com, DIRECT
 host-suffix, jibemobile.com, DIRECT
@@ -14021,11 +14023,11 @@ host-suffix, jivara.global, DIRECT
 host-suffix, jiyou520.com, DIRECT
 host-suffix, xboxone.com, DIRECT
 host-suffix, jizzboom.com, DIRECT
-host-suffix, openspec.dev, DIRECT
-host-suffix, xboxone.co, DIRECT
+host-suffix, jizzbunker.com, DIRECT
+host-suffix, jizzhut.com, DIRECT
+host-suffix, xxxdinotube.com, DIRECT
 host-suffix, 12diasderegalosdeitunes.hn, DIRECT
-host-suffix, jizzonline.com, DIRECT
-host-suffix, jjgirls.com, DIRECT
+host-suffix, xboxone.co, DIRECT
 host-suffix, jjsuo.sbs, DIRECT
 host-suffix, jkb.cc, DIRECT
 host-suffix, jkbeats.com, DIRECT
@@ -14042,7 +14044,7 @@ host-suffix, jm18c-bbm.net, DIRECT
 host-suffix, jm18c-uoi.net, DIRECT
 host-suffix, jm365.work, DIRECT
 host-suffix, jm365.xyz, DIRECT
-host-suffix, jm98.cc, DIRECT
+host-suffix, jizzonline.com, DIRECT
 host-suffix, xboxlive.com, DIRECT
 host-suffix, jmapibranch1.cc, DIRECT
 host-suffix, jmapibranch2.cc, DIRECT
@@ -15222,6 +15224,7 @@ host-suffix, magentomobile.com, DIRECT
 host-suffix, magestic.com, DIRECT
 host-suffix, magicalmirai.com, DIRECT
 host-suffix, magicmovies.com, DIRECT
+host-suffix, magnific.com, DIRECT
 host-suffix, mahajantech.com, DIRECT
 host-suffix, mahjongsoul.com, DIRECT
 host-suffix, maidonanews.jp, DIRECT
@@ -16692,6 +16695,7 @@ host-suffix, mt.lv, DIRECT
 host-suffix, mt0011.site, DIRECT
 host-suffix, mtao.fun, DIRECT
 host-suffix, mthruf.com, DIRECT
+host-suffix, mts-link.ru, DIRECT
 host-suffix, mts-ws.net, DIRECT
 host-suffix, mts.ru, DIRECT
 host-suffix, mtsbank.ru, DIRECT
@@ -18241,7 +18245,7 @@ host-suffix, opensea.io, DIRECT
 host-suffix, opensource.guide, DIRECT
 host-suffix, opensourceinsight.dev, DIRECT
 host-suffix, opensourceinsights.dev, DIRECT
-host-suffix, jizzbunker.com, DIRECT
+host-suffix, openspec.dev, DIRECT
 host-suffix, openssl.org, DIRECT
 host-suffix, openstreetmap.com, DIRECT
 host-suffix, openstreetmap.net, DIRECT
@@ -19538,6 +19542,7 @@ host-suffix, postgresql.org, DIRECT
 host-suffix, postimages.org, DIRECT
 host-suffix, postimg.cc, DIRECT
 host-suffix, postini.com, DIRECT
+host-suffix, postman.com, DIRECT
 host-suffix, wemigrate.org, DIRECT
 host-suffix, posty.kr, DIRECT
 host-suffix, postyourgirls.ws, DIRECT
@@ -25802,7 +25807,7 @@ host-suffix, joyobank.co.jp, DIRECT
 host-suffix, jornaldacidadeonline.com.br, DIRECT
 host-suffix, jobmarket.com.hk, DIRECT
 host-suffix, jma.go.jp, DIRECT
-host-suffix, book.com.tw, DIRECT
+host-suffix, blog.martinoei.com, DIRECT
 host-suffix, jiyu-kobo.co.jp, DIRECT
 host-suffix, jiuse.com.co, DIRECT
 host-suffix, jibunbank.co.jp, DIRECT
@@ -26710,6 +26715,7 @@ host-suffix, bossagency.co.uk, DIRECT
 host-suffix, bookwalker.com.tw, DIRECT
 host-suffix, booktopia.com.au, DIRECT
 host-suffix, books.com.tw, DIRECT
+host-suffix, book.com.tw, DIRECT
 host-suffix, boj.or.jp, DIRECT
 host-suffix, bodyandsoul.com.au, DIRECT
 host-suffix, bnext.com.tw, DIRECT
@@ -26766,8 +26772,8 @@ host-suffix, bmw-motorrad.com.my, DIRECT
 host-suffix, bmw-motorrad.com.mx, DIRECT
 host-suffix, bmw-motorrad.com.hr, DIRECT
 host-suffix, bmw-motorrad.com.do, DIRECT
-host-suffix, bmw-motorrad.com.br, DIRECT
 host-suffix, yourtv.com.au, DIRECT
+host-suffix, bmw-motorrad.com.br, DIRECT
 host-suffix, bmw-motorrad.com.au, DIRECT
 host-suffix, bmw-motorrad.com.ar, DIRECT
 host-suffix, bmw-motorrad.co.za, DIRECT
@@ -26795,7 +26801,6 @@ host-suffix, blogspot.com.uy, DIRECT
 host-suffix, blogspot.com.tr, DIRECT
 host-suffix, blogspot.com.ng, DIRECT
 host-suffix, blogspot.com.mt, DIRECT
-host-suffix, blogspot.com.es, DIRECT
 host-suffix, youtube.co.ae, DIRECT
 host-suffix, youtube.co.at, DIRECT
 host-suffix, youtube.co.cr, DIRECT
@@ -26815,7 +26820,7 @@ host-suffix, youtube.co.uk, DIRECT
 host-suffix, youtube.co.ve, DIRECT
 host-suffix, youtube.co.za, DIRECT
 host-suffix, youtube.co.zw, DIRECT
-host-suffix, blogspot.com.eg, DIRECT
+host-suffix, blogspot.com.es, DIRECT
 host-suffix, youtube.com.ar, DIRECT
 host-suffix, youtube.com.au, DIRECT
 host-suffix, youtube.com.az, DIRECT
@@ -26866,6 +26871,7 @@ host-suffix, youtube.com.tw, DIRECT
 host-suffix, youtube.com.ua, DIRECT
 host-suffix, youtube.com.uy, DIRECT
 host-suffix, youtube.com.ve, DIRECT
+host-suffix, blogspot.com.eg, DIRECT
 host-suffix, blogspot.com.ee, DIRECT
 host-suffix, blogspot.com.cy, DIRECT
 host-suffix, blogspot.com.co, DIRECT
@@ -26886,7 +26892,6 @@ host-suffix, blog.reimu.net, DIRECT
 host-suffix, blog.ranxiang.com, DIRECT
 host-suffix, blog.pentalogic.net, DIRECT
 host-suffix, blog.pathtosharepoint.com, DIRECT
-host-suffix, blog.martinoei.com, DIRECT
 host-suffix, blog.jackjia.com, DIRECT
 host-suffix, blog.fuckgfw233.org, DIRECT
 host-suffix, blog.fizzik.com, DIRECT
