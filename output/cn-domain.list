@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml
 # Policy: DIRECT
-# Updated: 2026-10-23T02:10:57.999Z
-# Total: 110446 rules
+# Updated: 2026-10-24T02:09:49.955Z
+# Total: 110448 rules
 host-suffix, alibaba, DIRECT
 host-suffix, yun, DIRECT
 host-suffix, xn--zfr164b, DIRECT
@@ -54,8 +54,8 @@ host-suffix, citic, DIRECT
 host-suffix, baidu, DIRECT
 host-suffix, anquan, DIRECT
 host-suffix, alipay, DIRECT
-host-suffix, jspatch.com, DIRECT
-host-suffix, hfray.com, DIRECT
+host-suffix, jspcinc.com, DIRECT
+host-suffix, formtalk.net, DIRECT
 host-suffix, 027yx.com, DIRECT
 host-suffix, 027zb.com, DIRECT
 host-suffix, 027zikao.com, DIRECT
@@ -6434,7 +6434,7 @@ host-suffix, 666666.host, DIRECT
 host-suffix, 6666m.vip, DIRECT
 host-suffix, 6666ppt.com, DIRECT
 host-suffix, 6666sa.com, DIRECT
-host-suffix, 6666xsw.com, DIRECT
+host-suffix, jsxdyh.com, DIRECT
 host-suffix, 6668dns.com, DIRECT
 host-suffix, 6669832.com, DIRECT
 host-suffix, 666bos.com, DIRECT
@@ -28976,7 +28976,7 @@ host-suffix, dongguantoday.com, DIRECT
 host-suffix, donghaidl.com, DIRECT
 host-suffix, donghaifunds.com, DIRECT
 host-suffix, donghaileasing.com, DIRECT
-host-suffix, jsxdyh.com, DIRECT
+host-suffix, donghaotest.com, DIRECT
 host-suffix, donghetea.com, DIRECT
 host-suffix, donghongzx.com, DIRECT
 host-suffix, donghuangshanquan.com, DIRECT
@@ -34327,7 +34327,7 @@ host-suffix, form-create.com, DIRECT
 host-suffix, formeasy.cc, DIRECT
 host-suffix, formingcn.com, DIRECT
 host-suffix, formssi.com, DIRECT
-host-suffix, formtalk.net, DIRECT
+host-suffix, jsxdf.com, DIRECT
 host-suffix, fornature.com, DIRECT
 host-suffix, forrealbio.com, DIRECT
 host-suffix, forrelaxing.com, DIRECT
@@ -44442,7 +44442,7 @@ host-suffix, hfplg.com, DIRECT
 host-suffix, hfpx.cc, DIRECT
 host-suffix, hfqgmagnet.com, DIRECT
 host-suffix, hfqinhang.com, DIRECT
-host-suffix, jsxdf.com, DIRECT
+host-suffix, hfray.com, DIRECT
 host-suffix, hfrc.net, DIRECT
 host-suffix, hfrcbc.com, DIRECT
 host-suffix, hfrsggff.com, DIRECT
@@ -55089,9 +55089,9 @@ host-suffix, jsomick.com, DIRECT
 host-suffix, jsonin.com, DIRECT
 host-suffix, jsososo.com, DIRECT
 host-suffix, jspang.com, DIRECT
-host-suffix, 0.zone, DIRECT
+host-suffix, jspatch.com, DIRECT
 host-suffix, jspcgjg.com, DIRECT
-host-suffix, jspcinc.com, DIRECT
+host-suffix, 0.zone, DIRECT
 host-suffix, jspdg.com, DIRECT
 host-suffix, jspeople.com, DIRECT
 host-suffix, jspesz.com, DIRECT
@@ -55250,9 +55250,9 @@ host-suffix, jswyw.com, DIRECT
 host-suffix, jswzjt.com, DIRECT
 host-suffix, jsxbxcl.com, DIRECT
 host-suffix, jsxcra.com, DIRECT
-host-suffix, snail.com, DIRECT
+host-suffix, mweda.com, DIRECT
 host-suffix, 027wcbyy.com, DIRECT
-host-suffix, donghaotest.com, DIRECT
+host-suffix, 6666xsw.com, DIRECT
 host-suffix, jsxfedu.com, DIRECT
 host-suffix, jsxggx.com, DIRECT
 host-suffix, jsxgjt.com, DIRECT
@@ -66268,7 +66268,7 @@ host-suffix, mwclg.com, DIRECT
 host-suffix, mwcloudcdn.com, DIRECT
 host-suffix, mwcloudcdn.info, DIRECT
 host-suffix, mwcname.com, DIRECT
-host-suffix, mweda.com, DIRECT
+host-suffix, jsxcx.com, DIRECT
 host-suffix, mwemp.com, DIRECT
 host-suffix, mwjournalchina.com, DIRECT
 host-suffix, mwkj.net, DIRECT
@@ -82526,7 +82526,7 @@ host-suffix, smzjy.cc, DIRECT
 host-suffix, smzy.com, DIRECT
 host-suffix, sn180.com, DIRECT
 host-suffix, snai.edu, DIRECT
-host-suffix, jsxcx.com, DIRECT
+host-suffix, snail.com, DIRECT
 host-suffix, snail007.com, DIRECT
 host-suffix, snailgame.net, DIRECT
 host-suffix, snailovet.com, DIRECT
@@ -85687,6 +85687,8 @@ host-suffix, sztxsz.com, DIRECT
 host-suffix, szty56.com, DIRECT
 host-suffix, sztz.org, DIRECT
 host-suffix, sztzzs.com, DIRECT
+host-suffix, szu.app, DIRECT
+host-suffix, szu.moe, DIRECT
 host-suffix, szuavia.org, DIRECT
 host-suffix, szudad.com, DIRECT
 host-suffix, szunionlab.com, DIRECT
