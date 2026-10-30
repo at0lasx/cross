@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-voip.yaml
 # Policy: DIRECT
-# Updated: 2026-10-29T03:04:37.210Z
+# Updated: 2026-10-30T03:08:58.438Z
 # Total: 9 rules
 host-suffix, agkn.com, DIRECT
 host-suffix, cohere.com, DIRECT
