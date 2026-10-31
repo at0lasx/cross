@@ -1,7 +1,7 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/tiktok.yaml
 # Policy: DIRECT
-# Updated: 2026-10-30T03:08:58.265Z
-# Total: 37 rules
+# Updated: 2026-10-31T02:55:00.121Z
+# Total: 40 rules
 host-suffix, bytedapm.com, DIRECT
 host-suffix, muscdn.com, DIRECT
 host-suffix, musical.ly, DIRECT
@@ -18,9 +18,12 @@ host-suffix, tiktokeu-cdn.com, DIRECT
 host-suffix, tiktokglobalshopv.com, DIRECT
 host-suffix, tiktokminis.us, DIRECT
 host-suffix, tiktokrow-cdn.com, DIRECT
+host-suffix, tiktokshop.com, DIRECT
+host-suffix, tiktokstaticb.com, DIRECT
 host-suffix, tiktokv.com, DIRECT
 host-suffix, tiktokv.eu, DIRECT
 host-suffix, tiktokv.us, DIRECT
+host-suffix, tiktokvapp.com, DIRECT
 host-suffix, tiktokw.eu, DIRECT
 host-suffix, tiktokw.us, DIRECT
 host-suffix, ttcdn-us.com, DIRECT
