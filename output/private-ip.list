@@ -1,6 +1,6 @@
 # Generated from: https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/private.yaml
 # Policy: DIRECT
-# Updated: 2026-11-08T02:54:06.239Z
+# Updated: 2026-11-09T03:14:20.253Z
 # Total: 28 rules
 ip-cidr, 0.0.0.0/8, DIRECT, no-resolve
 ip-cidr, 10.0.0.0/8, DIRECT, no-resolve
