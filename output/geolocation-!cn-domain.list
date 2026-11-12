@@ -1,6 +1,6 @@
 # Generated from: https://ghfast.top/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/geolocation-!cn.yaml
 # Policy: DIRECT
-# Updated: 2026-11-11T03:22:32.062Z
+# Updated: 2026-11-12T04:32:37.969Z
 # Total: 5 rules
 host, <html>, DIRECT
 host, <body>, DIRECT
